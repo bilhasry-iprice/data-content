@@ -1,0 +1,34 @@
+{
+ "items": [
+   {
+		"title": "11/11",
+		"url": "http://iprice.co.sg/sale/1111",
+		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/1111-sale.jpg"
+   },
+   {
+		"title": "Great Sale Singapore",
+		"url": "http://iprice.sg/coupons/gss-2017/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/gss-2017.jpg"
+   },
+   {
+		"title": "Weekly Exclusives",
+		"url": "http://iprice.sg/coupons/weekly-exclusives/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/exclusive-deals.jpg"
+   },
+   {
+		"title": "Singapore National Day 2017",
+		"url": "http://iprice.sg/coupons/singapore-national-day-2017/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/merdeka-day.jpg"
+   },
+   {
+		"title": "Chinese New Year 2017",
+		"url": "http://iprice.co.sg/coupons/chinese-new-year-2017/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/chinese-new-year.jpg"
+   },
+   {
+   		"title": "Ramadan & Raya 2017",
+   		"url" : "http://iprice.sg/coupons/ramadan-raya/",
+   		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/ramadhan-raya.jpg"
+   }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "items": [
+   {
+    "title": "11/11",
+    "url": "http://ipricethailand.com/sale/1111",
+    "img": "https://bilhasry-iprice.github.io/sale/data/th/image/1111-sale.jpg"
+   },
+   {
+    "title": "คูปองเอ็กซ์คลูซีฟประจำสัปดาห์",
+    "url": "https://ipricethailand.com/coupons/คปองเอกซคลซฟประจำสปดาห/",
+    "img": "https://bilhasry-iprice.github.io/sale/data/th/image/exclusive-deals.jpg"
+   },
+   {
+    "title": "Mother's Day",
+    "url": "https://ipricethailand.com/coupons/mothers-day/",
+    "img": "https://bilhasry-iprice.github.io/sale/data/th/image/mothers-day.jpg"
+   },
+   {
+    "title": "Chinese New Year 2017",
+    "url": "http://ipricethailand.com/coupons/chinese-new-year-2017/",
+    "img": "https://bilhasry-iprice.github.io/sale/data/th/image/chinese-new-year.jpg"
+   }
+ ]
+}  

@@ -1,0 +1,14 @@
+{
+ "items": [
+   {
+		"title": "11/11",
+		"url": "http://iprice.co.hk/sale/1111",
+		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/1111-sale.jpg"
+   },
+   {
+		"title": "Weekly Exclusives",
+		"url": "http://iprice.hk/coupons/weekly-exclusives/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/exclusive-deals.jpg"
+   }
+ ]
+}

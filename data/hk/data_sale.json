@@ -1,0 +1,19 @@
+{
+ "items": [
+   {
+     "title": "11/11 Sale",
+     "url": "http://iprice.hk/sale/1111",
+     "img": "https://bilhasry-iprice.github.io/sale/data/hk/image/1111-sale.jpg"
+   },
+   {
+     "title": "Chinese New Year",
+     "url": "http://iprice.hk/coupons/chinese-new-year-2017/",
+     "img": "https://bilhasry-iprice.github.io/sale/data/hk/image/chinese-new-year.jpg"
+   },
+   {
+     "title": "Weekly Exclusives",
+     "url": "http://iprice.hk/coupons/weekly-exclusives/",
+     "img": "https://bilhasry-iprice.github.io/sale/data/hk/image/exclusive-deals.jpg"
+   }
+ ]
+}
