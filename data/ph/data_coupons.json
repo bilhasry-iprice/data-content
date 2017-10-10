@@ -1,44 +1,28 @@
 {
  "items": [
    {
-		"title": "Grab",
-		"url": "https://iprice.my/coupons/grab/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/grab-my.jpg"
+		"title": "Uber",
+		"url": "https://iprice.ph/coupons/uber/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/uber.jpg"
    },
    {
-		"title": "Shopee",
-		"url": "https://iprice.my/coupons/shopee/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/shopee-my.jpg"
+		"title": "Althea",
+		"url": "https://iprice.ph/coupons/althea/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/althea.jpg"
    },
    {
-		"title": "Zalora",
-		"url": "https://iprice.my/coupons/zalora/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/zalora-my.jpg"
+		"title": "Sephora",
+		"url": "https://iprice.ph/coupons/sephora/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/sephora.jpg"
    },
    {
-		"title": "11street",
-		"url": "https://iprice.my/coupons/11street/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/11street-my.jpg"
-   },
-   {
-		"title": "Grab",
-		"url": "https://iprice.my/coupons/grab/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/grab-my.jpg"
-   },
-   {
-		"title": "Shopee",
-		"url": "https://iprice.my/coupons/shopee/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/shopee-my.jpg"
-   },
-   {
-		"title": "Zalora",
-		"url": "https://iprice.my/coupons/zalora/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/zalora-my.jpg"
-   },
-   {
-		"title": "11street",
-		"url": "https://iprice.my/coupons/11street/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/11street-my.jpg"
+		"title": "Klook",
+		"url": "https://iprice.ph/coupons/klook/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/klook.jpg"
    }
  ]
 }
+
+
+
+
