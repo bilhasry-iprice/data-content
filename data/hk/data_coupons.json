@@ -1,44 +1,25 @@
 {
  "items": [
    {
-		"title": "Grab",
-		"url": "https://iprice.my/coupons/grab/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/grab-my.jpg"
+		"title": "Agoda",
+		"url": "https://iprice.hk/coupons/agoda/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/agoda.jpg"
    },
    {
-		"title": "Shopee",
-		"url": "https://iprice.my/coupons/shopee/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/shopee-my.jpg"
+		"title": "KKDay",
+		"url": "https://iprice.hk/coupons/kkday/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/kkday.jpg"
    },
    {
-		"title": "Zalora",
-		"url": "https://iprice.my/coupons/zalora/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/zalora-my.jpg"
+		"title": "Klook",
+		"url": "https://iprice.hk/coupons/klook/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/klook.jpg"
    },
    {
-		"title": "11street",
-		"url": "https://iprice.my/coupons/11street/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/11street-my.jpg"
-   },
-   {
-		"title": "Grab",
-		"url": "https://iprice.my/coupons/grab/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/grab-my.jpg"
-   },
-   {
-		"title": "Shopee",
-		"url": "https://iprice.my/coupons/shopee/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/shopee-my.jpg"
-   },
-   {
-		"title": "Zalora",
-		"url": "https://iprice.my/coupons/zalora/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/zalora-my.jpg"
-   },
-   {
-		"title": "11street",
-		"url": "https://iprice.my/coupons/11street/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/11street-my.jpg"
+		"title": "Ctrip",
+		"url": "https://iprice.hk/coupons/ctrip/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/ctrip.jpg"
    }
  ]
 }
+
