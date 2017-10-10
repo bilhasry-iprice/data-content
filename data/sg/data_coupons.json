@@ -2,43 +2,27 @@
  "items": [
    {
 		"title": "Grab",
-		"url": "https://iprice.my/coupons/grab/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/grab-my.jpg"
+		"url": "https://iprice.sg/coupons/grab/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/grab.jpg"
    },
    {
-		"title": "Shopee",
-		"url": "https://iprice.my/coupons/shopee/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/shopee-my.jpg"
+		"title": "Honestbee",
+		"url": "https://iprice.sg/coupons/honestbee/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/honestbee.jpg"
    },
    {
-		"title": "Zalora",
-		"url": "https://iprice.my/coupons/zalora/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/zalora-my.jpg"
+		"title": "Lazada",
+		"url": "https://iprice.sg/coupons/lazada/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/lazada-sg.jpg"
    },
    {
-		"title": "11street",
-		"url": "https://iprice.my/coupons/11street/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/11street-my.jpg"
-   },
-   {
-		"title": "Grab",
-		"url": "https://iprice.my/coupons/grab/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/grab-my.jpg"
-   },
-   {
-		"title": "Shopee",
-		"url": "https://iprice.my/coupons/shopee/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/shopee-my.jpg"
-   },
-   {
-		"title": "Zalora",
-		"url": "https://iprice.my/coupons/zalora/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/zalora-my.jpg"
-   },
-   {
-		"title": "11street",
-		"url": "https://iprice.my/coupons/11street/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/11street-my.jpg"
+		"title": "KKDay",
+		"url": "https://iprice.sg/coupons/kkday/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/kkday.jpg"
    }
  ]
 }
+
+
+
+
