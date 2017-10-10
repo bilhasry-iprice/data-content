@@ -1,49 +1,49 @@
 {
  "items": [
    {
-		"title": "Uber",
-		"url": "https://iprice.my/coupons/grab/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/grab-my.jpg"
-   },
-   {
-		"title": "Lazada",
-		"url": "https://iprice.my/coupons/shopee/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/shopee-my.jpg"
-   },
-   {
-		"title": "Zalora",
-		"url": "https://iprice.my/coupons/zalora/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/zalora-my.jpg"
-   },
-   {
-		"title": "11street",
-		"url": "https://iprice.my/coupons/11street/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/11street-my.jpg"
-   },
-   {
 		"title": "Grab",
-		"url": "https://iprice.my/coupons/grab/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/grab-my.jpg"
+		"url": "https://iprice.co.id/coupons/grab/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/uber.jpg"
    },
    {
-		"title": "Shopee",
-		"url": "https://iprice.my/coupons/shopee/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/shopee-my.jpg"
+		"title": "Althea",
+		"url": "https://iprice.co.id/coupons/althea/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/airasia.jpg"
    },
    {
 		"title": "Zalora",
-		"url": "https://iprice.my/coupons/zalora/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/zalora-my.jpg"
+		"url": "https://iprice.co.id/coupons/zalora/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/lazada-my.jpg"
    },
    {
-		"title": "11street",
-		"url": "https://iprice.my/coupons/11street/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/11street-my.jpg"
+		"title": "MatahariMall",
+		"url": "https://iprice.co.id/coupons/mataharimall/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/malindo-air.jpg"
+   },
+   {
+		"title": "Tokopedia",
+		"url": "https://iprice.co.id/coupons/tokopedia/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/fave_logo.jpg"
+   },
+   {
+		"title": "Traveloka",
+		"url": "https://iprice.co.id/coupons/traveloka/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/airbnb.jpg"
+   },
+   {
+		"title": "Blibli",
+		"url": "https://iprice.co.id/coupons/blibli/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/malaysia-airlines.jpg"
+   },
+   {
+		"title": "Pegipegi",
+		"url": "https://iprice.co.id/coupons/pegipegi/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/groupon.jpg"
    }
  ]
 }
-
-Uber	
-Lazada	https://iprice.my/coupons/lazada/
-Fave	https://iprice.my/coupons/fave/
-Malaysian Airlines	https://iprice.my/coupons/malaysia-airlines/
+	
+	
+	
+	
+	
