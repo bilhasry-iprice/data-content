@@ -2,21 +2,26 @@
 	"items": [
 		{
 			"values" : [
-				{
-					"title": "11/11",
-					"url": "http://iprice.my/sale/1111",
-					"img": "https://bilhasry-iprice.github.io/sale/data/my/image/1111-sale.jpg"
-			   },
-			   {
-					"title": "MyCyberSale",
-					"url": "http://iprice.my/coupons/mycybersale/",
-					"img": "https://bilhasry-iprice.github.io/sale/data/my/image/mycybersale.jpg"
-			   },
-			   {
-					"title": "Weekly Exclusives",
-					"url": "http://iprice.my/coupons/weekly-exclusives/",
-					"img": "https://bilhasry-iprice.github.io/sale/data/my/image/exclusive-deals.jpg"
-			   }
+				   {
+						"title": "Uber",
+						"url": "https://iprice.my/coupons/uber/",
+						"img": "https://bilhasry-iprice.github.io/sale/data/id/image/chinese-new-year.jpg"
+				   },
+				   {
+				   		"title": "Lazada",
+				   		"url" : "https://iprice.my/coupons/lazada/",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/ramadhan-idul-fitri.jpg"
+				   },
+				   {
+				   		"title": "Fave",
+				   		"url" : "https://iprice.my/coupons/fave/",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/ramadhan-idul-fitri.jpg"
+				   },
+				   {
+				   		"title": "Malaysia Airlines",
+				   		"url" : "https://iprice.my/coupons/malaysia-airlines/",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/ramadhan-idul-fitri.jpg"
+				   }
 			]	
 		}
  ]
