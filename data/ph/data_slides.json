@@ -3,24 +3,28 @@
 		{
 			"values" : [
 				   {
-						"title": "Uber",
-						"url": "https://iprice.my/coupons/uber/",
-						"img": "https://bilhasry-iprice.github.io/sale/data/id/image/chinese-new-year.jpg"
+						"title": "Grab",
+						"intro_text" : "Enjoy P900 OFF your Grab rides", 
+						"url": "https://iprice.ph/coupons/grab/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+						"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/grab.jpg"
 				   },
 				   {
 				   		"title": "Lazada",
-				   		"url" : "https://iprice.my/coupons/lazada/",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/ramadhan-idul-fitri.jpg"
+				   		"intro_text" : "Up to 12% OFF your favorite stores", 
+				   		"url" : "https://iprice.ph/coupons/lazada/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/lazada.jpg"
 				   },
 				   {
-				   		"title": "Fave",
-				   		"url" : "https://iprice.my/coupons/fave/",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/ramadhan-idul-fitri.jpg"
+				   		"title": "Zalora",
+				   		"intro_text" : "Extra 13% OFF storewide",
+				   		"url" : "https://iprice.ph/coupons/zalora/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/zalora.jpg"
 				   },
 				   {
-				   		"title": "Malaysia Airlines",
-				   		"url" : "https://iprice.my/coupons/malaysia-airlines/",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/ramadhan-idul-fitri.jpg"
+				   		"title": "Agoda",
+				   		"intro_text" : "Save 60% OFF your trip with Agoda",
+				   		"url" : "https://iprice.ph/coupons/agoda/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/agoda.jpg"
 				   }
 			]	
 		}

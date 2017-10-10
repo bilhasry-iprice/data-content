@@ -3,24 +3,28 @@
 		{
 			"values" : [
 				   {
-						"title": "Uber",
-						"url": "https://iprice.my/coupons/uber/",
-						"img": "https://bilhasry-iprice.github.io/sale/data/id/image/chinese-new-year.jpg"
+						"title": "Lazada",
+						"intro_text" : "Diskon eksklusif 12% untuk semua produk", 
+						"url": "https://iprice.co.id/coupons/lazada/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+						"img": "https://bilhasry-iprice.github.io/sale/data/id/image/lazada.jpg"
 				   },
 				   {
-				   		"title": "Lazada",
-				   		"url" : "https://iprice.my/coupons/lazada/",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/ramadhan-idul-fitri.jpg"
+				   		"title": "Uber",
+				   		"intro_text" : "Gratis 10 ribu untuk tiga kali perjalanan", 
+				   		"url" : "https://iprice.co.id/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/uber.jpg"
 				   },
 				   {
-				   		"title": "Fave",
-				   		"url" : "https://iprice.my/coupons/fave/",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/ramadhan-idul-fitri.jpg"
+				   		"title": "Bukalapak",
+				   		"intro_text" : "Nikmati promo Buy 1 Get 1 dari Bukalapak",
+				   		"url" : "https://iprice.co.id/coupons/bukalapak/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/bukalapak.jpg"
 				   },
 				   {
-				   		"title": "Malaysia Airlines",
-				   		"url" : "https://iprice.my/coupons/malaysia-airlines/",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/ramadhan-idul-fitri.jpg"
+				   		"title": "Shopee",
+				   		"intro_text" : "Promo Shopee free ongkir ke seluruh Indonesia!",
+				   		"url" : "https://iprice.co.id/coupons/shopee/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/shopee.jpg"
 				   }
 			]	
 		}

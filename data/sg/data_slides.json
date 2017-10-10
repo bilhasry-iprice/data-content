@@ -3,26 +3,30 @@
 		{
 			"values" : [
 				   {
-						"title": "Uber",
-						"url": "https://iprice.my/coupons/uber/",
-						"img": "https://bilhasry-iprice.github.io/sale/data/id/image/chinese-new-year.jpg"
+						"title": "UberEATS",
+						"intro_text" : "Take SG$12 Discount on Your First Meal", 
+						"url": "https://iprice.sg/coupons/ubereats/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+						"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/ubereats.jpg"
 				   },
 				   {
-				   		"title": "Lazada",
-				   		"url" : "https://iprice.my/coupons/lazada/",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/ramadhan-idul-fitri.jpg"
+				   		"title": "Uber",
+				   		"intro_text" : "Get 30% OFF for 3 Rides", 
+				   		"url" : "https://iprice.sg/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/uber.jpg"
 				   },
 				   {
-				   		"title": "Fave",
-				   		"url" : "https://iprice.my/coupons/fave/",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/ramadhan-idul-fitri.jpg"
+				   		"title": "Qoo10",
+				   		"intro_text" : "Enjoy FREE $20 Qoo10 coupon every Wednesday",
+				   		"url" : "https://iprice.sg/coupons/qoo10/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/qoo10.jpg"
 				   },
 				   {
-				   		"title": "Malaysia Airlines",
-				   		"url" : "https://iprice.my/coupons/malaysia-airlines/",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/ramadhan-idul-fitri.jpg"
+				   		"title": "Shopee",
+				   		"intro_text" : "Enjoy $7 off with min. spend of $15",
+				   		"url" : "https://iprice.sg/coupons/shopee/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/shopee.jpg"
 				   }
 			]	
 		}
  ]
-}
+}	

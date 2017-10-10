@@ -1,23 +1,43 @@
 {
  "items": [
    {
+		"title": "Hotels.com",
+		"url": "https://iprice.ph/coupons/hotelscom/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/hotels.jpg"
+   },
+   {
+		"title": "Goods",
+		"url": "https://iprice.ph/coupons/goods/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/goods.jpg"
+   },
+   {
+		"title": "KKDay",
+		"url": "https://iprice.ph/coupons/kkday/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/kkday.jpg"
+   },
+   {
+		"title": "Sephora",
+		"url": "https://iprice.ph/coupons/sephora/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/sephora.jpg"
+   },
+   {
 		"title": "Uber",
-		"url": "https://iprice.ph/coupons/uber/",
+		"url": "https://iprice.ph/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
 		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/uber.jpg"
    },
    {
 		"title": "Althea",
-		"url": "https://iprice.ph/coupons/althea/",
+		"url": "https://iprice.ph/coupons/althea/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
 		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/althea.jpg"
    },
    {
-		"title": "Sephora",
-		"url": "https://iprice.ph/coupons/sephora/",
-		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/sephora.jpg"
+		"title": "Airbnb",
+		"url": "https://iprice.ph/coupons/airbnb/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/airbnb.jpg"
    },
    {
 		"title": "Klook",
-		"url": "https://iprice.ph/coupons/klook/",
+		"url": "https://iprice.ph/coupons/klook/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
 		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/klook.jpg"
    }
  ]

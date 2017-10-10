@@ -1,43 +1,43 @@
 {
  "items": [
    {
-		"title": "Grab",
-		"url": "https://iprice.co.id/coupons/grab/",
+		"title": "Blanja",
+		"url": "https://iprice.co.id/coupons/blanja/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
 		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/grab.jpg"
    },
    {
-		"title": "Althea",
-		"url": "https://iprice.co.id/coupons/althea/",
+		"title": "Tokopedia",
+		"url": "https://iprice.co.id/coupons/tokopedia/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
 		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/althea.jpg"
    },
    {
 		"title": "Zalora",
-		"url": "https://iprice.co.id/coupons/zalora/",
+		"url": "https://iprice.co.id/coupons/zalora/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
 		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/zalora.jpg"
    },
    {
-		"title": "MatahariMall",
-		"url": "https://iprice.co.id/coupons/mataharimall/",
+		"title": "Blibli",
+		"url": "https://iprice.co.id/coupons/blibli/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
 		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/mataharimall.jpg"
    },
    {
-		"title": "Tokopedia",
-		"url": "https://iprice.co.id/coupons/tokopedia/",
+		"title": "VIP PLAZA",
+		"url": "https://iprice.co.id/coupons/vip-plaza/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
 		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/tokopedia.jpg"
    },
    {
-		"title": "Traveloka",
-		"url": "https://iprice.co.id/coupons/traveloka/",
+		"title": "Berrybenka",
+		"url": "https://iprice.co.id/coupons/berrybenka/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
 		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/traveloka.jpg"
    },
    {
-		"title": "Blibli",
-		"url": "https://iprice.co.id/coupons/blibli/",
+		"title": "Hijup",
+		"url": "https://iprice.co.id/coupons/hijup/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
 		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/blibli.jpg"
    },
    {
-		"title": "Pegipegi",
-		"url": "https://iprice.co.id/coupons/pegipegi/",
+		"title": "The Body Shop",
+		"url": "https://iprice.co.id/coupons/the-body-shop/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
 		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/pegipegi.jpg"
    }
  ]

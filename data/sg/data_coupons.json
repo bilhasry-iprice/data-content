@@ -1,28 +1,44 @@
 {
  "items": [
    {
+		"title": "Zalora",
+		"url": "https://iprice.sg/coupons/zalora/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/zalora.jpg"
+   },
+   {
+		"title": "Redmart",
+		"url": "https://iprice.sg/coupons/redmart/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/redmart.jpg"
+   },
+   {
+		"title": "KKDay",
+		"url": "https://iprice.sg/coupons/kkday/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/kkday.jpg"
+   },
+   {
+		"title": "Althea",
+		"url": "https://iprice.sg/coupons/althea/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/althea.jpg"
+   },
+   {
 		"title": "Grab",
-		"url": "https://iprice.sg/coupons/grab/",
+		"url": "https://iprice.sg/coupons/grab/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
 		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/grab.jpg"
    },
    {
 		"title": "Honestbee",
-		"url": "https://iprice.sg/coupons/honestbee/",
+		"url": "https://iprice.sg/coupons/honestbee/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
 		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/honestbee.jpg"
    },
    {
 		"title": "Lazada",
-		"url": "https://iprice.sg/coupons/lazada/",
-		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/lazada-sg.jpg"
+		"url": "https://iprice.sg/coupons/lazada/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/lazada.jpg"
    },
    {
-		"title": "KKDay",
-		"url": "https://iprice.sg/coupons/kkday/",
-		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/kkday.jpg"
+		"title": "Ezbuy",
+		"url": "https://iprice.sg/coupons/ezbuy/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/ezbuy.jpg"
    }
  ]
 }
-
-
-
-

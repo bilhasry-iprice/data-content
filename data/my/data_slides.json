@@ -3,24 +3,28 @@
 		{
 			"values" : [
 				   {
-						"title": "Uber",
-						"url": "https://iprice.my/coupons/uber/",
-						"img": "https://bilhasry-iprice.github.io/sale/data/id/image/chinese-new-year.jpg"
+						"title": "Grab",
+						"intro_text" : "Seize up to RM15 worth of FREE rides nationwide", 
+						"url": "https://iprice.my/coupons/grab/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+						"img": "https://bilhasry-iprice.github.io/sale/data/my/image/grab.jpg"
 				   },
 				   {
-				   		"title": "Lazada",
-				   		"url" : "https://iprice.my/coupons/lazada/",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/ramadhan-idul-fitri.jpg"
+				   		"title": "Shopee",
+				   		"intro_text" : "Discover daily Shopee sale up to 50%", 
+				   		"url" : "https://iprice.my/coupons/shopee/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/shopee.jpg"
 				   },
 				   {
-				   		"title": "Fave",
-				   		"url" : "https://iprice.my/coupons/fave/",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/ramadhan-idul-fitri.jpg"
+				   		"title": "Zalora",
+				   		"intro_text" : "Get extra 18% OFF storewide with min. spend of RM120",
+				   		"url" : "https://iprice.my/coupons/zalora/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/zalora.jpg"
 				   },
 				   {
-				   		"title": "Malaysia Airlines",
-				   		"url" : "https://iprice.my/coupons/malaysia-airlines/",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/ramadhan-idul-fitri.jpg"
+				   		"title": "11Street",
+				   		"intro_text" : "Grab RM15 coupon with min. spend of RM80",
+				   		"url" : "https://iprice.my/coupons/11street/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/11Street.jpg"
 				   }
 			]	
 		}

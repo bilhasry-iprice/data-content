@@ -1,44 +1,44 @@
 {
  "items": [
    {
-		"title": "Grab",
-		"url": "https://iprice.my/coupons/grab/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/grab-my.jpg"
+		"title": "Lazada",
+		"url": "https://ipricethailand.com/coupons/lazada/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/lazada-th.jpg"
    },
    {
-		"title": "Shopee",
-		"url": "https://iprice.my/coupons/shopee/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/shopee-my.jpg"
+		"title": "Central",
+		"url": "https://ipricethailand.com/coupons/central-online/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/central.jpg"
    },
    {
-		"title": "Zalora",
-		"url": "https://iprice.my/coupons/zalora/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/zalora-my.jpg"
+		"title": "Orami",
+		"url": "https://ipricethailand.com/coupons/orami/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/orami.jpg"
    },
    {
-		"title": "11street",
-		"url": "https://iprice.my/coupons/11street/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/11street-my.jpg"
+		"title": "Agoda",
+		"url": "https://ipricethailand.com/coupons/agoda/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/agoda.jpg"
    },
    {
-		"title": "Grab",
-		"url": "https://iprice.my/coupons/grab/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/grab-my.jpg"
+		"title": "Looksi",
+		"url": "https://ipricethailand.com/coupons/looksi/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/looksi.jpg"
    },
    {
-		"title": "Shopee",
-		"url": "https://iprice.my/coupons/shopee/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/shopee-my.jpg"
+		"title": "Konvy",
+		"url": "https://ipricethailand.com/coupons/konvy/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/konvy.jpg"
    },
    {
-		"title": "Zalora",
-		"url": "https://iprice.my/coupons/zalora/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/zalora-my.jpg"
+		"title": "Shopat24",
+		"url": "https://ipricethailand.com/coupons/shopat24/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/shopat24.jpg"
    },
    {
-		"title": "11street",
-		"url": "https://iprice.my/coupons/11street/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/11street-my.jpg"
+		"title": "Big C",
+		"url": "https://ipricethailand.com/coupons/big-c-online/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/bigc.jpg"
    }
  ]
 }
