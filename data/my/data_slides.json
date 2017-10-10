@@ -1,0 +1,23 @@
+{
+	"items": [
+		{
+			"values" : [
+				{
+					"title": "11/11",
+					"url": "http://iprice.my/sale/1111",
+					"img": "https://bilhasry-iprice.github.io/sale/data/my/image/1111-sale.jpg"
+			   },
+			   {
+					"title": "MyCyberSale",
+					"url": "http://iprice.my/coupons/mycybersale/",
+					"img": "https://bilhasry-iprice.github.io/sale/data/my/image/mycybersale.jpg"
+			   },
+			   {
+					"title": "Weekly Exclusives",
+					"url": "http://iprice.my/coupons/weekly-exclusives/",
+					"img": "https://bilhasry-iprice.github.io/sale/data/my/image/exclusive-deals.jpg"
+			   }
+			]	
+		}
+ ]
+}
