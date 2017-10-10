@@ -1,44 +1,45 @@
 {
  "items": [
    {
-		"title": "Grab",
-		"url": "https://iprice.my/coupons/grab/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/grab-my.jpg"
+		"title": "Uber",
+		"url": "https://iprice.my/coupons/uber/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/logo/uber.jpg"
    },
    {
-		"title": "Shopee",
-		"url": "https://iprice.my/coupons/shopee/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/shopee-my.jpg"
+		"title": "AirAsia",
+		"url": "https://iprice.my/coupons/airasia/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/logo/airasia.jpg"
    },
    {
-		"title": "Zalora",
-		"url": "https://iprice.my/coupons/zalora/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/zalora-my.jpg"
+		"title": "Lazada",
+		"url": "https://iprice.my/coupons/lazada/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/logo/lazada-my.jpg"
    },
    {
-		"title": "11street",
-		"url": "https://iprice.my/coupons/11street/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/11street-my.jpg"
+		"title": "Malindo Air",
+		"url": "https://iprice.my/coupons/malindo-air/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/logo/malindo-air.jpg"
    },
    {
-		"title": "Grab",
-		"url": "https://iprice.my/coupons/grab/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/grab-my.jpg"
+		"title": "Fave",
+		"url": "https://iprice.my/coupons/fave/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/logo/fave.jpg"
    },
    {
-		"title": "Shopee",
-		"url": "https://iprice.my/coupons/shopee/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/shopee-my.jpg"
+		"title": "Airbnb",
+		"url": "https://iprice.my/coupons/airbnb/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/logo/airbnb.jpg"
    },
    {
-		"title": "Zalora",
-		"url": "https://iprice.my/coupons/zalora/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/zalora-my.jpg"
+		"title": "Malaysian Airlines",
+		"url": "https://iprice.my/coupons/malaysia-airlines/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/logo/malaysia-airlines.jpg"
    },
    {
-		"title": "11street",
-		"url": "https://iprice.my/coupons/11street/",
-		"img": "https://iprice-production-assets.s3-ap-southeast-1.amazonaws.com/store/11street-my.jpg"
+		"title": "Groupon",
+		"url": "https://iprice.my/coupons/groupon/",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/logo/groupon.jpg"
    }
  ]
 }
+	

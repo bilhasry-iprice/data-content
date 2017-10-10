@@ -1,0 +1,28 @@
+{
+	"items": [
+		{
+			"values" : [
+				   {
+						"title": "Uber",
+						"url": "https://iprice.my/coupons/uber/",
+						"img": "https://bilhasry-iprice.github.io/sale/data/id/image/chinese-new-year.jpg"
+				   },
+				   {
+				   		"title": "Lazada",
+				   		"url" : "https://iprice.my/coupons/lazada/",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/ramadhan-idul-fitri.jpg"
+				   },
+				   {
+				   		"title": "Fave",
+				   		"url" : "https://iprice.my/coupons/fave/",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/ramadhan-idul-fitri.jpg"
+				   },
+				   {
+				   		"title": "Malaysia Airlines",
+				   		"url" : "https://iprice.my/coupons/malaysia-airlines/",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/ramadhan-idul-fitri.jpg"
+				   }
+			]	
+		}
+ ]
+}
