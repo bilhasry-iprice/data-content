@@ -3,12 +3,12 @@
    {
 		"title": "Blanja",
 		"url": "https://iprice.co.id/coupons/blanja/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/grab.jpg"
+		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/blanja.jpg"
    },
    {
 		"title": "Tokopedia",
 		"url": "https://iprice.co.id/coupons/tokopedia/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/althea.jpg"
+		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/tokopedia.jpg"
    },
    {
 		"title": "Zalora",
@@ -18,27 +18,27 @@
    {
 		"title": "Blibli",
 		"url": "https://iprice.co.id/coupons/blibli/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/mataharimall.jpg"
+		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/blibli.jpg"
    },
    {
 		"title": "VIP PLAZA",
 		"url": "https://iprice.co.id/coupons/vip-plaza/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/tokopedia.jpg"
+		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/vip-plaza.jpg"
    },
    {
 		"title": "Berrybenka",
 		"url": "https://iprice.co.id/coupons/berrybenka/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/traveloka.jpg"
+		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/berrybenka.jpg"
    },
    {
 		"title": "Hijup",
 		"url": "https://iprice.co.id/coupons/hijup/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/blibli.jpg"
+		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/hijup.jpg"
    },
    {
 		"title": "The Body Shop",
 		"url": "https://iprice.co.id/coupons/the-body-shop/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/pegipegi.jpg"
+		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/body-shop.jpg"
    }
  ]
 }
