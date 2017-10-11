@@ -12,19 +12,19 @@
 				   		"title": "Shopee",
 				   		"intro_text" : "ส่วนลด 100บาท สำหรับ ลูกค้าใหม่ และ ส่วนลด 15% สำหรับลูกค้าทั่วไป", 
 				   		"url" : "https://ipricethailand.com/coupons/shopee/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/foodpanda.jpg"
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/shopee.jpg"
 				   },
 				   {
 				   		"title": "Cmart",
 				   		"intro_text" : "Cmart มอบสิทธิพิเศษส่วนลด 12% เมื่อซื้อสินค้าในหมวด Daily Deal และ อาหาร ไม่มีขั้นต่ำ",
 				   		"url" : "https://ipricethailand.com/coupons/cmart/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/zalora.jpg"
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/cmart.jpg"
 				   },
 				   {
 				   		"title": "Grab",
 				   		"intro_text" : "โปรโมชั่นเชียงใหม่!! ลด 50 บาท เมื่อไป-กลับจากท่าช้าง",
 				   		"url" : "https://ipricethailand.com/coupons/grab/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/expedia.jpg"
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/grab.jpg"
 				   }
 			]	
 		}
