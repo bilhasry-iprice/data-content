@@ -1,0 +1,12 @@
+{
+ "items": [
+   {
+		"title": "brand_name",
+		"highlight" : "highlight_title",
+		"coupon_code" : "coupon_code",
+		"description" : "your_description_here",
+		"url": "coupon_link",
+		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/your_brand_image_file"
+   }
+ ]
+}
