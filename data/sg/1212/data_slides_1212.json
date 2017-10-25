@@ -1,0 +1,32 @@
+{
+	"items": [
+		{
+			"values" : [
+				   {
+						"title": "Hotels.com",
+						"intro_text" : "Get 10% OFF when you book with your Standard Chartered credit card", 
+						"url": "https://iprice.sg/coupons/hotelscom/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sales",
+						"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/ubereats.jpg"
+				   },
+				   {
+				   		"title": "Uber",
+				   		"intro_text" : "Enjoy SG$8 OFF first 2 rides", 
+				   		"url" : "https://iprice.sg/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sales",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/uber.jpg"
+				   },
+				   {
+				   		"title": "Qoo10",
+				   		"intro_text" : "Enjoy $20 OFF every Wednesday",
+				   		"url" : "https://iprice.sg/coupons/qoo10/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sales",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/qoo10.jpg"
+				   },
+				   {
+				   		"title": "Shopee",
+				   		"intro_text" : "Enjoy $7 off with min. spend of $15",
+				   		"url" : "https://iprice.sg/coupons/shopee/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sales",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/shopee.jpg"
+				   }
+			]	
+		}
+ ]
+}	
