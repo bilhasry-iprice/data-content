@@ -40,7 +40,7 @@
 		"title": "ParknShop",
 		"highlight" : "$160 OFF",
 		"coupon_code" : "PNS-AO",
-		"description" : "Grab a $160 eCoupon for next purchase with free delivery for new customer with a min. spend of $800",
+		"description" : "Grab a $160 eCoupon for next purchase with free delivery with a min. spend of $800",
 		"url": "https://iprice.hk/coupons/parknshop/?_id=79eb194d58f537cc64abf76b49b92bb4e2c99406&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fparknshop%2F",
 		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/parknshop.jpg",
 		"type" : "popup"
