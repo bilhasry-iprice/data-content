@@ -3,28 +3,34 @@
 		{
 			"values" : [
 				   {
-						"title": "Uber",
-						"intro_text" : "รับส่วนลด 50 บาท 3 ครั้ง่",
-						"url": "https://ipricethailand.com/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
-						"img": "https://bilhasry-iprice.github.io/sale/data/th/image/uber.jpg"
+						"title": "Swatch",
+						"url": "https://iprice.ph/swatch/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+						"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/swatch.jpg"
 				   },
 				   {
-				   		"title": "Shopee",
-				   		"intro_text" : "ส่วนลด 100บาท สำหรับ ลูกค้าใหม่ และ ส่วนลด 15% สำหรับลูกค้าทั่วไป", 
-				   		"url" : "https://ipricethailand.com/coupons/shopee/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/shopee.jpg"
+				   		"title": "Samsung",
+				   		"url" : "https://iprice.ph/samsung/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/samsung.jpg"
 				   },
 				   {
-				   		"title": "Cmart",
-				   		"intro_text" : "อาหารผิวเพื่อความงาม ! ลดสูงสุด 70% !! ที่ Cmart",
-				   		"url" : "https://ipricethailand.com/coupons/cmart/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/cmart.jpg"
+				   		"title": "Forever 21",
+				   		"url" : "https://iprice.ph/forever-21/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/forever21.jpg"
 				   },
 				   {
-				   		"title": "Grab",
-				   		"intro_text" : "โปรโมชั่นเชียงใหม่!! ลด 50 บาท เมื่อไป-กลับจากท่าช้าง",
-				   		"url" : "https://ipricethailand.com/coupons/grab/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/grab.jpg"
+				   		"title": "Herschel",
+				   		"url" : "https://iprice.ph/herschel-supply-co/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/herschel.jpg"
+				   },
+				   {
+				   		"title": "Vans",
+				   		"url" : "https://iprice.ph/vans/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/vans.jpg"
+				   },
+				   {
+				   		"title": "Nike",
+				   		"url" : "https://iprice.ph/nike/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/nike.jpg"
 				   }
 			]	
 		}
