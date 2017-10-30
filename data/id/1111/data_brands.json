@@ -1,10 +1,32 @@
 {
- "items": [
-   {
-		"title": "brand_name",
-		"description" : "your_description_here",
-		"url": "brand_link",
-		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/your_brand_image_file"
-   }
- ]
+    "items": [
+        {
+            "values": [
+                {
+                    "title": "Smartphone",
+                    "description": "",
+                    "url": "https://iprice.co.id/ponsel-tablet/smartphone/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+                    "img": "https://bilhasry-iprice.github.io/sale/data/hk/image/campaign-1.jpg"
+                },
+                {
+                    "title": "Jam Tangan",
+                    "description": "",
+                    "url": "https://iprice.co.id/jam-tangan/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+                    "img": "https://bilhasry-iprice.github.io/sale/data/hk/image/campaign-2.png"
+                },
+                {
+                    "title": "Selpatu",
+                    "description": "",
+                    "url": "https://iprice.co.id/sepatu/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+                    "img": "https://bilhasry-iprice.github.io/sale/data/hk/image/campaign-3.png"
+                },
+                {
+                    "title": "Tas",
+                    "description": "",
+                    "url": "https://iprice.co.id/tas/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+                    "img": "https://bilhasry-iprice.github.io/sale/data/hk/image/campaign-4.jpg"
+                }
+            ]
+        }
+    ]
 }
