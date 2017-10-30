@@ -3,28 +3,34 @@
 		{
 			"values" : [
 				   {
-						"title": "Uber",
-						"intro_text" : "รับส่วนลด 50 บาท 3 ครั้ง่",
-						"url": "https://ipricethailand.com/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
-						"img": "https://bilhasry-iprice.github.io/sale/data/th/image/uber.jpg"
+						"title": "Onitsuka Tiger",
+						"url": "https://ipricethailand.com/onitsuka-tiger/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+						"img": "https://bilhasry-iprice.github.io/sale/data/th/image/onitsukatiger.jpg"
 				   },
 				   {
-				   		"title": "Shopee",
-				   		"intro_text" : "ส่วนลด 100บาท สำหรับ ลูกค้าใหม่ และ ส่วนลด 15% สำหรับลูกค้าทั่วไป", 
-				   		"url" : "https://ipricethailand.com/coupons/shopee/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/shopee.jpg"
+				   		"title": "Converse",
+				   		"url" : "https://ipricethailand.com/converse/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/converse.jpg"
 				   },
 				   {
-				   		"title": "Cmart",
-				   		"intro_text" : "อาหารผิวเพื่อความงาม ! ลดสูงสุด 70% !! ที่ Cmart",
-				   		"url" : "https://ipricethailand.com/coupons/cmart/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/cmart.jpg"
+				   		"title": "Adidas",
+				   		"url" : "https://ipricethailand.com/adidas/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/adidas.jpg"
 				   },
 				   {
-				   		"title": "Grab",
-				   		"intro_text" : "โปรโมชั่นเชียงใหม่!! ลด 50 บาท เมื่อไป-กลับจากท่าช้าง",
-				   		"url" : "https://ipricethailand.com/coupons/grab/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/grab.jpg"
+				   		"title": "Lacoste",
+				   		"url" : "https://ipricethailand.com/lacoste/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/lacoste.jpg"
+				   },
+				   {
+				   		"title": "Innisfree",
+				   		"url" : "https://ipricethailand.com/innisfree/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/innisfree.jpg"
+				   },
+				   {
+				   		"title": "Nike",
+				   		"url" : "https://ipricethailand.com/nike/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/nike.jpg"
 				   }
 			]	
 		}
