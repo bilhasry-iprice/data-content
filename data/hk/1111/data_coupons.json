@@ -6,7 +6,8 @@
 		"coupon_code" : "IPRIMY17Q4",
 		"description" : "Enjoy 10% OFF storewide with exclusive Althea Coupon",
 		"url": "https://iprice.my/coupons/weekly-exclusives/?_id=1bea1bf5ecbb0cbfe01201b3fd765c09047dd3ca&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fweekly-exclusives%2F",
-		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/kkday.jpg"
+		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/kkday.jpg",
+		"type" : "direct"
    },
    {
 		"title": "Agoda",
@@ -14,7 +15,8 @@
 		"coupon_code" : "IPRIMY17Q4",
 		"description" : "Enjoy 10% OFF storewide with exclusive Althea Coupon",
 		"url": "https://iprice.my/coupons/weekly-exclusives/?_id=1bea1bf5ecbb0cbfe01201b3fd765c09047dd3ca&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fweekly-exclusives%2F",
-		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/agoda.jpg"
+		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/agoda.jpg",
+		"type" : "popup"
    },
    {
 		"title": "AirAsiaGo",
@@ -22,7 +24,8 @@
 		"coupon_code" : "IPRIMY17Q4",
 		"description" : "Enjoy 10% OFF storewide with exclusive Althea Coupon",
 		"url": "https://iprice.my/coupons/weekly-exclusives/?_id=1bea1bf5ecbb0cbfe01201b3fd765c09047dd3ca&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fweekly-exclusives%2F",
-		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/airasiago.jpg"
+		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/airasiago.jpg",
+		"type" : "popup"
    },
    {
 		"title": "Axa",
@@ -30,7 +33,8 @@
 		"coupon_code" : "IPRIMY17Q4",
 		"description" : "Enjoy 10% OFF storewide with exclusive Althea Coupon",
 		"url": "https://iprice.my/coupons/weekly-exclusives/?_id=1bea1bf5ecbb0cbfe01201b3fd765c09047dd3ca&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fweekly-exclusives%2F",
-		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/axa.jpg"
+		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/axa.jpg",
+		"type" : "direct"
    },
    {
 		"title": "Expedia",
@@ -38,7 +42,8 @@
 		"coupon_code" : "IPRIMY17Q4",
 		"description" : "Enjoy 10% OFF storewide with exclusive Althea Coupon",
 		"url": "https://iprice.my/coupons/weekly-exclusives/?_id=1bea1bf5ecbb0cbfe01201b3fd765c09047dd3ca&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fweekly-exclusives%2F",
-		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/expedia.jpg"
+		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/expedia.jpg",
+		"type" : "direct"
    },
    {
 		"title": "Nike",
@@ -46,7 +51,8 @@
 		"coupon_code" : "IPRIMY17Q4",
 		"description" : "Enjoy 10% OFF storewide with exclusive Althea Coupon",
 		"url": "https://iprice.my/coupons/weekly-exclusives/?_id=1bea1bf5ecbb0cbfe01201b3fd765c09047dd3ca&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fweekly-exclusives%2F",
-		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/nike.jpg"
+		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/nike.jpg",
+		"type" : "popup"
    },
    {
 		"title": "klook",
@@ -54,7 +60,8 @@
 		"coupon_code" : "IPRIMY17Q4",
 		"description" : "Enjoy 10% OFF storewide with exclusive Althea Coupon",
 		"url": "https://iprice.my/coupons/weekly-exclusives/?_id=1bea1bf5ecbb0cbfe01201b3fd765c09047dd3ca&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fweekly-exclusives%2F",
-		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/klook.jpg"
+		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/klook.jpg",
+		"type" : "popup"
    },
    {
 		"title": "ParknShop",
@@ -62,7 +69,8 @@
 		"coupon_code" : "IPRIMY17Q4",
 		"description" : "Enjoy 10% OFF storewide with exclusive Althea Coupon",
 		"url": "https://iprice.my/coupons/weekly-exclusives/?_id=1bea1bf5ecbb0cbfe01201b3fd765c09047dd3ca&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fweekly-exclusives%2F",
-		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/parknshop.jpg"
+		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/parknshop.jpg",
+		"type" : "popup"
    },
    {
 		"title": "foodpanda",
@@ -70,7 +78,8 @@
 		"coupon_code" : "IPRIMY17Q4",
 		"description" : "Enjoy 10% OFF storewide with exclusive Althea Coupon",
 		"url": "https://iprice.my/coupons/weekly-exclusives/?_id=1bea1bf5ecbb0cbfe01201b3fd765c09047dd3ca&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fweekly-exclusives%2F",
-		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/foodpanda.jpg"
+		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/foodpanda.jpg",
+		"type" : "popup"
    }
  ]
 }
