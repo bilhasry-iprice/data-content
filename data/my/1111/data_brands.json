@@ -1,10 +1,32 @@
 {
- "items": [
-   {
-		"title": "brand_name",
-		"description" : "your_description_here",
-		"url": "brand_link",
-		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/your_brand_image_file"
-   }
- ]
+    "items": [
+        {
+            "values": [
+                {
+                    "title": "Blibli.com",
+                    "description": "Kamera baru diskon 600 ribu dengan voucher Blibli",
+                    "url": "https://iprice.co.id/coupons/blibli/",
+                    "img": "https://bilhasry-iprice.github.io/sale/data/hk/image/campaign-1.jpg"
+                },
+                {
+                    "title": "Blibli.com",
+                    "description": "Kamera baru diskon 600 ribu dengan voucher Blibli",
+                    "url": "https://iprice.co.id/coupons/blibli/",
+                    "img": "https://bilhasry-iprice.github.io/sale/data/hk/image/campaign-2.png"
+                },
+                {
+                    "title": "Blibli.com",
+                    "description": "Kamera baru diskon 600 ribu dengan voucher Blibli",
+                    "url": "https://iprice.co.id/coupons/blibli/",
+                    "img": "https://bilhasry-iprice.github.io/sale/data/hk/image/campaign-3.png"
+                },
+                {
+                    "title": "Blibli.com",
+                    "description": "Kamera baru diskon 600 ribu dengan voucher Blibli",
+                    "url": "https://iprice.co.id/coupons/blibli/",
+                    "img": "https://bilhasry-iprice.github.io/sale/data/hk/image/campaign-4.jpg"
+                }
+            ]
+        }
+    ]
 }
