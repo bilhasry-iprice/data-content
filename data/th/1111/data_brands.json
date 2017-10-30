@@ -1,10 +1,32 @@
 {
- "items": [
-   {
-		"title": "brand_name",
-		"description" : "your_description_here",
-		"url": "brand_link",
-		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/your_brand_image_file"
-   }
- ]
+    "items": [
+        {
+            "values": [
+                {
+                    "title": "สมาร์ทโฟน",
+                    "description": "",
+                    "url": "https://ipricethailand.com/โทรศพทและแทบเลต/สมารทโฟน/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+                    "img": "https://bilhasry-iprice.github.io/sale/data/hk/image/campaign-1.jpg"
+                },
+                {
+                    "title": "รองเท้า",
+                    "description": "",
+                    "url": "https://ipricethailand.com/รองเทา/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+                    "img": "https://bilhasry-iprice.github.io/sale/data/hk/image/campaign-2.png"
+                },
+                {
+                    "title": "กระเป๋า",
+                    "description": "",
+                    "url": "https://ipricethailand.com/กระเปา/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+                    "img": "https://bilhasry-iprice.github.io/sale/data/hk/image/campaign-3.png"
+                },
+                {
+                    "title": "สขภาพและความงาม",
+                    "description": "",
+                    "url": "https://ipricethailand.com/ผลตภณฑดแลผว/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+                    "img": "https://bilhasry-iprice.github.io/sale/data/hk/image/campaign-4.jpg"
+                }
+            ]
+        }
+    ]
 }
