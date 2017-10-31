@@ -5,7 +5,7 @@
 				   {
 						"title": "Swatch",
 						"url": "https://iprice.ph/swatch/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-						"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/swatch.jpg"
+						"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/swatch-sq.jpg"
 				   },
 				   {
 				   		"title": "Samsung",
@@ -15,22 +15,22 @@
 				   {
 				   		"title": "Forever 21",
 				   		"url" : "https://iprice.ph/forever-21/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/forever21.jpg"
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/forever21-sq.jpg"
 				   },
 				   {
 				   		"title": "Herschel",
 				   		"url" : "https://iprice.ph/herschel-supply-co/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/herschel.jpg"
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/herschel-sq.jpg"
 				   },
 				   {
 				   		"title": "Vans",
 				   		"url" : "https://iprice.ph/vans/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/vans.jpg"
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/vans-sq.jpg"
 				   },
 				   {
 				   		"title": "Nike",
 				   		"url" : "https://iprice.ph/nike/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/nike.jpg"
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/nike-sq.jpg"
 				   }
 			]	
 		}
