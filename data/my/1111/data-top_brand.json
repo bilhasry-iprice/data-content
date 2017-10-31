@@ -5,12 +5,12 @@
 				   {
 						"title": "Puma",
 						"url": "https://iprice.my/puma/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-						"img": "https://bilhasry-iprice.github.io/sale/data/my/image/puma.jpg"
+						"img": "https://bilhasry-iprice.github.io/sale/data/my/image/puma-sq.jpg"
 				   },
 				   {
 				   		"title": "Skechers",
 				   		"url" : "https://iprice.my/skechers/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/skechers.jpg"
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/skechers-sq.jpg"
 				   },
 				   {
 				   		"title": "Vincci",
@@ -20,17 +20,17 @@
 				   {
 				   		"title": "Tissot",
 				   		"url" : "https://iprice.my/tissot/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/tissot.jpg"
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/tissot-sq.jpg"
 				   },
 				   {
 				   		"title": "Vans",
 				   		"url" : "https://iprice.my/vans/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/vans.jpg"
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/vans-sq.jpg"
 				   },
 				   {
 				   		"title": "Nike",
 				   		"url" : "https://iprice.my/nike/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/nike.jpg"
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/nike-sq.jpg"
 				   }
 			]	
 		}
