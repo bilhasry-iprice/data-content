@@ -6,25 +6,25 @@
                     "title": "Smartphone",
                     "description": "Klik banner ini untuk menikmati promo dan diskon belanja",
                     "url": "https://iprice.co.id/ponsel-tablet/smartphone/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-                    "img": "https://bilhasry-iprice.github.io/sale/data/id/image/campaign-1.jpg"
+                    "img": "http://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/smartphones__f4ll2x.jpg"
                 },
                 {
                     "title": "Jam Tangan",
                     "description": "Klik banner ini untuk menikmati promo dan diskon belanja",
                     "url": "https://iprice.co.id/jam-tangan/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-                    "img": "https://bilhasry-iprice.github.io/sale/data/id/image/campaign-2.jpg"
+                    "img": "http://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/watch__imo4pa.jpg"
                 },
                 {
                     "title": "Sepatu",
                     "description": "Klik banner ini untuk menikmati promo dan diskon belanja",
                     "url": "https://iprice.co.id/sepatu/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-                    "img": "https://bilhasry-iprice.github.io/sale/data/id/image/campaign-3.jpg"
+                    "img": "http://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/shoes__xlwz6b.jpg"
                 },
                 {
                     "title": "Tas",
                     "description": "Klik banner ini untuk menikmati promo dan diskon belanja",
                     "url": "https://iprice.co.id/tas/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-                    "img": "https://bilhasry-iprice.github.io/sale/data/id/image/campaign-4.jpg"
+                    "img": "http://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/bags__cyugvq.jpg"
                 }
             ]
         }
