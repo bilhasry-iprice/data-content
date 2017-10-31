@@ -3,28 +3,44 @@
 		{
 			"values" : [
 				   {
-						"title": "Uber",
-						"intro_text" : "รับส่วนลด 50 บาท 3 ครั้ง่",
-						"url": "https://ipricethailand.com/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
-						"img": "https://bilhasry-iprice.github.io/sale/data/th/image/uber.jpg"
+						"title": "Bukalapak",
+						"url": "https://iprice.co.id/coupons/bukalapak/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
+						"img": "https://bilhasry-iprice.github.io/sale/data/id/image/bukalapak.jpg"
 				   },
 				   {
-				   		"title": "Shopee",
-				   		"intro_text" : "ส่วนลด 100บาท สำหรับ ลูกค้าใหม่ และ ส่วนลด 15% สำหรับลูกค้าทั่วไป", 
-				   		"url" : "https://ipricethailand.com/coupons/shopee/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/shopee.jpg"
+				   		"title": "Uber",
+				   		"url" : "https://iprice.co.id/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/uber.jpg"
 				   },
 				   {
-				   		"title": "Cmart",
-				   		"intro_text" : "อาหารผิวเพื่อความงาม ! ลดสูงสุด 70% !! ที่ Cmart",
-				   		"url" : "https://ipricethailand.com/coupons/cmart/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/cmart.jpg"
+				   		"title": "Tokopedia",
+				   		"url" : "https://iprice.co.id/coupons/tokopedia/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/tokopedia.jpg"
 				   },
 				   {
-				   		"title": "Grab",
-				   		"intro_text" : "โปรโมชั่นเชียงใหม่!! ลด 50 บาท เมื่อไป-กลับจากท่าช้าง",
-				   		"url" : "https://ipricethailand.com/coupons/grab/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/grab.jpg"
+				   		"title": "Lazada",
+				   		"url" : "https://iprice.co.id/coupons/lazada/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/lazada.jpg"
+				   },
+				   {
+				   		"title": "Zalora",
+				   		"url" : "https://iprice.co.id/coupons/zalora/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/zalora.jpg"
+				   },
+				   {
+				   		"title": "MatahariMall",
+				   		"url" : "https://iprice.co.id/coupons/mataharimall/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/mataharimall.jpg"
+				   },
+				   {
+				   		"title": "VIP Plaza",
+				   		"url" : "https://iprice.co.id/coupons/vip-plaza/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/vipplaza.jpg"
+				   },
+				   {
+				   		"title": "Blanja",
+				   		"url" : "https://iprice.co.id/coupons/blanja/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/blanja.jpg"
 				   }
 			]	
 		}
