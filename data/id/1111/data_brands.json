@@ -4,27 +4,35 @@
             "values": [
                 {
                     "title": "Smartphone",
-                    "description": "Klik banner ini untuk menikmati promo dan diskon belanja",
+                    "description": "Dapatkan smartphone idaman Anda dengan diskon besar-besaran sekarang juga!",
                     "url": "https://iprice.co.id/ponsel-tablet/smartphone/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-                    "img": "http://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/smartphones__f4ll2x.jpg"
+                    "img": "http://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/smartphones__f4ll2x.jpg",
+                    "cta" : "Belanja Sekarang",
+                    "default" : true
                 },
                 {
                     "title": "Jam Tangan",
-                    "description": "Klik banner ini untuk menikmati promo dan diskon belanja",
+                    "description": "Semakin kece dengan balutan jam tangan baru di akhir tahun. Borong sekarang!",
                     "url": "https://iprice.co.id/jam-tangan/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-                    "img": "http://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/watch__imo4pa.jpg"
+                    "img": "http://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/watch__imo4pa.jpg",
+                    "cta" : "Belanja Sekarang",
+                    "default" : true
                 },
                 {
                     "title": "Sepatu",
-                    "description": "Klik banner ini untuk menikmati promo dan diskon belanja",
+                    "description": "Sneakers, high heels, sepatu olahraga, semua ada dengan harga murah yang fantastis!",
                     "url": "https://iprice.co.id/sepatu/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-                    "img": "http://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/shoes__xlwz6b.jpg"
+                    "img": "http://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/shoes__xlwz6b.jpg",
+                    "cta" : "Belanja Sekarang",
+                    "default" : true
                 },
                 {
                     "title": "Tas",
-                    "description": "Klik banner ini untuk menikmati promo dan diskon belanja",
+                    "description": "Lebih hemat membeli tas branded impian di Sale 11.11!",
                     "url": "https://iprice.co.id/tas/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-                    "img": "http://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/bags__cyugvq.jpg"
+                    "img": "http://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/bags__cyugvq.jpg",
+                    "cta" : "Belanja Sekarang",
+                    "default" : true
                 }
             ]
         }
