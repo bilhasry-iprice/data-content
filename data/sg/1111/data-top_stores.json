@@ -3,28 +3,44 @@
 		{
 			"values" : [
 				   {
-						"title": "Uber",
-						"intro_text" : "รับส่วนลด 50 บาท 3 ครั้ง่",
-						"url": "https://ipricethailand.com/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
-						"img": "https://bilhasry-iprice.github.io/sale/data/th/image/uber.jpg"
+						"title": "Zalora",
+						"url": "https://iprice.sg/coupons/zalora/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
+						"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/zalora.jpg"
 				   },
 				   {
-				   		"title": "Shopee",
-				   		"intro_text" : "ส่วนลด 100บาท สำหรับ ลูกค้าใหม่ และ ส่วนลด 15% สำหรับลูกค้าทั่วไป", 
-				   		"url" : "https://ipricethailand.com/coupons/shopee/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/shopee.jpg"
+				   		"title": "Lazada",
+				   		"url" : "https://iprice.sg/coupons/lazada/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/lazada.jpg"
 				   },
 				   {
-				   		"title": "Cmart",
-				   		"intro_text" : "อาหารผิวเพื่อความงาม ! ลดสูงสุด 70% !! ที่ Cmart",
-				   		"url" : "https://ipricethailand.com/coupons/cmart/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/cmart.jpg"
+				   		"title": "Agoda",
+				   		"url" : "https://iprice.sg/coupons/agoda/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/agoda.jpg"
 				   },
 				   {
-				   		"title": "Grab",
-				   		"intro_text" : "โปรโมชั่นเชียงใหม่!! ลด 50 บาท เมื่อไป-กลับจากท่าช้าง",
-				   		"url" : "https://ipricethailand.com/coupons/grab/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/grab.jpg"
+				   		"title": "Expedia",
+				   		"url" : "https://iprice.sg/coupons/expedia/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/expedia.jpg"
+				   },
+				   {
+				   		"title": "Hotels.com",
+				   		"url" : "https://iprice.sg/coupons/hotelscom/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/hotelscom.jpg"
+				   },
+				   {
+				   		"title": "UberEATS",
+				   		"url" : "https://iprice.sg/coupons/ubereats/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/ubereats.jpg"
+				   },
+				   {
+				   		"title": "Redmart",
+				   		"url" : "https://iprice.sg/coupons/redmart/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/redmart.jpg"
+				   },
+				   {
+				   		"title": "Uber",
+				   		"url" : "https://iprice.sg/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/uber.jpg"
 				   }
 			]	
 		}
