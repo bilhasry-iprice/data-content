@@ -3,28 +3,44 @@
 		{
 			"values" : [
 				   {
-						"title": "Uber",
-						"intro_text" : "รับส่วนลด 50 บาท 3 ครั้ง่",
-						"url": "https://ipricethailand.com/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
-						"img": "https://bilhasry-iprice.github.io/sale/data/th/image/uber.jpg"
+						"title": "Central",
+						"url": "https://ipricethailand.com/coupons/central-online/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
+						"img": "https://bilhasry-iprice.github.io/sale/data/th/image/central.jpg"
 				   },
 				   {
-				   		"title": "Shopee",
-				   		"intro_text" : "ส่วนลด 100บาท สำหรับ ลูกค้าใหม่ และ ส่วนลด 15% สำหรับลูกค้าทั่วไป", 
-				   		"url" : "https://ipricethailand.com/coupons/shopee/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/shopee.jpg"
+				   		"title": "Lazada",
+				   		"url" : "https://ipricethailand.com/coupons/lazada/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/lazada.jpg"
 				   },
 				   {
-				   		"title": "Cmart",
-				   		"intro_text" : "อาหารผิวเพื่อความงาม ! ลดสูงสุด 70% !! ที่ Cmart",
-				   		"url" : "https://ipricethailand.com/coupons/cmart/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/cmart.jpg"
+				   		"title": "Looksi",
+				   		"url" : "https://ipricethailand.com/coupons/looksi/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/looksi.jpg"
 				   },
 				   {
-				   		"title": "Grab",
-				   		"intro_text" : "โปรโมชั่นเชียงใหม่!! ลด 50 บาท เมื่อไป-กลับจากท่าช้าง",
-				   		"url" : "https://ipricethailand.com/coupons/grab/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
-				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/grab.jpg"
+				   		"title": "Tops",
+				   		"url" : "https://ipricethailand.com/coupons/tops-shop-online/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/tops.jpg"
+				   },
+				   {
+				   		"title": "BigC",
+				   		"url" : "https://ipricethailand.com/coupons/big-c-online/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/bigc.jpg"
+				   },
+				   {
+				   		"title": "Konvy",
+				   		"url" : "https://ipricethailand.com/coupons/konvy/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/konvy.jpg"
+				   },
+				   {
+				   		"title": "Shopat24",
+				   		"url" : "https://ipricethailand.com/coupons/shopat24/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/shopat24.jpg"
+				   },
+				   {
+				   		"title": "Uber",
+				   		"url" : "https://ipricethailand.com/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=1212_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/uber.jpg"
 				   }
 			]	
 		}
