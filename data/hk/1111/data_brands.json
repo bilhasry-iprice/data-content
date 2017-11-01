@@ -22,7 +22,7 @@
                     "title": "Shoes",
                     "description": "Walk softly, but with great savings on shoes!",
                     "url": "https://iprice.hk/shoes/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-                    "img": "http://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/bags__cyugvq.jpg",
+                    "img": "http://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/shoes__xlwz6b.jpg",
                     "cta" : "Shop Now",
                     "default" : true
                 },
@@ -30,7 +30,7 @@
                     "title": "Bags",
                     "description": "Backpacks, luggage - Carry these great deals on bags!",
                     "url": "https://iprice.hk/bags/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-                    "img": "http://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/shoes__xlwz6b.jpg",
+                    "img": "http://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/bags__cyugvq.jpg",
                     "cta" : "Shop Now",
                     "default" : true
                 }
