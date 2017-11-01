@@ -4,27 +4,35 @@
             "values": [
                 {
                     "title": "Watches",
-                    "description": "",
+                    "description": "Tell time in style with these watches.",
                     "url": "https://iprice.sg/watches/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-                    "img": "https://bilhasry-iprice.github.io/sale/data/hk/image/campaign-1.jpg"
+                    "img": "http://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/watch__imo4pa.jpg",
+                    "cta" : "Shop Now",
+                    "default" : true
                 },
                 {
                     "title": "Smartphones",
-                    "description": "",
+                    "description": "Stay connected with the latest smartphones",
                     "url": "https://iprice.sg/phones-tablets/smartphones/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-                    "img": "https://bilhasry-iprice.github.io/sale/data/hk/image/campaign-2.png"
+                    "img": "http://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/smartphones__f4ll2x.jpg",
+                    "cta" : "Shop Now",
+                    "default" : true
                 },
                 {
                     "title": "Bags",
-                    "description": "",
+                    "description": "Shoes to boost your confidence are here!",
                     "url": "https://iprice.sg/bags/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-                    "img": "https://bilhasry-iprice.github.io/sale/data/hk/image/campaign-3.png"
+                    "img": "http://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/bags__cyugvq.jpg",
+                    "cta" : "Shop Now",
+                    "default" : true
                 },
                 {
                     "title": "Shoes",
-                    "description": "",
+                    "description": "Shoes to boost your confidence are here!",
                     "url": "https://iprice.sg/shoes/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-                    "img": "https://bilhasry-iprice.github.io/sale/data/hk/image/campaign-4.jpg"
+                    "img": "http://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/shoes__xlwz6b.jpg",
+                    "cta" : "Shop Now",
+                    "default" : true
                 }
             ]
         }

@@ -4,29 +4,31 @@
             "values": [
                 {
                     "title": "สมาร์ทโฟน",
-                    "description": "",
+                    "description": "ได้เวลาเปลี่ยนมือถือและช้อปอุปกรณ์ชิ้นใหม่ด้วยโปรแรงลดกระหน่ำ",
                     "url": "https://ipricethailand.com/โทรศพทและแทบเลต/สมารทโฟน/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-                    "img": "https://bilhasry-iprice.github.io/sale/data/hk/image/campaign-1.jpg"
+                    "img": "http://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/smartphones__f4ll2x.jpg",
+                    "cta" : "Shop Now",
+                    "default" : true
                 },
                 {
                     "title": "รองเท้า",
-                    "description": "",
+                    "description": "เสริมลุคให้ดีขึ้นด้วยรองเท้าคู่โดนใจที่เป็นเจ้าของได้ในราคาสุดสบายกระเป๋า",
                     "url": "https://ipricethailand.com/รองเทา/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-                    "img": "https://bilhasry-iprice.github.io/sale/data/hk/image/campaign-2.png"
+                    "img": "http://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/shoes__xlwz6b.jpg"
                 },
                 {
                     "title": "กระเป๋า",
-                    "description": "",
+                    "description": "จะใบนี้ใบไหนก็ถูกใจ แล้วจะดีกว่าไหมถ้าซื้อกระเป๋าใบใหม่ในราคาที่ถูกกว่า",
                     "url": "https://ipricethailand.com/กระเปา/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-                    "img": "https://bilhasry-iprice.github.io/sale/data/hk/image/campaign-3.png"
+                    "img": "http://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/bags__cyugvq.jpg"
                 },
                 {
                     "title": "สขภาพและความงาม",
-                    "description": "",
+                    "description": "อย่าปล่อยให้สกินแคร์แบะเครื่องสำอางชิ้นโปรดอยู่แค่ใน Wishlist!",
                     "url": "https://ipricethailand.com/ผลตภณฑดแลผว/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-                    "img": "https://bilhasry-iprice.github.io/sale/data/hk/image/campaign-4.jpg"
+                    "img": "http://res.cloudinary.com/dqf8oma0l/image/upload/v1509501584/skincare_h1uxet.jpg"
                 }
             ]
         }
     ]
-}
+}                                               
