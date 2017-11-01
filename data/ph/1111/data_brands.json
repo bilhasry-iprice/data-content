@@ -4,7 +4,7 @@
             "values": [
                 {
                     "title": "Clothing",
-                    "description": "Style your daily outfits with the latest in clothing here!",
+                    "description": "High fashion, low prices.",
                     "url": "https://iprice.ph/clothing/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
                     "img": "http://res.cloudinary.com/dqf8oma0l/image/upload/v1509512807/fashion__zh1lgl.jpg",
                     "cta" : "Shop Now",
@@ -12,7 +12,7 @@
                 },
                 {
                     "title": "Smartphones",
-                    "description": "Stay connected with the latest smartphones",
+                    "description": "Been eyeing that new smartphone? It's time to get it!",
                     "url": "https://iprice.ph/phones-tablets/smartphones/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
                     "img": "http://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/smartphones__f4ll2x.jpg",
                     "cta" : "Shop Now",
@@ -20,7 +20,7 @@
                 },
                 {
                     "title": "Bags",
-                    "description": "Upgrade your fashion with these bags.",
+                    "description": "Backpacks, luggage - Carry these great deals on bags!",
                     "url": "https://iprice.ph/bags/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
                     "img": "http://res.cloudinary.com/dqf8oma0l/image/upload/v1509512807/bags2__pu7vf0.jpg",
                     "cta" : "Shop Now",
@@ -28,7 +28,7 @@
                 },
                 {
                     "title": "Shoes",
-                    "description": "Shoes to boost your confidence are here!",
+                    "description": "Walk softly, but with great savings on shoes!",
                     "url": "https://iprice.ph/shoes/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
                     "img": "http://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/shoes__xlwz6b.jpg",
                     "cta" : "Shop Now",
