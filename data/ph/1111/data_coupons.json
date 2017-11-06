@@ -12,11 +12,11 @@
    {
 		"title": "Expedia",
 		"highlight" : "10% OFF",
-		"coupon_code" : "number",
+		"coupon_code" : "required",
 		"description" : "Get extra 10% OFF for BDO customers",
 		"url": "https://iprice.ph/coupons/expedia/?_id=2073e8db6f14f21b70a9c217421f7df23bade037&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fexpedia%2F",
 		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/expedia.jpg",
-		"type" : "popup"
+		"type" : "direct"
    },
    {
 		"title": "KKday",
