@@ -1,31 +1,31 @@
 {
  "items": [
    {
-		"title": "Gogobli",
-		"highlight" : "70% OFF",
-		"coupon_code" : "required",
-		"description" : "Diskon 70% untuk produk kosmetik",
-		"url": "https://iprice.co.id/r/c/?_id=a1c6071ab46feb1de7ec60eaa22c738c2ebfb5b1&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fgogobli%2F",
-		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/gogobli.jpg",
-		"type" : "direct"
+		"title": "Zalora",
+		"highlight" : "Diskon 14%",
+		"coupon_code" : "ZIPRICE1111",
+		"description" : "Voucher Zalora November 2017 Exclusive Diskon 14% Semua Produk",
+		"url": "https://iprice.co.id/coupons/zalora/?_id=75a66efab6b5eb53142c86e8d2b52fda37fe706f&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F%3F_id%3D75a66efab6b5eb53142c86e8d2b52fda37fe706f%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fzalora%252F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/zalora.jpg",
+		"type" : "popup"
    },
    {
-		"title": "Pegipegi",
-		"highlight" : "150 ribu OFF",
-		"coupon_code" : "5A9GQAB",
-		"description" : "Voucher Pegipegi hotel 150 ribu dengan Bank Mandiri",
-		"url": "https://iprice.co.id/r/c/?_id=711f5bdf8f959849428cbee38789f83aac018717&position=5&sub_product=coupon-store&_exit=%2Fcoupons%2Fpegipegi%2F%3F_id%3Dc9ffb173bb4a25588ceef51116efe5d505bceebf%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fpegipegi%252F",
-		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/pegipegi.jpg",
-		"type" : "direct"
+		"title": "Zalora",
+		"highlight" : "Diskon 30+20%",
+		"coupon_code" : "JIPRICE20",
+		"description" : "Zalora Promo Code Jansport 30+20%!!",
+		"url": "https://iprice.co.id/coupons/zalora/?_id=62fdbc3922f42cf17841665256507f02974db435&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/zalora.jpg",
+		"type" : "popup"
    },
    {
-		"title": "AliExpress",
-		"highlight" : "70% OFF",
-		"coupon_code" : "required",
-		"description" : "Diskon hingga 70% untuk semua produk",
-		"url": "https://iprice.co.id/r/c/?_id=8778d919cb294ed3a3356a3ff846d960df26e86e&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Faliexpress%2F",
-		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/aliexpress.jpg",
-		"type" : "direct"
+		"title": "Zalora",
+		"highlight" : "Diskon 13%",
+		"coupon_code" : "A11FORYOU",
+		"description" : "Voucher Zalora November 2017 13% OFF Semua Produk",
+		"url": "https://iprice.co.id/coupons/zalora/?_id=62fdbc3922f42cf17841665256507f02974db435&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F%3F_id%3D75a66efab6b5eb53142c86e8d2b52fda37fe706f%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fzalora%252F%253F_id%253D75a66efab6b5eb53142c86e8d2b52fda37fe706f%2526position%253D1%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Fzalora%25252F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/zalora.jpg",
+		"type" : "popup"
    },
    {
 		"title": "Papuros",
@@ -107,6 +107,114 @@
 		"url": "https://iprice.co.id/r/c/?_id=fb382ac8f75f703888b1e2a2886575269eee622f&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fbanggood%2F",
 		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/banggood.jpg",
 		"type" : "direct"
-   }
+   },
+   {
+		"title": "Bukalapak",
+		"highlight" : "Diskon 30%",
+		"coupon_code" : "PERTAMAKALI",
+		"description" : "Voucher Bukalapak 30% Cashback untuk Pembelian Pertama Kali",
+		"url": "https://iprice.co.id/coupons/bukalapak/?_id=f2d5d53196d222fc0b44eac79b7a816441968556&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fbukalapak%2F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/bukalapak.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Bukalapak",
+		"highlight" : "Cashback 20%",
+		"coupon_code" : "GAJIANLAGI",
+		"description" : "Belanja Lagi dengan Kode Promo Bukalapak 20% Cashback",
+		"url": "https://iprice.co.id/coupons/bukalapak/?_id=a33b3a5bc362ca13767ec45a87573c1cf1f37240&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fbukalapak%2F%3F_id%3Da33b3a5bc362ca13767ec45a87573c1cf1f37240%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fbukalapak%252F%253F_id%253Df2d5d53196d222fc0b44eac79b7a816441968556%2526position%253D1%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Fbukalapak%25252F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/bukalapak.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Gogobli",
+		"highlight" : "70% OFF",
+		"coupon_code" : "required",
+		"description" : "Diskon 70% untuk produk kosmetik",
+		"url": "https://iprice.co.id/r/c/?_id=a1c6071ab46feb1de7ec60eaa22c738c2ebfb5b1&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fgogobli%2F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/gogobli.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Pegipegi",
+		"highlight" : "150 ribu OFF",
+		"coupon_code" : "5A9GQAB",
+		"description" : "Voucher Pegipegi hotel 150 ribu dengan Bank Mandiri",
+		"url": "https://iprice.co.id/r/c/?_id=711f5bdf8f959849428cbee38789f83aac018717&position=5&sub_product=coupon-store&_exit=%2Fcoupons%2Fpegipegi%2F%3F_id%3Dc9ffb173bb4a25588ceef51116efe5d505bceebf%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fpegipegi%252F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/pegipegi.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "AliExpress",
+		"highlight" : "70% OFF",
+		"coupon_code" : "required",
+		"description" : "Diskon hingga 70% untuk semua produk",
+		"url": "https://iprice.co.id/r/c/?_id=8778d919cb294ed3a3356a3ff846d960df26e86e&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Faliexpress%2F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/aliexpress.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Lazada",
+		"highlight" : "Diskon 12%",
+		"coupon_code" : "IPRICENOV",
+		"description" : "Voucher Lazada 12% Semua Produk Exclusive dari iPrice",
+		"url": "https://iprice.co.id/coupons/lazada/?_id=2ec1e9a7cfb1fa6cfdd248fd2fa0efdcaf6a0abe&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Uber",
+		"highlight" : "Diskon 40 ribu",
+		"coupon_code" : "ipriceUberID",
+		"description" : "Promo Uber Gratis 40 Ribu dari iPrice",
+		"url": "https://iprice.co.id/coupons/uber/?_id=4785efc74644d6c60b8f46369e5f6a6490f32f8c&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/uber.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Berrybenka",
+		"highlight" : "Diskon 75 ribu",
+		"coupon_code" : "75NOVEMBER",
+		"description" : "Promo Berrybenka November 2017 Diskon 75 Ribu untuk Anda!!",
+		"url": "https://iprice.co.id/coupons/berrybenka/?_id=e54c39cb8b30af434a688444663d5a4028c34b6b&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fberrybenka%2F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/berrybenka.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Hijup",
+		"highlight" : "Diskon 50 ribu",
+		"coupon_code" : "HijupIP11",
+		"description" : "Voucher Hijup 50 Ribu untuk Pembelian Semua Produk",
+		"url": "https://iprice.co.id/coupons/hijup/?_id=12251d33efda4709c782af6c0dba05341c2dac0c&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fhijup%2F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/hijup.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Tokopedia",
+		"highlight" : "Cashback 200 ribu",
+		"coupon_code" : "NOVEMBERSALE",
+		"description" : "Kode Voucher Tokopedia 200 Ribu Cashback untuk Voucher Game",
+		"url": "https://iprice.co.id/coupons/tokopedia/?_id=b44431cc9256f4c2e66394d150320aaaa06c4f96&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Ftokopedia%2F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/tokopedia.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Blibli",
+		"highlight" : "Diskon 90+5%",
+		"coupon_code" : "ICT-5",
+		"description" : "Voucher Blibli 90% + 5% untuk Produk Elektronik dan Gadget",
+		"url": "https://iprice.co.id/coupons/blibli/?_id=b5f96ef6c113cb8b4d5ddd74843aee2a6f419097&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fblibli%2F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/blibli.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Bobobobo",
+		"highlight" : "Diskon 75 ribu",
+		"coupon_code" : "BO4IPGNOV75",
+		"description" : "Voucher Bobobobo 75 Ribu Semua Produk Fashion dan Kecantikan",
+		"url": "https://iprice.co.id/coupons/bobobobo/?_id=a32440ba6aa8ae7525ad513b4260a731f6a72962&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fbobobobo%2F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/id/image/bobobobo.jpg",
+		"type" : "popup"
+   }	 
  ]
 }
