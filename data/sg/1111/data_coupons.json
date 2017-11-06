@@ -19,15 +19,6 @@
 		"type" : "popup"
    },
    {
-		"title": "UberEATS",
-		"highlight" : "$5 OFF",
-		"coupon_code" : "*****",
-		"description" : "$5 OFF first order",
-		"url": "https://iprice.sg/coupons/ubereats/?_id=84329c7b94c88ebe85dff0c2cdba64ad859f38da&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fubereats%2F",
-		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/ubereats.jpg",
-		"type" : "popup"
-   },
-   {
 		"title": "Redmart",
 		"highlight" : "$15 OFF",
 		"coupon_code" : "15DIPRIC",
@@ -55,33 +46,6 @@
 		"type" : "direct"
    },
    {
-		"title": "Gearbest",
-		"highlight" : "10% OFF",
-		"coupon_code" : "*****",
-		"description" : "10% OFF site-wide",
-		"url": "https://iprice.sg/coupons/gearbest/?_id=074a3da1eff208ee28f70a7c5d2fdcb7c0739de0&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fgearbest%2F",
-		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/gearbest.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Hotels.com",
-		"highlight" : "12% OFF",
-		"coupon_code" : "*****",
-		"description" : "Get 12% OFF by using Standard Chartered Credit Card",
-		"url": "https://iprice.sg/coupons/hotelscom/?_id=cce031003d4a9e3d442b7c03e65ad5a4461e97c0&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fhotelscom%2F",
-		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/hotelscom.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Expedia",
-		"highlight" : "10% OFF",
-		"coupon_code" : "*****",
-		"description" : "Get 10% OFF for hotels in Yogyakarta!",
-		"url": "https://iprice.sg/coupons/expedia/?_id=634636bb3b798c46c5815961ce54be6fb6c13570&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fexpedia%2F",
-		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/expedia.jpg",
-		"type" : "popup"
-   },
-   {
 		"title": "KKday",
 		"highlight" : "20% OFF",
 		"coupon_code" : "IPRICE20",
@@ -91,20 +55,101 @@
 		"type" : "popup"
    },
    {
+		"title": "Zalora",
+		"highlight" : "Discount up to 70%",
+		"coupon_code" : "IPRICENOV",
+		"description" : "For women, get up to 70% + 14% OFF",
+		"url": "https://iprice.sg/r/c/?_id=07b0889ee5095f2eca87f6a5b46714113eefce13&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F%3F_id%3D07b0889ee5095f2eca87f6a5b46714113eefce13%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fzalora%252F%253Fnocache%253D1",
+		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Zalora",
+		"highlight" : "Discount up to 50%",
+		"coupon_code" : "IPRICENOV",
+		"description" : "Shop dresses, receive up to 50% + 14% off!",
+		"url": "https://iprice.sg/r/c/?_id=a586753edb56dcf15dbb7da39524d23873c3a072&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F%3F_id%3D07b0889ee5095f2eca87f6a5b46714113eefce13%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fzalora%252F%253F_id%253D07b0889ee5095f2eca87f6a5b46714113eefce13%2526position%253D1%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Fzalora%25252F%25253Fnocache%25253D1",
+		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "UberEATS",
+		"highlight" : "$5 OFF",
+		"coupon_code" : "IPRICE5",
+		"description" : "Enjoy $5 off for first order!",
+		"url": "https://iprice.sg/coupons/ubereats/?_id=84329c7b94c88ebe85dff0c2cdba64ad859f38da&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fubereats%2F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/ubereats.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Redmart",
+		"highlight" : "$15 OFF",
+		"coupon_code" : "15DIPRIC",
+		"description" : "Enjoy $15 off storewide!",
+		"url": "https://iprice.sg/coupons/redmart/?_id=2286ef1ac73a1f0991902f09630245bc49ac5344&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fredmart%2F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/redmart.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Lazada",
+		"highlight" : "18% OFF",
+		"coupon_code" : "ORIPRICE2017",
+		"description" : "Enjoy 18% off storewide for new customers!",
+		"url": "https://iprice.sg/coupons/lazada/?_id=51ffbb81d993330dc87a1c8a79d91e98185bdea5&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Gearbest",
+		"highlight" : "10% OFF",
+		"coupon_code" : "IPRICE10",
+		"description" : "Get 10% off sitewide",
+		"url": "https://iprice.sg/coupons/gearbest/?_id=074a3da1eff208ee28f70a7c5d2fdcb7c0739de0&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fgearbest%2F%3Fnocache%3D1",
+		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/gearbest.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Hotels.com",
+		"highlight" : "12% OFF",
+		"coupon_code" : "SCBSG12",
+		"description" : "Get 12% off by using Standard Chartered Credit Card",
+		"url": "https://iprice.sg/coupons/hotelscom/?_id=cce031003d4a9e3d442b7c03e65ad5a4461e97c0&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fhotelscom%2F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/hotelscom.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Expedia",
+		"highlight" : "10% OFF",
+		"coupon_code" : "JOG10OFF",
+		"description" : "Get 10% off hotels in Yogyakarta!",
+		"url": "https://iprice.sg/coupons/expedia/?_id=634636bb3b798c46c5815961ce54be6fb6c13570&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fexpedia%2F%3Fnocache%3D1",
+		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/expedia.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "KKday",
+		"highlight" : "10% OFF",
+		"coupon_code" : "OCBC10",
+		"description" : "Get 10% off exclusive deals in Korea!",
+		"url": "https://iprice.sg/coupons/kkday/?_id=8ed8efbf3a2bc7b6ea6e40b27458b444a8e87ce2&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fkkday%2F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/kkday.jpg",
+		"type" : "popup"
+   },
+   {
 		"title": "Agoda",
 		"highlight" : "10% OFF",
-		"coupon_code" : "*****",
+		"coupon_code" : "5A9GQAB",
 		"description" : "Get 10% OFF for hotels in Melbourne!",
-		"url": "https://iprice.sg/coupons/agoda/?_id=40c140de31b3b7deb7093fe8f4a0fb7c26d89a4f&position=4&sub_product=coupon-store&_exit=%2Fcoupons%2Fagoda%2F",
+		"url": "https://iprice.sg/coupons/agoda/?_id=40c140de31b3b7deb7093fe8f4a0fb7c26d89a4f&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fagoda%2F",
 		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/agoda.jpg",
 		"type" : "popup"
    },
    {
 		"title": "Sephora",
-		"highlight" : "Free Cardholder",
-		"coupon_code" : "*****",
+		"highlight" : "Free Gift",
+		"coupon_code" : "CHARMED",
 		"description" : "Spend min. SG$250 and receive exclusive cardholder and 4 key chains for Gold & Black Members",
-		"url": "https://iprice.sg/coupons/sephora/?_id=b852ee9c9a946c3ace1e83f0e8abd3474c19dac4&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fsephora%2F",
+		"url": "https://iprice.sg/coupons/sephora/?_id=b852ee9c9a946c3ace1e83f0e8abd3474c19dac4&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fsephora%2F%3Fnocache%3D1",
 		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/sephora.jpg",
 		"type" : "popup"
    }
