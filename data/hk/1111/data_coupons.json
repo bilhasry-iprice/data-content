@@ -107,6 +107,51 @@
 		"url": "https://iprice.hk/r/c/?_id=69e91cff8c74db9c74c161c5bac599f70586e704&position=6&sub_product=coupon-store&_exit=%2Fcoupons%2Fsephora%2F",
 		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/sephora.jpg",
 		"type" : "direct"
+   },
+   {
+		"title": "Zalora",
+		"highlight" : "Discount up to 70%",
+		"coupon_code" : "required",
+		"description" : "Shop & enjoy discount up to 70% off men fashion",
+		"url": "https://iprice.hk/r/c/?_id=497d9be214abd9c490bc2fab159376c1866a0931&position=11&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/zalora.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Zalora",
+		"highlight" : "Discount up to 50%",
+		"coupon_code" : "required",
+		"description" : "Ladies dress to impress while seizing up to 50% off",
+		"url": "https://iprice.hk/r/c/?_id=26cef8a90a1a0032e5f0072a0af4703d02c71e42&position=10&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/zalora.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Zalora",
+		"highlight" : "Below $280",
+		"coupon_code" : "required",
+		"description" : "Get sneakers for as low as $280 today",
+		"url": "https://iprice.hk/r/c/?_id=23311ce60945d90b2fd2a5a2361aef48aa6becc5&position=9&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/zalora.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Nike",
+		"highlight" : "Discount up to 40%",
+		"coupon_code" : "required",
+		"description" : "Enjoy up to 40% off selected items",
+		"url": "https://iprice.hk/r/c/?_id=7bb9b32e57d94796713c295ad323226d738a28a6&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fnike%2F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/nike.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Nike",
+		"highlight" : "11% OFF",
+		"coupon_code" : "1111SALE",
+		"description" : "Members are entitled to an extra 11% off with any purchase of 2 or more products",
+		"url": "https://iprice.hk/coupons/nike/?_id=84e4b7154b2f7427899677c2006952a2577b600f&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fnike%2F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/nike.jpg",
+		"type" : "popup"
    }
  ]
 }
