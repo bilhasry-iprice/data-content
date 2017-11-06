@@ -64,7 +64,7 @@
 		"type" : "popup"
    },
    {
-		"title": "AirAisa",
+		"title": "AirAsia",
 		"highlight" : "10% OFF",
 		"coupon_code" : "GOMOBILE10",
 		"description" : "Get 10% OFF when you book hotel via AirAsiaGo mobile app",
@@ -106,7 +106,43 @@
 		"description" : "Enjoy up to 45% OFF early bird Asia deals",
 		"url": "https://iprice.my/r/c/?_id=14947c010f91b6cf01c1938726c1f42a2279de1c&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fclub-med%2F",
 		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/clubmed.jpg",
-		"type" : "direct"
+		"type" : "direct"	  
+   },
+   {
+		"title": "Expedia",
+		"highlight" : "Extra 10% OFF",
+		"coupon_code" : "MBBEXPMY16",
+		"description" : "Enjoy extra 10% OFF hotel bookings with your Maybank card",
+		"url": "https://iprice.my/coupons/expedia/?_id=bdbfa76d5918844da40d23e3afd88665f00d3bf6&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fexpedia%2F%3F_id%3Dbdbfa76d5918844da40d23e3afd88665f00d3bf6%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fexpedia%252F%253F_id%253D28be63cf9e9f4f4196a1b969a34ad864d457d44f%2526_exit%253D%25252Fcoupons%25252Fexpedia%25252F%25253F_id%25253D28be63cf9e9f4f4196a1b969a34ad864d457d44f%252526position%25253D1%252526sub_product%25253Dcoupon-store%252526_exit%25253D%2525252Fcoupons%2525252Fexpedia%2525252F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/expedia.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Zalora",
+		"highlight" : "Extra 13% OFF",
+		"coupon_code" : "A11FORYOU",
+		"description" : "Splurge this November & enjoy Extra 13% Off",
+		"url": "https://iprice.my/coupons/zalora/?_id=e2760db1aca5d67840ddfbacdf467217bcfb791d&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F%3F_id%3Dd7c323f21a0a3ac55f9f29da69a66fc80d6262e0%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fzalora%252F%253F_id%253D15d4c4ced091061bd05a4ce0648128eae5a4cd60%2526_exit%253D%25252Fcoupons%25252Fzalora%25252F%25253F_id%25253D15d4c4ced091061bd05a4ce0648128eae5a4cd60%252526position%25253D1%252526sub_product%25253Dcoupon-store%252526_exit%25253D%2525252Fcoupons%2525252Fzalora%2525252F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Agoda",
+		"highlight" : "Extra 10% OFF",
+		"coupon_code" : "5A9GQAB",
+		"description" : "Save Extra 10% discount on hotels in Melbourne",
+		"url": "https://iprice.my/coupons/agoda/?_id=45bd68188eadba7a6b99550409e2230ea3deba7c&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fagoda%2F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/agoda.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Motherhood",
+		"highlight" : "RM15 OFF",
+		"coupon_code" : "IPRICEMOM15",
+		"description" : "Get RM15 OFF with min. spend of RM150",
+		"url": "https://iprice.my/coupons/motherhoodcommy/?_id=192310f14c912a8f7d1af8624c35c1689df41cc6&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fmotherhoodcommy%2F%3Fnocache%3D1",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/motherhood.jpg",
+		"type" : "popup"
    }
  ]
 }
