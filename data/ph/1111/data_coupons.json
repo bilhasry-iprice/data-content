@@ -38,9 +38,9 @@
    },
    {
 		"title": "Sephora",
-		"highlight" : "FREE",
-		"coupon_code" : "*****",
-		"description" : "FREE Sephora rouge matte lipstick with any lip products",
+		"highlight" : "Free Gift",
+		"coupon_code" : "MATTEROUGE",
+		"description" : "FREE Sephora rouge matte lipstick with ANY lip products",
 		"url": "https://iprice.ph/coupons/sephora/?_id=4c53c08a5bc96a8765e4a8f6b657b2e98bb970ac&position=6&sub_product=coupon-store&_exit=%2Fcoupons%2Fsephora%2F",
 		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/sephora.jpg",
 		"type" : "popup"
@@ -91,10 +91,55 @@
 		"type" : "popup"
    },
    {
+		"title": "KKday",
+		"highlight" : "5% OFF",
+		"coupon_code" : "KKDAYUNIONBANK5",
+		"description" : "5% off on best activities with Union Bank",
+		"url": "https://iprice.ph/coupons/kkday/?_id=d6b96209997866babb641bf529fc0db44c23c733&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fkkday%2F%3Fnocache%3D1",
+		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/kkday.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Althea",
+		"highlight" : "10% OFF",
+		"coupon_code" : "IPRIPH17Q4",
+		"description" : "10% off sitewide with ANY purchase (limit to 3x per customer)",
+		"url": "https://iprice.ph/coupons/althea/?_id=bdfeece440b308ec35d7a447cfeb86793b30a3e7&position=4&sub_product=coupon-store&_exit=%2Fcoupons%2Falthea%2F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/althea.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Lazada",
+		"highlight" : "8% OFF",
+		"coupon_code" : "IPRICE8",
+		"description" : "8% off when you spend P1,000 and above",
+		"url": "https://iprice.ph/coupons/lazada/?_id=2d56adb451663623e38e2825bfb17af08d843ae9&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F%3Fnocache%3D1",
+		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Zalora",
+		"highlight" : "13% OFF",
+		"coupon_code" : "A11FORYOU",
+		"description" : "Take 13% off sitewide with min. spend P1,750",
+		"url": "https://iprice.ph/coupons/zalora/?_id=aacff17c3508a8395e6dc403d554aa4d8bbb1072&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Uber",
+		"highlight" : "P60 OFF",
+		"coupon_code" : "IPRICEPH2017",
+		"description" : "Enjoy P60 off on first 3 Uber rides",
+		"url": "https://iprice.ph/coupons/uber/?_id=b88377bb8cedf34e5b84d521eb6f45d64df7a4aa&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F%3Fnocache%3D1",
+		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/uber.jpg",
+		"type" : "popup"
+   },
+   {
 		"title": "Klook",
 		"highlight" : "75% OFF",
-		"coupon_code" : "*****",
-		"description" : "Get up to 75% OFF on selected travel activities with DBS HK Cards",
+		"coupon_code" : "KLKDBSHK",
+		"description" : "Up to 75% Off on selected travel activities with DBS HK cards",
 		"url": "https://iprice.ph/coupons/klook/?_id=5debcabdf68427c9a5cd46d91989e52166538d11&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fklook%2F",
 		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/klook.jpg",
 		"type" : "popup"
@@ -102,8 +147,8 @@
    {
 		"title": "Watchportal",
 		"highlight" : "5% OFF",
-		"coupon_code" : "*****",
-		"description" : "Get extra 5% OFF on best selling watches",
+		"coupon_code" : "IPRICE5%",
+		"description" : "Extra 5% off on best selling watches",
 		"url": "https://iprice.ph/coupons/watchportal/?_id=2a6d47d22d4b9ef6385c920168871bc1841777bb&position=8&sub_product=coupon-store&_exit=%2Fcoupons%2Fwatchportal%2F",
 		"img": "https://bilhasry-iprice.github.io/sale/data/ph/image/watchportal.jpg",
 		"type" : "popup"
