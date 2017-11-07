@@ -1,6 +1,24 @@
 {
  "items": [
    {
+		"title": "Zalora",
+		"highlight" : "Discount up to 70%",
+		"coupon_code" : "IPRICENOV",
+		"description" : "For women, get up to 70% + 14% OFF",
+		"url": "https://iprice.sg/r/c/?_id=07b0889ee5095f2eca87f6a5b46714113eefce13&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F%3F_id%3D07b0889ee5095f2eca87f6a5b46714113eefce13%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fzalora%252F%253Fnocache%253D1",
+		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Zalora",
+		"highlight" : "Discount up to 50%",
+		"coupon_code" : "IPRICENOV",
+		"description" : "Shop dresses, receive up to 50% + 14% off!",
+		"url": "https://iprice.sg/r/c/?_id=a586753edb56dcf15dbb7da39524d23873c3a072&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F%3F_id%3D07b0889ee5095f2eca87f6a5b46714113eefce13%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fzalora%252F%253F_id%253D07b0889ee5095f2eca87f6a5b46714113eefce13%2526position%253D1%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Fzalora%25252F%25253Fnocache%25253D1",
+		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
 		"title": "Zuji",
 		"highlight" : "12% OFF",
 		"coupon_code" : "*****",
@@ -52,24 +70,6 @@
 		"description" : "Get 20% OFF for Citibank Users",
 		"url": "https://iprice.sg/coupons/kkday/?_id=7b582ac19a6a7dacabcdd8c8beb06b1b94d30a9a&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fkkday%2F",
 		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/kkday.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Zalora",
-		"highlight" : "Discount up to 70%",
-		"coupon_code" : "IPRICENOV",
-		"description" : "For women, get up to 70% + 14% OFF",
-		"url": "https://iprice.sg/r/c/?_id=07b0889ee5095f2eca87f6a5b46714113eefce13&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F%3F_id%3D07b0889ee5095f2eca87f6a5b46714113eefce13%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fzalora%252F%253Fnocache%253D1",
-		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/zalora.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Zalora",
-		"highlight" : "Discount up to 50%",
-		"coupon_code" : "IPRICENOV",
-		"description" : "Shop dresses, receive up to 50% + 14% off!",
-		"url": "https://iprice.sg/r/c/?_id=a586753edb56dcf15dbb7da39524d23873c3a072&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F%3F_id%3D07b0889ee5095f2eca87f6a5b46714113eefce13%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fzalora%252F%253F_id%253D07b0889ee5095f2eca87f6a5b46714113eefce13%2526position%253D1%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Fzalora%25252F%25253Fnocache%25253D1",
-		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/zalora.jpg",
 		"type" : "popup"
    },
    {
