@@ -67,12 +67,11 @@
             "cta" : "Belanja Sekarang"
         },
         {
-            "title": "Sepatu",
-            "description": "Sneakers, high heels, sepatu olahraga, semua ada dengan harga murah yang fantastis!",
-            "url": "https://iprice.co.id/sepatu/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-            "img": "image/shoes.jpg",
-            "cta" : "Belanja Sekarang",
-            "default" : true
+            "title": "Berrybenka",
+            "description": "Berrybenka",
+            "url": "http://bit.ly/2j9FAI4",
+            "img": "image/Berrybenka_banner.jpg",
+            "cta" : "Belanja Sekarang"
         },
         {
             "title": "VIP Plaza",
