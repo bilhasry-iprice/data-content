@@ -48,9 +48,9 @@
             "cta" : "Shop Now"
         },
         {
-            "title": "Shoes",
-            "description": "Walk softly, but with great savings on shoes!",
-            "url": "https://iprice.hk/shoes/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+            "title": "YesStyle",
+            "description": "Selected items 80% OFF",
+            "url": "http://bit.ly/2iEisxn",
             "img": "image/shoes.jpg",
             "cta" : "Shop Now",
             "default" : true
