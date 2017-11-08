@@ -100,6 +100,24 @@
 		"type" : "popup"
    },
    {
+		"title": "Zalora",
+		"highlight" : "Discount up to 70%",
+		"coupon_code" : "IPRICENOV",
+		"description" : "Get up to 70% + 14% OFF for Zalora Labels Men!",
+		"url": "https://iprice.sg/coupons/zalora/?_id=56d3ae25637586ea37210be8e2f89621964fd85c&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "YOOX",
+		"highlight" : "Free Shipping",
+		"coupon_code" : "IPRICEFS",
+		"description" : "Enjoy free shipping with no min purchase",
+		"url": "https://iprice.sg/coupons/yoox/?_id=eae2871c5236f3ddafd196c73614cca9508b2fa2&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fyoox%2F",
+		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/yoox.jpg",
+		"type" : "popup"
+   },
+   {
 		"title": "Zuji",
 		"highlight" : "12% OFF",
 		"coupon_code" : "*****",
