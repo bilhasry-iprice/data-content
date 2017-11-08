@@ -60,12 +60,11 @@
             "cta" : "Shop Now"
         },
         {
-            "title": "Smartphones",
-            "description": "Been eyeing that new smartphone? It's time to get it!",
-            "url": "https://iprice.sg/phones-tablets/smartphones/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-            "img": "image/smartphones.jpg",
-            "cta" : "Shop Now",
-            "default" : true
+            "title": "Uber",
+            "description": "For no reason being late again",
+            "url": "https://iprice.sg/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+            "img": "image/Uber_box_banner.jpg",
+            "cta" : "Shop Now"
         },
         {
             "title": "Zalora",
@@ -75,10 +74,10 @@
             "cta" : "Shop Now"
         },
         {
-            "title": "Lazada",
-            "description": "Biggest Sale in The Universe",
-            "url": "http://bit.ly/2ArPwB4",
-            "img": "image/lazada_square.jpg"
+            "title": "Yoox",
+            "description": "",
+            "url": "http://bit.ly/2yfxfoQ",
+            "img": "image/Yoox_banner_square.jpg"
         }
     ],
  "coupons": [

@@ -4,19 +4,19 @@
 		"title": "Valentino",
 		"description" : "Valentino",
 		"url": "http://bit.ly/2zn6vXr",
-		"img": "image/handphone_banner.jpg"
+		"img": "image/Valentino_banner.jpg"
 	},
 	{
 		"title": "Marni",
 		"description" : "Marni",
 		"url": "http://bit.ly/2zFZPV5",
-		"img": "image/Fashion_banner.jpg"
+		"img": "image/Marni_banner.jpg"
 	},
 	{
 		"title": "Moschino",
 		"description" : "Moschino",
 		"url": "http://bit.ly/2iElXUx",
-		"img": "image/Kecantikan_banner.jpg"
+		"img": "image/Moschino_banner.jpg"
 	}
  ],
  "top_brands": [
@@ -70,17 +70,15 @@
             "title": "YesStyle",
             "description": "Selected items 80% OFF",
             "url": "http://bit.ly/2iEisxn",
-            "img": "image/shoes.jpg",
-            "cta" : "Shop Now",
-            "default" : true
+            "img": "image/Yesstyles_banner.jpg",
+            "cta" : "Shop Now"
         },
         {
             "title": "Microsoft",
             "description": "Microsoft",
             "url": "http://bit.ly/2zqVp3b",
-            "img": "image/bags.jpg",
-            "cta" : "Shop Now",
-            "default" : true
+            "img": "image/Microsoft_banner.jpg",
+            "cta" : "Shop Now"
         }
     ],
  "coupons": [

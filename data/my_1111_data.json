@@ -1,5 +1,24 @@
 {
- "products" : [],
+ "products" : [
+ 	{
+		"title": "Guess",
+		"description" : "Guess",
+		"url": "http://bit.ly/2AtSnJO",
+		"img": "image/Guess_banner.png"
+	},
+	{
+		"title": "Mango",
+		"description" : "Mango",
+		"url": "http://bit.ly/2j975Se",
+		"img": "image/Mango_banner.png"
+	},
+	{
+		"title": "Nike",
+		"description" : "Nike",
+		"url": "http://bit.ly/2yg11K5",
+		"img": "image/Nike_banner.png"
+	}
+ ],
  "top_brands": [
 	   {
 			"title": "Puma",
@@ -41,12 +60,11 @@
             "cta" : "Shop Now"
         },
         {
-            "title": "Laptops",
-            "description": "Finally, laptops can be affordable!",
-            "url": "https://iprice.my/computing/laptops/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-            "img": "image/laptop.jpg",
-            "cta" : "Shop Now",
-            "default" : true
+            "title": "Uber",
+            "description": "For no reason being late again",
+            "url": "https://iprice.my/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+            "img": "image/Uber_box_banner.jpg",
+            "cta" : "Shop Now"
         },
         {
             "title": "Lazada",

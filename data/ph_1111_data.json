@@ -1,5 +1,24 @@
 {
- "products" : [],
+ "products" : [
+ 	{
+		"title": "Something Borrowed",
+		"description" : "Something Borrowed",
+		"url": "http://bit.ly/2hToNFX",
+		"img": "image/Something_borrowed_banner.png"
+	},
+	{
+		"title": "Nike",
+		"description" : "Nike",
+		"url": "http://bit.ly/2yfANaE",
+		"img": "image/Nike_banner.png"
+	},
+	{
+		"title": "Mango",
+		"description" : "Mango",
+		"url": "http://bit.ly/2hRvpV1",
+		"img": "image/Mango_banner.png"
+	}
+],
  "top_brands": [
 	   {
 			"title": "Swatch",
@@ -41,12 +60,11 @@
             "cta" : "Shop Now"
         },
         {
-            "title": "Smartphones",
-            "description": "Been eyeing that new smartphone? It's time to get it!",
-            "url": "https://iprice.ph/phones-tablets/smartphones/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-            "img": "image/smartphones.jpg",
-            "cta" : "Shop Now",
-            "default" : true
+            "title": "Uber",
+            "description": "For no reason being late again",
+            "url": "https://iprice.ph/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+            "img": "image/Uber_box_banner.jpg",
+            "cta" : "Shop Now"
         },
         {
             "title": "Lazada",
@@ -55,12 +73,11 @@
             "img": "image/lazada_square.jpg"
         },
         {
-            "title": "Shoes",
-            "description": "Walk softly, but with great savings on shoes!",
-            "url": "https://iprice.ph/shoes/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-            "img": "image/shoes.jpg",
-            "cta" : "Shop Now",
-            "default" : true
+            "title": "YesStyles",
+            "description": "Happy Singles' Day",
+            "url": "http://bit.ly/2j93NhQ",
+            "img": "image/Yesstyles_banner.jpg",
+            "cta" : "Shop Now"
         }
     ],
  "coupons": [
