@@ -1,0 +1,263 @@
+{
+ "products" : [],
+ "top_brands": [
+	   {
+			"title": "Swatch",
+			"url": "https://iprice.ph/swatch/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+			"img": "image/swatch-sq.jpg"
+	   },
+	   {
+	   		"title": "Samsung",
+	   		"url" : "https://iprice.ph/samsung/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+	   		"img": "image/samsung.jpg"
+	   },
+	   {
+	   		"title": "Forever 21",
+	   		"url" : "https://iprice.ph/forever-21/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+	   		"img": "image/forever21-sq.jpg"
+	   },
+	   {
+	   		"title": "Herschel",
+	   		"url" : "https://iprice.ph/herschel-supply-co/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+	   		"img": "image/herschel-sq.jpg"
+	   },
+	   {
+	   		"title": "Vans",
+	   		"url" : "https://iprice.ph/vans/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+	   		"img": "image/vans-sq.jpg"
+	   },
+	   {
+	   		"title": "Nike",
+	   		"url" : "https://iprice.ph/nike/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+	   		"img": "image/nike-sq.jpg"
+	   }
+	],
+ "brands": [
+        {
+            "title": "Zalora",
+            "description": "11.11 Singles Day Your Way. Up to 50% Off",
+            "url": "http://bit.ly/2hbTcSx",
+            "img": "image/zalora_square_50.jpg",
+            "cta" : "Shop Now"
+        },
+        {
+            "title": "Smartphones",
+            "description": "Been eyeing that new smartphone? It's time to get it!",
+            "url": "https://iprice.ph/phones-tablets/smartphones/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+            "img": "image/smartphones.jpg",
+            "cta" : "Shop Now",
+            "default" : true
+        },
+        {
+            "title": "Lazada",
+            "description": "Biggest Sale in The Universe",
+            "url": "https://iprice.ph/coupons/lazada/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+            "img": "image/lazada_square.jpg"
+        },
+        {
+            "title": "Shoes",
+            "description": "Walk softly, but with great savings on shoes!",
+            "url": "https://iprice.ph/shoes/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+            "img": "image/shoes.jpg",
+            "cta" : "Shop Now",
+            "default" : true
+        }
+    ],
+ "coupons": [
+   {
+		"title": "Hotels.com",
+		"highlight" : "5% OFF",
+		"coupon_code" : "PH5OFF",
+		"description" : "Get 5% OFF on top of hotel deals",
+		"url": "https://iprice.ph/coupons/hotelscom/?_id=e99790b4a5c03276e71c0e95f0032b33f3309c60&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fhotelscom%2F",
+		"img": "image/hotelscom.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Expedia",
+		"highlight" : "10% OFF",
+		"coupon_code" : "required",
+		"description" : "Get extra 10% OFF for BDO customers",
+		"url": "https://iprice.ph/coupons/expedia/?_id=2073e8db6f14f21b70a9c217421f7df23bade037&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fexpedia%2F",
+		"img": "image/expedia.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "KKday",
+		"highlight" : "10% OFF",
+		"coupon_code" : "CITISG10",
+		"description" : "Extra 10% OFF at Taiwan with Citibank",
+		"url": "https://iprice.ph/coupons/kkday/?_id=f1a6de115ca64e902f8b0294553bacc049fc8c1c&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fkkday%2F",
+		"img": "image/kkday.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Agoda",
+		"highlight" : "60% OFF",
+		"coupon_code" : "required",
+		"description" : "Save 60% OFF on your trip with Agoda",
+		"url": "https://iprice.ph/r/c/?_id=3b22f415c876fd82f2e1bc4b71aa87f9079009fe&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fagoda%2F",
+		"img": "image/agoda.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Sephora",
+		"highlight" : "Free Gift",
+		"coupon_code" : "MATTEROUGE",
+		"description" : "FREE Sephora rouge matte lipstick with ANY lip products",
+		"url": "https://iprice.ph/coupons/sephora/?_id=4c53c08a5bc96a8765e4a8f6b657b2e98bb970ac&position=6&sub_product=coupon-store&_exit=%2Fcoupons%2Fsephora%2F",
+		"img": "image/sephora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Althea",
+		"highlight" : "10% OFF",
+		"coupon_code" : "*****",
+		"description" : "10% OFF sitewide with any purchase",
+		"url": "https://iprice.ph/coupons/althea/?_id=bdfeece440b308ec35d7a447cfeb86793b30a3e7&position=4&sub_product=coupon-store&_exit=%2Fcoupons%2Falthea%2F",
+		"img": "image/althea.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Lazada",
+		"highlight" : "12% OFF",
+		"coupon_code" : "page",
+		"description" : "Get up to 12% OFF your favourite stores",
+		"url": "https://iprice.ph/coupons/lazada/?_id=f2410f7a9791679fa67b64d24affd4dcaf159373&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
+		"img": "image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Zalora",
+		"highlight" : "70% OFF",
+		"coupon_code" : "*****",
+		"description" : "Dolce & Gabanna product up to 70% OFF + extra 20% OFF",
+		"url": "https://iprice.ph/coupons/zalora/?_id=f003cf0902746a4fdf9e4da8972d667684e6ecea&position=5&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
+		"img": "image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Grab",
+		"highlight" : "P15 OFF",
+		"coupon_code" : "PANAGBENGA",
+		"description" : "P15 OFF x 5 rides",
+		"url": "https://iprice.ph/coupons/grab/?_id=e28e0808ae68f589612eaf8cd7c8df9541f5cd2b&position=5&sub_product=coupon-store&_exit=%2Fcoupons%2Fgrab%2F",
+		"img": "image/grab.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Uber",
+		"highlight" : "P60 OFF",
+		"coupon_code" : "ipriceUberPH",
+		"description" : "Enjoy P60 OFF on first 3 rides",
+		"url": "https://iprice.ph/coupons/uber/?_id=2596631c53ca62bf2f0b93f09a1f9057def9da37&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F",
+		"img": "image/uber.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "KKday",
+		"highlight" : "5% OFF",
+		"coupon_code" : "KKDAYUNIONBANK5",
+		"description" : "5% off on best activities with Union Bank",
+		"url": "https://iprice.ph/coupons/kkday/?_id=d6b96209997866babb641bf529fc0db44c23c733&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fkkday%2F%3Fnocache%3D1",
+		"img": "image/kkday.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Althea",
+		"highlight" : "10% OFF",
+		"coupon_code" : "IPRIPH17Q4",
+		"description" : "10% off sitewide with ANY purchase (limit to 3x per customer)",
+		"url": "https://iprice.ph/coupons/althea/?_id=bdfeece440b308ec35d7a447cfeb86793b30a3e7&position=4&sub_product=coupon-store&_exit=%2Fcoupons%2Falthea%2F",
+		"img": "image/althea.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Lazada",
+		"highlight" : "8% OFF",
+		"coupon_code" : "IPRICE8",
+		"description" : "8% off when you spend P1,000 and above",
+		"url": "https://iprice.ph/coupons/lazada/?_id=2d56adb451663623e38e2825bfb17af08d843ae9&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F%3Fnocache%3D1",
+		"img": "image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Zalora",
+		"highlight" : "13% OFF",
+		"coupon_code" : "A11FORYOU",
+		"description" : "Take 13% off sitewide with min. spend P1,750",
+		"url": "https://iprice.ph/coupons/zalora/?_id=aacff17c3508a8395e6dc403d554aa4d8bbb1072&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
+		"img": "image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Uber",
+		"highlight" : "P60 OFF",
+		"coupon_code" : "IPRICEPH2017",
+		"description" : "Enjoy P60 off on first 3 Uber rides",
+		"url": "https://iprice.ph/coupons/uber/?_id=b88377bb8cedf34e5b84d521eb6f45d64df7a4aa&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F%3Fnocache%3D1",
+		"img": "image/uber.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Klook",
+		"highlight" : "75% OFF",
+		"coupon_code" : "KLKDBSHK",
+		"description" : "Up to 75% Off on selected travel activities with DBS HK cards",
+		"url": "https://iprice.ph/coupons/klook/?_id=5debcabdf68427c9a5cd46d91989e52166538d11&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fklook%2F",
+		"img": "image/klook.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Watchportal",
+		"highlight" : "5% OFF",
+		"coupon_code" : "IPRICE5%",
+		"description" : "Extra 5% off on best selling watches",
+		"url": "https://iprice.ph/coupons/watchportal/?_id=2a6d47d22d4b9ef6385c920168871bc1841777bb&position=8&sub_product=coupon-store&_exit=%2Fcoupons%2Fwatchportal%2F",
+		"img": "image/watchportal.jpg",
+		"type" : "popup"
+   }
+ ],
+"stores" : [
+	   {
+			"title": "Zalora",
+			"url": "https://iprice.ph/coupons/zalora/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+			"img": "image/zalora.jpg"
+	   },
+	   {
+	   		"title": "Lazada",
+	   		"url" : "https://iprice.ph/coupons/lazada/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+	   		"img": "image/lazada.jpg"
+	   },
+	   {
+	   		"title": "Agoda",
+	   		"url" : "https://iprice.ph/coupons/agoda/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+	   		"img": "image/agoda.jpg"
+	   },
+	   {
+	   		"title": "Expedia",
+	   		"url" : "https://iprice.ph/coupons/expedia/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+	   		"img": "image/expedia.jpg"
+	   },
+	   {
+	   		"title": "Hotels.com",
+	   		"url" : "https://iprice.ph/coupons/hotelscom/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+	   		"img": "image/hotelscom.jpg"
+	   },
+	   {
+	   		"title": "Althea",
+	   		"url" : "https://iprice.ph/coupons/althea/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+	   		"img": "image/althea.jpg"
+	   },
+	   {
+	   		"title": "Shopee",
+	   		"url" : "https://iprice.ph/coupons/shopee/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+	   		"img": "image/shopee.jpg"
+	   },
+	   {
+	   		"title": "Airbnb",
+	   		"url" : "https://iprice.ph/coupons/airbnb/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+	   		"img": "image/airbnb.jpg"
+	   }
+]	
+}

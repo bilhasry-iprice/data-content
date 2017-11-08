@@ -1,0 +1,264 @@
+{
+ "products" : [],
+ "top_brands": [
+	   {
+			"title": "Reebok",
+			"url": "https://iprice.hk/reebok/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+			"img": "image/reebok-sq.jpg"
+	   },
+	   {
+			"title": "Xiaomi",
+			"url": "https://iprice.hk/xiaomi/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+			"img": "image/xiaomi-sq.jpg"
+	   },
+	   {
+			"title": "Havaianas",
+			"url": "https://iprice.hk/havaianas/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+			"img": "image/havaianas-sq.jpg"
+	   },
+	   {
+			"title": "Herschel",
+			"url": "https://iprice.hk/herschel-supply-co/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+			"img": "image/herschel-sq.jpg"
+	   },
+	   {
+			"title": "Dr. Martens",
+			"url": "https://iprice.hk/dr-martens/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+			"img": "image/drmartens-sq.jpg"
+	   },
+	   {
+			"title": "Tumi",
+			"url": "https://iprice.hk/tumi/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+			"img": "image/tumi-sq.jpg"
+	   }
+	],
+ "brands": [
+        {
+            "title": "Gearbest",
+            "description": "Gearbest 1111 Sale",
+            "url": "http://bit.ly/2zBShCH",
+            "img": "image/Gearbestbox_banner_mini.jpg",
+            "cta" : "Shop Now"
+        },
+        {
+            "title": "Zalora",
+            "description": "11.11 Singles Day Your Way. Up to 50% Off",
+            "url": "http://bit.ly/2z9jgSO",
+            "img": "image/zalora_square_50.jpg",
+            "cta" : "Shop Now"
+        },
+        {
+            "title": "Shoes",
+            "description": "Walk softly, but with great savings on shoes!",
+            "url": "https://iprice.hk/shoes/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+            "img": "image/shoes.jpg",
+            "cta" : "Shop Now",
+            "default" : true
+        },
+        {
+            "title": "Bags",
+            "description": "Backpacks, luggage - Carry these great deals on bags!",
+            "url": "https://iprice.hk/bags/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+            "img": "image/bags.jpg",
+            "cta" : "Shop Now",
+            "default" : true
+        }
+    ],
+ "coupons": [
+   {
+		"title": "Zalora",
+		"highlight" : "Discount up to 70%",
+		"coupon_code" : "required",
+		"description" : "Shop & enjoy discount up to 70% off men fashion",
+		"url": "https://iprice.hk/r/c/?_id=497d9be214abd9c490bc2fab159376c1866a0931&position=11&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
+		"img": "image/zalora.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Zalora",
+		"highlight" : "Discount up to 50%",
+		"coupon_code" : "required",
+		"description" : "Ladies dress to impress while seizing up to 50% off",
+		"url": "https://iprice.hk/r/c/?_id=26cef8a90a1a0032e5f0072a0af4703d02c71e42&position=10&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
+		"img": "image/zalora.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Zalora",
+		"highlight" : "Below $280",
+		"coupon_code" : "required",
+		"description" : "Get sneakers for as low as $280 today",
+		"url": "https://iprice.hk/r/c/?_id=23311ce60945d90b2fd2a5a2361aef48aa6becc5&position=9&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
+		"img": "image/zalora.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Zuji",
+		"highlight" : "HK$200 OFF",
+		"coupon_code" : "number",
+		"description" : "Get HK$200 OFF with Min Spend HK$2,000 for Flights",
+		"url": "https://iprice.hk/coupons/zuji/?_id=c9738eb0d99c1259f00657aa0c89d8c6293d6c0d&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fzuji%2F",
+		"img": "image/zuji.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Agoda",
+		"highlight" : "10% OFF",
+		"coupon_code" : "5A9GQAB",
+		"description" : "Enjoy 10% OFF hotels in Melbourne",
+		"url": "https://iprice.hk/coupons/agoda/?_id=0c7bdb541847c84a26be2f1af0b0be866f45a483&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fagoda%2F",
+		"img": "image/agoda.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Ctrip",
+		"highlight" : "HK$200 OFF",
+		"coupon_code" : "GTJPHKD",
+		"description" : "Save up to HK$200 on hotels in Japan with min. Purchase HK$2000",
+		"url": "https://iprice.hk/coupons/ctrip/?_id=52a411fb5c49d967a7e19c84dc78fa65acac7510&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fctrip%2F",
+		"img": "image/ctrip.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "HomeAway",
+		"highlight" : "5% OFF",
+		"coupon_code" : "iprice5off",
+		"description" : "Enjoy extra 5% OFF on home rentals worldwide",
+		"url": "https://iprice.hk/coupons/homeaway/?_id=36467c6cf1f888b66eaf3032c645f004e9e124ec&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fhomeaway%2F",
+		"img": "image/homeaway.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "ParknShop",
+		"highlight" : "$160 OFF",
+		"coupon_code" : "PNS-AO",
+		"description" : "Grab a $160 eCoupon for next purchase with free delivery with a min. spend of $800",
+		"url": "https://iprice.hk/coupons/parknshop/?_id=79eb194d58f537cc64abf76b49b92bb4e2c99406&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fparknshop%2F",
+		"img": "image/parknshop.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Klook",
+		"highlight" : "75% OFF",
+		"coupon_code" : "KLKHKPP",
+		"description" : "Enjoy up to 75% OFF retail price on selected travel activities",
+		"url": "https://iprice.hk/coupons/klook/?_id=831d66c8ef00f7ef99475cb39e75abce37e9ff66&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fklook%2F%3F_id%3D831d66c8ef00f7ef99475cb39e75abce37e9ff66%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fklook%252F",
+		"img": "image/klook.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Charles & Keith",
+		"highlight" : "15% OFF",
+		"coupon_code" : "required",
+		"description" : "Charles & Keith shoe sale up to 15% OFF",
+		"url": "https://iprice.hk/coupons/charles-keith/?_id=9637ab2a338b9261a5166e21496b3a6585745566&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fcharles-keith%2F",
+		"img": "image/charles-keith.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Nike",
+		"highlight" : "15% OFF",
+		"coupon_code" : "required",
+		"description" : "11.11 Shopping Rewards - 15% discount on shopping",
+		"url": "https://iprice.hk/coupons/nike/?_id=da04cd553f0985a3ae4669685749e70cd0b0d93c&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fnike%2F",
+		"img": "image/nike.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "TransUnion",
+		"highlight" : "Mortgage",
+		"coupon_code" : "required",
+		"description" : "Prepare for a mortgage with TransUnion Mortgage",
+		"url": "https://iprice.hk/coupons/transunion/?_id=bf43e3874e35f9a74de88f60d28dd9dd4f89983e&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Ftransunion%2F",
+		"img": "image/transunion.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "AXA Travel Insurance",
+		"highlight" : "12% OFF",
+		"coupon_code" : "required",
+		"description" : "Enjoy up to 12% OFF + get covered for medical expenses up to HK$1,000,000",
+		"url": "https://iprice.hk/coupons/axa-travel-insurance/?_id=5505d726f2f5a2968fb2309328110b81c94e27bb&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Faxa-travel-insurance%2F",
+		"img": "image/axa.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "iHerb",
+		"highlight" : "$10 OFF",
+		"coupon_code" : "GNEW10",
+		"description" : "Get $10 OFF on your first purchase with min. spend of $40",
+		"url": "https://iprice.hk/coupons/iherb/?_id=5a19f87a77c659c98e0b282698591dc60703503a&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fiherb%2F",
+		"img": "image/iherb.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Sephora",
+		"highlight" : "30% OFF",
+		"coupon_code" : "required",
+		"description" : "Enjoy sale up to 30% OFF today",
+		"url": "https://iprice.hk/r/c/?_id=69e91cff8c74db9c74c161c5bac599f70586e704&position=6&sub_product=coupon-store&_exit=%2Fcoupons%2Fsephora%2F",
+		"img": "image/sephora.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Nike",
+		"highlight" : "Discount up to 40%",
+		"coupon_code" : "required",
+		"description" : "Enjoy up to 40% off selected items",
+		"url": "https://iprice.hk/r/c/?_id=7bb9b32e57d94796713c295ad323226d738a28a6&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fnike%2F",
+		"img": "image/nike.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Nike",
+		"highlight" : "11% OFF",
+		"coupon_code" : "1111SALE",
+		"description" : "Members are entitled to an extra 11% off with any purchase of 2 or more products",
+		"url": "https://iprice.hk/coupons/nike/?_id=84e4b7154b2f7427899677c2006952a2577b600f&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fnike%2F",
+		"img": "image/nike.jpg",
+		"type" : "popup"
+   }
+ ],
+"stores" : [
+	   {
+			"title": "Zalora",
+			"url": "https://iprice.hk/coupons/zalora/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+			"img": "image/zalora.jpg"
+	   },
+	   {
+	   		"title": "Zuji",
+	   		"url" : "https://iprice.hk/coupons/zuji/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+	   		"img": "image/zuji.jpg"
+	   },
+	   {
+	   		"title": "Agoda",
+	   		"url" : "https://iprice.hk/coupons/agoda/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+	   		"img": "image/agoda.jpg"
+	   },
+	   {
+	   		"title": "Ctrip",
+	   		"url" : "https://iprice.hk/coupons/ctrip/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+	   		"img": "image/ctrip.jpg"
+	   },
+	   {
+	   		"title": "HomeAway",
+	   		"url" : "https://iprice.hk/coupons/homeaway/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+	   		"img": "image/homeaway.jpg"
+	   },
+	   {
+	   		"title": "ParknShop",
+	   		"url" : "https://iprice.hk/coupons/parknshop/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+	   		"img": "image/parknshop.jpg"
+	   },
+	   {
+	   		"title": "Klook",
+	   		"url" : "https://iprice.hk/coupons/klook/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+	   		"img": "image/klook.jpg"
+	   },
+	   {
+	   		"title": "iHerb",
+	   		"url" : "https://iprice.hk/coupons/iherb/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+	   		"img": "image/iherb.jpg"
+	   }
+]	
+}
