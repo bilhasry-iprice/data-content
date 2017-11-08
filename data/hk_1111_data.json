@@ -1,5 +1,24 @@
 {
- "products" : [],
+ "products" : [
+ 	{
+		"title": "Valentino",
+		"description" : "Valentino",
+		"url": "http://bit.ly/2zn6vXr",
+		"img": "image/handphone_banner.jpg"
+	},
+	{
+		"title": "Marni",
+		"description" : "Marni",
+		"url": "http://bit.ly/2zFZPV5",
+		"img": "image/Fashion_banner.jpg"
+	},
+	{
+		"title": "Moschino",
+		"description" : "Moschino",
+		"url": "http://bit.ly/2iElXUx",
+		"img": "image/Kecantikan_banner.jpg"
+	}
+ ],
  "top_brands": [
 	   {
 			"title": "Reebok",
