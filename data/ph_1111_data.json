@@ -101,6 +101,33 @@
    },
    {
 		"title": "Lazada",
+		"highlight" : "Up to 30% OFF",
+		"coupon_code" : "UNILVR",
+		"description" : "Unilever Exclusive Sale - Up to 30% off with code for Dove, Ponds, TRESemme, St. Ives & more",
+		"url": "https://iprice.ph/coupons/lazada/?_id=e063bc220b5264175132c0db2fbe27884ba2c003&position=11&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
+		"img": "image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Lazada",
+		"highlight" : "P100 OFF",
+		"coupon_code" : "COLGATEPALMOLIVE100",
+		"description" : "Save P100 with Colgate",
+		"url": "https://iprice.ph/coupons/lazada/?_id=62335efbcca66c915ff1cdc9e6be79b2a70c9f6e&position=12&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F%3F_id%3De063bc220b5264175132c0db2fbe27884ba2c003%26position%3D11%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Flazada%252F",
+		"img": "image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Lazada",
+		"highlight" : "P100 OFF",
+		"coupon_code" : "DUREX100",
+		"description" : "Durex Voucher - Take P100 off with Code",
+		"url": "https://iprice.ph/coupons/lazada/?_id=bfe6434b2448e54fd984e08ac5d5b5ba6d0fa989&position=14&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F%3F_id%3Dbfe6434b2448e54fd984e08ac5d5b5ba6d0fa989%26position%3D14%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Flazada%252F%253F_id%253D0a9757f49beb893daf11631b5bc79c18934bc8d3%2526position%253D13%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Flazada%25252F%25253F_id%25253D62335efbcca66c915ff1cdc9e6be79b2a70c9f6e%252526position%25253D12%252526sub_product%25253Dcoupon-store%252526_exit%25253D%2525252Fcoupons%2525252Flazada%2525252F%2525253F_id%2525253De063bc220b5264175132c0db2fbe27884ba2c003%25252526position%2525253D11%25252526sub_product%2525253Dcoupon-store%25252526_exit%2525253D%252525252Fcoupons%252525252Flazada%252525252F",
+		"img": "image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Lazada",
 		"highlight" : "P500 OFF",
 		"coupon_code" : "LENOVO100",
 		"description" : "P500 OFF on First 250 LENOVO Customers",
