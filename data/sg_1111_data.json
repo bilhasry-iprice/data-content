@@ -145,6 +145,15 @@
 		"type" : "popup"
    },
    {
+		"title": "Lazada",
+		"highlight" : "Up to 50%",
+		"coupon_code" : "LADAPP10",
+		"description" : "Download App, Get up to 50% OFF Storewide",
+		"url": "https://iprice.sg/coupons/lazada/?_id=a28b75e31aaff7952194f7d2dc5a40a813f794df&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
+		"img": "image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
 		"title": "YOOX",
 		"highlight" : "Free Shipping",
 		"coupon_code" : "IPRICEFS",
