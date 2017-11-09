@@ -110,6 +110,15 @@
 		"type" : "popup"
    },
    {
+		"title": "Shopdeca",
+		"highlight" : "10% OFF",
+		"coupon_code" : "SHOPDECANOV",
+		"description" : "Semua Produk extra 10% off",
+		"url": "https://iprice.co.id/coupons/shopdeca/?_id=ce48f40cb7378ab635e0f77920fa6e25a7a24d67&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fshopdeca%2F",
+		"img": "image/shopdeca.jpg",
+		"type" : "popup"
+   },
+   {
 		"title": "Hijabenka",
 		"highlight" : "75 ribu OFF",
 		"coupon_code" : "RTIP1111HB",
