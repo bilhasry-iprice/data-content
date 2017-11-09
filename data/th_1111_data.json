@@ -66,6 +66,33 @@
  "coupons": [
    {
 		"title": "Central",
+		"highlight" : "5% OFF",
+		"coupon_code" : "EDEAL5",
+		"description" : "ร่วมปลุกสัญชาตญาณนักช้อป! ของใช้และของตกแต่งบ้านลดสุดๆ 65% รับฟรี คูปองส่วนลด 5% เมื่อช้อปครบ 3,000บาท",
+		"url": "https://ipricethailand.com/coupons/central-online/?_id=ef327e4ece1cc8a28d046a70fc6185ee129b28c0&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fcentral-online%2F",
+		"img": "image/central.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Central",
+		"highlight" : "7% OFF",
+		"coupon_code" : "EDEAL7",
+		"description" : "นี้ ชุดกิฟต์เซตเพื่อความงามจากแบรนด์ดังมากมายให้คุณได้เลือกสรร และคูปองส่วนลดอีก 7%!! เมื่อช้อปครบ 6,000 บาท",
+		"url": "https://ipricethailand.com/coupons/central-online/?_id=c3fb07beeeefec54cc77fc379864a010694b7c34&position=6&sub_product=coupon-store&_exit=%2Fcoupons%2Fcentral-online%2F%3F_id%3Def327e4ece1cc8a28d046a70fc6185ee129b28c0%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fcentral-online%252F",
+		"img": "image/central.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Central",
+		"highlight" : "11% OFF",
+		"coupon_code" : "EDEAL11",
+		"description" : "เฟอร์นิเจอร์และของใช้ในบ้านลดกว่า 65% พร้อมรับส่วนลดสูงสุด 2,200 บาท ทันที เมื่อช้อปครบ 10,000 บาท",
+		"url": "https://ipricethailand.com/coupons/central-online/?_id=b4d914e5f030bfcd6adb9cf9c32f3d130edd63b4&position=7&sub_product=coupon-store&_exit=%2Fcoupons%2Fcentral-online%2F%3F_id%3Dc3fb07beeeefec54cc77fc379864a010694b7c34%26position%3D6%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fcentral-online%252F%253F_id%253Def327e4ece1cc8a28d046a70fc6185ee129b28c0%2526position%253D1%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Fcentral-online%25252F",
+		"img": "image/central.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Central",
 		"highlight" : "40% OFF",
 		"coupon_code" : "*****",
 		"description" : "ADIDAS มอบส่วนลดมากถึง 40% !! เลือกรองเท้า Adidas รุ่นใหม่ พร้อมข้อเสนอพิเศษได้แล้วที่นี่!!",
