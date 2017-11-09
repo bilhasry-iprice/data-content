@@ -91,6 +91,15 @@
 		"type" : "popup"
    },
    {
+		"title": "Zalora",
+		"highlight" : "27% OFF",
+		"coupon_code" : "GUESS27",
+		"description" : "Grab your favorite GUESS collection & enjoy 27% OFF",
+		"url": "https://iprice.my/coupons/zalora/?_id=9b3a961576ec11c29867c42b64f59ee25b2dbabe&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
+		"img": "image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
 		"title": "KKDay",
 		"highlight" : "6% OFF",
 		"coupon_code" : "IPRICE6",
