@@ -110,6 +110,15 @@
 		"type" : "popup"
    },
    {
+		"title": "Hijabenka",
+		"highlight" : "75 ribu OFF",
+		"coupon_code" : "RTIP1111HB",
+		"description" : "Voucher Hijabenka 75 Ribu Semua Produk Menuju 11.11 Sale",
+		"url": "https://iprice.co.id/coupons/hijabenka/?_id=5259196648efee794eb3cf862f66e3f2f56b028c&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fhijabenka%2F",
+		"img": "image/hijabenka.jpg",
+		"type" : "popup"
+   },
+   {
 		"title": "Perfect Beauty",
 		"highlight" : "50 ribu OFF",
 		"coupon_code" : "IP11-12",
