@@ -109,12 +109,75 @@
 		"type" : "popup"
    },
    {
+		"title": "Zalora",
+		"highlight" : "18% OFF",
+		"coupon_code" : "OCTPAYDAY",
+		"description" : "Get 18% OFF Storewide!",
+		"url": "https://iprice.sg/coupons/zalora/?_id=e42a838c68ecf1b4c28798a3437ad8dad2560c67&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
+		"img": "image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
 		"title": "YOOX",
 		"highlight" : "Free Shipping",
 		"coupon_code" : "IPRICEFS",
 		"description" : "Enjoy free shipping with no min purchase",
 		"url": "https://iprice.sg/coupons/yoox/?_id=eae2871c5236f3ddafd196c73614cca9508b2fa2&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fyoox%2F",
 		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/yoox.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "KKDay",
+		"highlight" : "20% OFF",
+		"coupon_code" : "IPRICE20",
+		"description" : "Book Selected Activities, Receive 20% OFF!",
+		"url": "https://iprice.sg/coupons/kkday/?_id=18a69cace11b55997ee5cb6794c5be5baf751af1&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fkkday%2F",
+		"img": "image/kkday.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "KKDay",
+		"highlight" : "6% OFF",
+		"coupon_code" : "IPRICE6",
+		"description" : "For Citibank Credit Card Users : Receive 6% OFF Worldwide",
+		"url": "https://iprice.sg/coupons/kkday/?_id=4bd5beff9e208d9371b1473483aa512a68d963e4&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fkkday%2F%3F_id%3D18a69cace11b55997ee5cb6794c5be5baf751af1%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fkkday%252F",
+		"img": "image/kkday.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Althea",
+		"highlight" : "11% OFF",
+		"coupon_code" : "IPRI1111SG17",
+		"description" : "Get 11% OFF Storewide!",
+		"url": "https://iprice.sg/coupons/althea/?_id=e821dcb313363cf77cc0b2f07f9e3d4f4fec4127&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Falthea%2F%3F_id%3Df7b5b787b1b8b516f283353b6af77687b7c48871%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Falthea%252F",
+		"img": "image/althea.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Althea",
+		"highlight" : "10% OFF",
+		"coupon_code" : "OMGSG17Q04",
+		"description" : "Enjoy 10% OFF Storewide",
+		"url": "https://iprice.sg/coupons/althea/?_id=f7b5b787b1b8b516f283353b6af77687b7c48871&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Falthea%2F%3F_id%3De821dcb313363cf77cc0b2f07f9e3d4f4fec4127%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Falthea%252F%253F_id%253Df7b5b787b1b8b516f283353b6af77687b7c48871%2526position%253D2%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Falthea%25252F",
+		"img": "image/althea.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Klook",
+		"highlight" : "$100 OFF",
+		"coupon_code" : "YES100",
+		"description" : "Book Year End Holiday, GET $100 OFF!",
+		"url": "https://iprice.sg/coupons/klook/?_id=da4b9237bacccdf19c0760cab7aec4a8359010b0&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fklook%2F",
+		"img": "image/klook.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Qoo10",
+		"highlight" : "10% OFF",
+		"coupon_code" : "QOO10SG",
+		"description" : "Get 10% OFF Storewide!",
+		"url": "https://iprice.sg/coupons/qoo10/?_id=a7ec2d73a5204a7cf5fc46e5404d35e9de95c6c5&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fqoo10%2F%3Fnocache%3D1",
+		"img": "image/qoo10.jpg",
 		"type" : "popup"
    },
    {
@@ -179,7 +242,7 @@
 		"url": "https://iprice.sg/coupons/ubereats/?_id=84329c7b94c88ebe85dff0c2cdba64ad859f38da&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fubereats%2F",
 		"img": "image/ubereats.jpg",
 		"type" : "popup"
-   },
+   },   (
    {
 		"title": "Redmart",
 		"highlight" : "$15 OFF",
