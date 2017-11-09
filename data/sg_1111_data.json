@@ -127,12 +127,75 @@
 		"type" : "popup"
    },
    {
+		"title": "Zalora",
+		"highlight" : "Up to 30% OFF",
+		"coupon_code" : "IPRICENOV",
+		"description" : "For Shoes & Bags: Get 2 for 20%, Buy 3 for 30% + EXTRA 14% OFF!",
+		"url": "https://iprice.sg/coupons/zalora/?_id=f7f3b9d54e2ca846ba3d03f97c32eb56cd0acd1a&position=5&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
+		"img": "image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Zalora",
+		"highlight" : "14% OFF",
+		"coupon_code" : "IPRICENOV",
+		"description" : "Get 14% OFF Storewide with Min Spend SG$120",
+		"url": "https://iprice.sg/coupons/zalora/?_id=d89fe52895e0616b4bd001354401510a2afa84f1&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F%3F_id%3Dd89fe52895e0616b4bd001354401510a2afa84f1%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fzalora%252F%253Fnocache%253D1",
+		"img": "image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
 		"title": "YOOX",
 		"highlight" : "Free Shipping",
 		"coupon_code" : "IPRICEFS",
 		"description" : "Enjoy free shipping with no min purchase",
 		"url": "https://iprice.sg/coupons/yoox/?_id=eae2871c5236f3ddafd196c73614cca9508b2fa2&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fyoox%2F",
 		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/yoox.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "SmartBuyGlasses",
+		"highlight" : "10% OFF",
+		"coupon_code" : "IPRICE10",
+		"description" : "Get 10% OFF Storewide!",
+		"url": "https://iprice.sg/coupons/smartbuyglasses/?_id=829f763912bf5bf64623de9edc58ca344ab98ba1&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fsmartbuyglasses%2F%3F_id%3D829f763912bf5bf64623de9edc58ca344ab98ba1%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fsmartbuyglasses%252F",
+		"img": "image/smartbuyglasses.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "SmartBuyGlasses",
+		"highlight" : "25% OFF",
+		"coupon_code" : "RXGLOBE25",
+		"description" : "Get 25% OFF on all RX / Glasses Frames for Prescription Lenses",
+		"url": "https://iprice.sg/coupons/smartbuyglasses/?_id=65bdcec87a2afe71e04071c0d04ee030c9e65db7&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fsmartbuyglasses%2F%3F_id%3D829f763912bf5bf64623de9edc58ca344ab98ba1%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fsmartbuyglasses%252F%253F_id%253D829f763912bf5bf64623de9edc58ca344ab98ba1%2526position%253D1%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Fsmartbuyglasses%25252F",
+		"img": "image/smartbuyglasses.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Quandoo",
+		"highlight" : "Extra 200 Points",
+		"coupon_code" : "QND200SG",
+		"description" : "Register with This Code, Get EXTRA 200 Loyalty Points!",
+		"url": "https://iprice.sg/coupons/quandoo/?_id=cee96a74e3ae24371f969c8704b94bad8463ea3b&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fquandoo%2F%3F_id%3Dcee96a74e3ae24371f969c8704b94bad8463ea3b%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fquandoo%252F%253F_id%253Dcee96a74e3ae24371f969c8704b94bad8463ea3b%2526position%253D1%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Fquandoo%25252F%25253Fnocache%25253D1",
+		"img": "image/quandoo.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "iShopChangi",
+		"highlight" : "$50 OFF",
+		"coupon_code" : "FIRST11",
+		"description" : "Get up SG$50 OFF Storewide for New Users!",
+		"url": "https://iprice.sg/coupons/ishopchangi/?_id=9d0009ab81fb42589c4bcfadd1a0df97bb88e367&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fishopchangi%2F%3F_id%3D9d0009ab81fb42589c4bcfadd1a0df97bb88e367%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fishopchangi%252F",
+		"img": "image/ishopchangi.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "FlowerAdvisor",
+		"highlight" : "10% OFF",
+		"coupon_code" : "NOVEMBERNORAIN",
+		"description" : "Get 10% OFF for All Customers!",
+		"url": "https://iprice.sg/coupons/floweradvisor/?_id=3fc1e4a4b76e7526acf40eb79c13fe4fc0ce5206&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Ffloweradvisor%2F%3Fnocache%3D1",
+		"img": "image/floweradvisor.jpg",
 		"type" : "popup"
    },
    {
@@ -251,7 +314,7 @@
 		"url": "https://iprice.sg/coupons/ubereats/?_id=84329c7b94c88ebe85dff0c2cdba64ad859f38da&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fubereats%2F",
 		"img": "image/ubereats.jpg",
 		"type" : "popup"
-   },   (
+   },
    {
 		"title": "Redmart",
 		"highlight" : "$15 OFF",
