@@ -83,6 +83,15 @@
  "coupons": [
    {
 		"title": "Zalora",
+		"highlight" : "Discount up to 30%",
+		"coupon_code" : "IPRICENOV",
+		"description" : "For Shoes & Bags: Get 2 for 20%, Buy 3 for 30% + EXTRA 14% OFF!",
+		"url": "https://iprice.sg/coupons/zalora/?_id=f7f3b9d54e2ca846ba3d03f97c32eb56cd0acd1a&position=5&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
+		"img": "image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Zalora",
 		"highlight" : "Discount up to 70%",
 		"coupon_code" : "IPRICENOV",
 		"description" : "For women, get up to 70% + 14% OFF",
