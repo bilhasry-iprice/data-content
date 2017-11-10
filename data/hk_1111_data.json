@@ -102,15 +102,6 @@
    },
    {
 		"title": "Zalora",
-		"highlight" : "50% + Extra 20% Off",
-		"coupon_code" : "MOSCHINOTAKE20",
-		"description" : "Enjoy up to 50% + Extra 20% Off Love Moschino",
-		"url": "https://iprice.hk/coupons/zalora/?_id=0c1a1ffd34ccf491e17ca09fe743323a817a9f50&position=4&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F%3F_id%3D64d701a13d9325d67132d9f96e1913c4c7b2fa75%26position%3D3%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fzalora%252F%253Fnocache%253D1",
-		"img": "image/zalora.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Zalora",
 		"highlight" : "13% OFF",
 		"coupon_code" : "A11FORYOU",
 		"description" : "Shop & enjoy extra 13% Off this November",
