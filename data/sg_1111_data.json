@@ -132,7 +132,7 @@
 		"coupon_code" : "IPRICENOV",
 		"description" : "Get up to 70% + 14% OFF for Zalora Labels Men!",
 		"url": "https://iprice.sg/coupons/zalora/?_id=56d3ae25637586ea37210be8e2f89621964fd85c&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
-		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/zalora.jpg",
+		"img": "image/zalora.jpg",
 		"type" : "popup"
    },
    {
@@ -168,7 +168,7 @@
 		"coupon_code" : "Q10SG110",
 		"description" : "Enjoy SG$110 OFF, Min Spend SG$800 for Selected Items!",
 		"url": "https://iprice.sg/coupons/qoo10/?_id=b34767a0526ca9a61e59fe03557c9ed616e127a5&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fqoo10%2F%3Fnocache%3D1",
-		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/qoo10.jpg",
+		"img": "image/qoo10.jpg",
 		"type" : "popup"
    },
    {
@@ -222,7 +222,7 @@
 		"coupon_code" : "IPRICEFS",
 		"description" : "Enjoy free shipping with no min purchase",
 		"url": "https://iprice.sg/coupons/yoox/?_id=eae2871c5236f3ddafd196c73614cca9508b2fa2&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fyoox%2F",
-		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/yoox.jpg",
+		"img": "image/yoox.jpg",
 		"type" : "popup"
    },
    {
