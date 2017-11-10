@@ -81,24 +81,6 @@
         }
     ],
  "coupons": [
-  {
-		"title": "Zalora",
-		"highlight" : "Up to 50% + 20% OFF",
-		"coupon_code" : "MOSCHINOTAKE20",
-		"description" : "Buy Moschino Fashion Items, Get up to 50% + EXTRA 20% OFF!",
-		"url": "https://iprice.sg/coupons/zalora/?_id=7c7f3e30ac94f0327435159db42fa873dbc9f3e1&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
-		"img": "image/zalora.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Zalora",
-		"highlight" : "20% OFF",
-		"coupon_code" : "COTTONTAKE20",
-		"description" : "For Cotton On: Shop Selected Items, Starts from SG$20 + EXTRA 20% OFF!",
-		"url": "https://iprice.sg/coupons/zalora/?_id=bd4769aed48aadb35f233772a29e71f6205fb78a&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F%3F_id%3D7c7f3e30ac94f0327435159db42fa873dbc9f3e1%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fzalora%252F",
-		"img": "image/zalora.jpg",
-		"type" : "popup"
-   },
    {
 		"title": "Zalora",
 		"highlight" : "Discount up to 30%",
