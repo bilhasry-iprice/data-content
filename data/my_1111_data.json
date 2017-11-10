@@ -109,6 +109,24 @@
 		"type" : "popup"
    },
    {
+		"title": "Lazada",
+		"highlight" : "20% OFF",
+		"coupon_code" : "LAZ20SNS",
+		"description" : "Enjoy 20% OFF Tech Megasale today",
+		"url": "https://iprice.my/coupons/lazada/?_id=fab575cd8f49405ce28259a2ac519e307acad6f6&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
+		"img": "image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Microsoft",
+		"highlight" : "Save RM120",
+		"coupon_code" : "required",
+		"description" : "Save up to RM120 on Office 365 Home and Student 2016",
+		"url": "https://iprice.my/r/c/?_id=43ec6bd3d6419ef8d750c537066244a3577d1d86&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fmicrosoft%2F",
+		"img": "image/microsoft.jpg",
+		"type" : "direct"
+   },
+   {
 		"title": "KKDay",
 		"highlight" : "6% OFF",
 		"coupon_code" : "IPRICE6",
@@ -143,24 +161,6 @@
 		"url": "https://iprice.my/coupons/althea/?_id=2c0a495f3fe0e0e8b93668b485ffdd080ff6e282&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Falthea%2F",
 		"img": "image/althea.jpg",
 		"type" : "popup"
-   },
-   {
-		"title": "Lazada",
-		"highlight" : "20% OFF",
-		"coupon_code" : "LAZ20SNS",
-		"description" : "Enjoy 20% OFF Tech Megasale today",
-		"url": "https://iprice.my/coupons/lazada/?_id=fab575cd8f49405ce28259a2ac519e307acad6f6&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
-		"img": "image/lazada.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Microsoft",
-		"highlight" : "Save RM120",
-		"coupon_code" : "required",
-		"description" : "Save up to RM120 on Office 365 Home and Student 2016",
-		"url": "https://iprice.my/r/c/?_id=43ec6bd3d6419ef8d750c537066244a3577d1d86&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fmicrosoft%2F",
-		"img": "image/microsoft.jpg",
-		"type" : "direct"
    },
    {
 		"title": "Gearbest",
