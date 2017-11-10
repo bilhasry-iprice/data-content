@@ -163,6 +163,60 @@
 		"type" : "popup"
    },
    {
+		"title": "Lazada",
+		"highlight" : "Up to 50%",
+		"coupon_code" : "LADAPP10",
+		"description" : "Download App, Get up to 50% OFF Storewide",
+		"url": "https://iprice.sg/coupons/lazada/?_id=a28b75e31aaff7952194f7d2dc5a40a813f794df&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
+		"img": "image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Lazada",
+		"highlight" : "$6 OFF",
+		"coupon_code" : "*****",
+		"description" : "Receive $6 OFF express deals with your Citibank Card",
+		"url": "https://iprice.sg/coupons/lazada/?_id=535abd3e13c5df78e80e82a2a563787f942003cb&position=13&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
+		"img": "image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Lazada",
+		"highlight" : "$200 OFF",
+		"coupon_code" : "AC11200",
+		"description" : "Lazada 11.11 Sale: Buy Acer, Get SG$200 OFF, Min Purchase SG$2500!",
+		"url": "https://iprice.sg/coupons/lazada/?_id=c58a497c7a7014510e35f72e23be24c5cd2ff63b&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F%3F_id%3Dc58a497c7a7014510e35f72e23be24c5cd2ff63b%26position%3D3%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Flazada%252F",
+		"img": "image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Lazada",
+		"highlight" : "$11 OFF",
+		"coupon_code" : "LOVERB11",
+		"description" : "Buy Reckitt Benckiser Products, Enjoy SG$11 OFF Min Spend SG$50",
+		"url": "https://iprice.sg/coupons/lazada/?_id=d859e9b1de9c18e6d6ca31a14ee7834ca225e8d8&position=4&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F%3F_id%3Dc58a497c7a7014510e35f72e23be24c5cd2ff63b%26position%3D3%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Flazada%252F%253F_id%253Dc58a497c7a7014510e35f72e23be24c5cd2ff63b%2526position%253D3%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Flazada%25252F",
+		"img": "image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Lazada",
+		"highlight" : "18% OFF",
+		"coupon_code" : "ORIPRICE2017",
+		"description" : "Enjoy 18% off storewide for new customers!",
+		"url": "https://iprice.sg/coupons/lazada/?_id=51ffbb81d993330dc87a1c8a79d91e98185bdea5&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
+		"img": "image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Microsoft",
+		"highlight" : "$249 OFF",
+		"coupon_code" : "required",
+		"description" : "Save $249 on Surface 3",
+		"url": "https://iprice.sg/r/c/?_id=d6c8d019b5be9ae93e15e674eeae1cde8078370b&position=7&sub_product=coupon-store&_exit=%2Fcoupons%2Fmicrosoft%2F",
+		"img": "image/microsoft.jpg",
+		"type" : "direct"
+   },
+   {
 		"title": "Qoo10",
 		"highlight" : "$110 OFF",
 		"coupon_code" : "Q10SG110",
@@ -208,12 +262,12 @@
 		"type" : "popup"
    },
    {
-		"title": "Lazada",
-		"highlight" : "Up to 50%",
-		"coupon_code" : "LADAPP10",
-		"description" : "Download App, Get up to 50% OFF Storewide",
-		"url": "https://iprice.sg/coupons/lazada/?_id=a28b75e31aaff7952194f7d2dc5a40a813f794df&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
-		"img": "image/lazada.jpg",
+		"title": "Qoo10",
+		"highlight" : "10% OFF",
+		"coupon_code" : "QOO10SG",
+		"description" : "Get 10% OFF Storewide!",
+		"url": "https://iprice.sg/coupons/qoo10/?_id=a7ec2d73a5204a7cf5fc46e5404d35e9de95c6c5&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fqoo10%2F%3Fnocache%3D1",
+		"img": "image/qoo10.jpg",
 		"type" : "popup"
    },
    {
@@ -262,15 +316,6 @@
 		"type" : "popup"
    },
    {
-		"title": "Qoo10",
-		"highlight" : "10% OFF",
-		"coupon_code" : "QOO10SG",
-		"description" : "Get 10% OFF Storewide!",
-		"url": "https://iprice.sg/coupons/qoo10/?_id=a7ec2d73a5204a7cf5fc46e5404d35e9de95c6c5&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fqoo10%2F%3Fnocache%3D1",
-		"img": "image/qoo10.jpg",
-		"type" : "popup"
-   },
-   {
 		"title": "Zuji",
 		"highlight" : "12% OFF",
 		"coupon_code" : "*****",
@@ -295,15 +340,6 @@
 		"description" : "Enjoy SG$15 OFF storewide!",
 		"url": "https://iprice.sg/coupons/redmart/?_id=2286ef1ac73a1f0991902f09630245bc49ac5344&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fredmart%2F",
 		"img": "image/redmart.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Lazada",
-		"highlight" : "$6 OFF",
-		"coupon_code" : "*****",
-		"description" : "Receive $6 OFF express deals with your Citibank Card",
-		"url": "https://iprice.sg/coupons/lazada/?_id=535abd3e13c5df78e80e82a2a563787f942003cb&position=13&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
-		"img": "image/lazada.jpg",
 		"type" : "popup"
    },
    {
@@ -334,24 +370,6 @@
 		"type" : "popup"
    },
    {
-		"title": "Lazada",
-		"highlight" : "$200 OFF",
-		"coupon_code" : "AC11200",
-		"description" : "Lazada 11.11 Sale: Buy Acer, Get SG$200 OFF, Min Purchase SG$2500!",
-		"url": "https://iprice.sg/coupons/lazada/?_id=c58a497c7a7014510e35f72e23be24c5cd2ff63b&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F%3F_id%3Dc58a497c7a7014510e35f72e23be24c5cd2ff63b%26position%3D3%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Flazada%252F",
-		"img": "image/lazada.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Lazada",
-		"highlight" : "$11 OFF",
-		"coupon_code" : "LOVERB11",
-		"description" : "Buy Reckitt Benckiser Products, Enjoy SG$11 OFF Min Spend SG$50",
-		"url": "https://iprice.sg/coupons/lazada/?_id=d859e9b1de9c18e6d6ca31a14ee7834ca225e8d8&position=4&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F%3F_id%3Dc58a497c7a7014510e35f72e23be24c5cd2ff63b%26position%3D3%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Flazada%252F%253F_id%253Dc58a497c7a7014510e35f72e23be24c5cd2ff63b%2526position%253D3%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Flazada%25252F",
-		"img": "image/lazada.jpg",
-		"type" : "popup"
-   },
-   {
 		"title": "Althea",
 		"highlight" : "25% OFF",
 		"coupon_code" : "WOW25",
@@ -359,15 +377,6 @@
 		"url": "https://iprice.sg/coupons/althea/?_id=4ba3e98f981902084d505bb0be441777db1495e3&position=4&sub_product=coupon-store&_exit=%2Fcoupons%2Falthea%2F%3F_id%3D0c47c784009d7f4175eba392ae63ad65474fe951%26position%3D3%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Falthea%252F",
 		"img": "image/althea.jpg",
 		"type" : "popup"
-   },
-   {
-		"title": "Microsoft",
-		"highlight" : "$249 OFF",
-		"coupon_code" : "required",
-		"description" : "Save $249 on Surface 3",
-		"url": "https://iprice.sg/r/c/?_id=d6c8d019b5be9ae93e15e674eeae1cde8078370b&position=7&sub_product=coupon-store&_exit=%2Fcoupons%2Fmicrosoft%2F",
-		"img": "image/microsoft.jpg",
-		"type" : "direct"
    },
    {
 		"title": "KKday",
@@ -394,15 +403,6 @@
 		"description" : "Enjoy $15 off storewide!",
 		"url": "https://iprice.sg/coupons/redmart/?_id=2286ef1ac73a1f0991902f09630245bc49ac5344&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fredmart%2F",
 		"img": "image/redmart.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Lazada",
-		"highlight" : "18% OFF",
-		"coupon_code" : "ORIPRICE2017",
-		"description" : "Enjoy 18% off storewide for new customers!",
-		"url": "https://iprice.sg/coupons/lazada/?_id=51ffbb81d993330dc87a1c8a79d91e98185bdea5&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
-		"img": "image/lazada.jpg",
 		"type" : "popup"
    },
    {
