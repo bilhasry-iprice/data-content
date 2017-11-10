@@ -235,42 +235,6 @@
 		"type" : "popup"
    },
    {
-		"title": "SmartBuyGlasses",
-		"highlight" : "25% OFF",
-		"coupon_code" : "RXGLOBE25",
-		"description" : "Get 25% OFF on all RX / Glasses Frames for Prescription Lenses",
-		"url": "https://iprice.sg/coupons/smartbuyglasses/?_id=65bdcec87a2afe71e04071c0d04ee030c9e65db7&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fsmartbuyglasses%2F%3F_id%3D829f763912bf5bf64623de9edc58ca344ab98ba1%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fsmartbuyglasses%252F%253F_id%253D829f763912bf5bf64623de9edc58ca344ab98ba1%2526position%253D1%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Fsmartbuyglasses%25252F",
-		"img": "image/smartbuyglasses.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Quandoo",
-		"highlight" : "Extra 200 Points",
-		"coupon_code" : "QND200SG",
-		"description" : "Register with This Code, Get EXTRA 200 Loyalty Points!",
-		"url": "https://iprice.sg/coupons/quandoo/?_id=cee96a74e3ae24371f969c8704b94bad8463ea3b&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fquandoo%2F%3F_id%3Dcee96a74e3ae24371f969c8704b94bad8463ea3b%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fquandoo%252F%253F_id%253Dcee96a74e3ae24371f969c8704b94bad8463ea3b%2526position%253D1%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Fquandoo%25252F%25253Fnocache%25253D1",
-		"img": "image/quandoo.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "iShopChangi",
-		"highlight" : "$50 OFF",
-		"coupon_code" : "FIRST11",
-		"description" : "Get up SG$50 OFF Storewide for New Users!",
-		"url": "https://iprice.sg/coupons/ishopchangi/?_id=9d0009ab81fb42589c4bcfadd1a0df97bb88e367&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fishopchangi%2F%3F_id%3D9d0009ab81fb42589c4bcfadd1a0df97bb88e367%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fishopchangi%252F",
-		"img": "image/ishopchangi.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "FlowerAdvisor",
-		"highlight" : "10% OFF",
-		"coupon_code" : "NOVEMBERNORAIN",
-		"description" : "Get 10% OFF for All Customers!",
-		"url": "https://iprice.sg/coupons/floweradvisor/?_id=3fc1e4a4b76e7526acf40eb79c13fe4fc0ce5206&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Ffloweradvisor%2F%3Fnocache%3D1",
-		"img": "image/floweradvisor.jpg",
-		"type" : "popup"
-   },
-   {
 		"title": "KKDay",
 		"highlight" : "20% OFF",
 		"coupon_code" : "IPRICE20",
@@ -280,29 +244,11 @@
 		"type" : "popup"
    },
    {
-		"title": "KKDay",
-		"highlight" : "6% OFF",
-		"coupon_code" : "IPRICE6",
-		"description" : "For Citibank Credit Card Users : Receive 6% OFF Worldwide",
-		"url": "https://iprice.sg/coupons/kkday/?_id=4bd5beff9e208d9371b1473483aa512a68d963e4&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fkkday%2F%3F_id%3D18a69cace11b55997ee5cb6794c5be5baf751af1%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fkkday%252F",
-		"img": "image/kkday.jpg",
-		"type" : "popup"
-   },
-   {
 		"title": "Althea",
 		"highlight" : "11% OFF",
 		"coupon_code" : "IPRI1111SG17",
 		"description" : "Get 11% OFF Storewide!",
 		"url": "https://iprice.sg/coupons/althea/?_id=e821dcb313363cf77cc0b2f07f9e3d4f4fec4127&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Falthea%2F%3F_id%3Df7b5b787b1b8b516f283353b6af77687b7c48871%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Falthea%252F",
-		"img": "image/althea.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Althea",
-		"highlight" : "10% OFF",
-		"coupon_code" : "OMGSG17Q04",
-		"description" : "Enjoy 10% OFF Storewide",
-		"url": "https://iprice.sg/coupons/althea/?_id=f7b5b787b1b8b516f283353b6af77687b7c48871&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Falthea%2F%3F_id%3De821dcb313363cf77cc0b2f07f9e3d4f4fec4127%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Falthea%252F%253F_id%253Df7b5b787b1b8b516f283353b6af77687b7c48871%2526position%253D2%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Falthea%25252F",
 		"img": "image/althea.jpg",
 		"type" : "popup"
    },
@@ -361,6 +307,60 @@
 		"type" : "popup"
    },
    {
+		"title": "Uber",
+		"highlight" : "$11 OFF",
+		"coupon_code" : "1PR1CESG",
+		"description" : "Get SG$11 OFF for First Rides!",
+		"url": "https://iprice.sg/coupons/uber/?_id=c9b8a504d867734e1329733cfed9d10046ea6f65&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F%3Fnocache%3D1",
+		"img": "image/Uber.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Hotels.com",
+		"highlight" : "7% OFF",
+		"coupon_code" : "OMGNOV17",
+		"description" : "Hotels.com 11.11 Sale: Enjoy EXTRA 7% OFF on Hotels Booking!",
+		"url": "https://iprice.sg/coupons/hotelscom/?_id=5e56ab12cf30e7893cfb3ac7403844444e4a5928&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fhotelscom%2F%3Fnocache%3D1",
+		"img": "image/hotelscom.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Charles & Keith",
+		"highlight" : "50% OFF",
+		"coupon_code" : "*****",
+		"description" : "Charles & Keith 11.11 Sale: Get up to 50% OFF for Selected Styles!",
+		"url": "https://iprice.sg/coupons/charles-keith/?_id=78da731674b8a2679704581ce2c8f4bb8d7544f1&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fcharles-keith%2F%3Fnocache%3D1",
+		"img": "image/charles&keith.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Lazada",
+		"highlight" : "$200 OFF",
+		"coupon_code" : "AC11200",
+		"description" : "Lazada 11.11 Sale: Buy Acer, Get SG$200 OFF, Min Purchase SG$2500!",
+		"url": "https://iprice.sg/coupons/lazada/?_id=c58a497c7a7014510e35f72e23be24c5cd2ff63b&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F%3F_id%3Dc58a497c7a7014510e35f72e23be24c5cd2ff63b%26position%3D3%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Flazada%252F",
+		"img": "image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Lazada",
+		"highlight" : "$11 OFF",
+		"coupon_code" : "LOVERB11",
+		"description" : "Buy Reckitt Benckiser Products, Enjoy SG$11 OFF Min Spend SG$50",
+		"url": "https://iprice.sg/coupons/lazada/?_id=d859e9b1de9c18e6d6ca31a14ee7834ca225e8d8&position=4&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F%3F_id%3Dc58a497c7a7014510e35f72e23be24c5cd2ff63b%26position%3D3%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Flazada%252F%253F_id%253Dc58a497c7a7014510e35f72e23be24c5cd2ff63b%2526position%253D3%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Flazada%25252F",
+		"img": "image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Althea",
+		"highlight" : "25% OFF",
+		"coupon_code" : "WOW25",
+		"description" : "Buy Selected Makeup & Skin Care, Get 25% OFF",
+		"url": "https://iprice.sg/coupons/althea/?_id=4ba3e98f981902084d505bb0be441777db1495e3&position=4&sub_product=coupon-store&_exit=%2Fcoupons%2Falthea%2F%3F_id%3D0c47c784009d7f4175eba392ae63ad65474fe951%26position%3D3%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Falthea%252F",
+		"img": "image/althea.jpg",
+		"type" : "popup"
+   },
+   {
 		"title": "Microsoft",
 		"highlight" : "$249 OFF",
 		"coupon_code" : "required",
@@ -415,30 +415,12 @@
 		"type" : "popup"
    },
    {
-		"title": "Hotels.com",
-		"highlight" : "12% OFF",
-		"coupon_code" : "SCBSG12",
-		"description" : "Get 12% off by using Standard Chartered Credit Card",
-		"url": "https://iprice.sg/coupons/hotelscom/?_id=cce031003d4a9e3d442b7c03e65ad5a4461e97c0&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fhotelscom%2F",
-		"img": "image/hotelscom.jpg",
-		"type" : "popup"
-   },
-   {
 		"title": "Expedia",
 		"highlight" : "10% OFF",
 		"coupon_code" : "JOG10OFF",
 		"description" : "Get 10% off hotels in Yogyakarta!",
 		"url": "https://iprice.sg/coupons/expedia/?_id=634636bb3b798c46c5815961ce54be6fb6c13570&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fexpedia%2F%3Fnocache%3D1",
 		"img": "image/expedia.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "KKday",
-		"highlight" : "10% OFF",
-		"coupon_code" : "OCBC10",
-		"description" : "Get 10% off exclusive deals in Korea!",
-		"url": "https://iprice.sg/coupons/kkday/?_id=8ed8efbf3a2bc7b6ea6e40b27458b444a8e87ce2&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fkkday%2F",
-		"img": "image/kkday.jpg",
 		"type" : "popup"
    },
    {
