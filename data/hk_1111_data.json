@@ -93,10 +93,19 @@
    },
    {
 		"title": "Zalora",
-		"highlight" : "18% OFF",
-		"coupon_code" : "OCTPAYDAY",
-		"description" : "Snatch Extra 18% OFF Payday Sale",
-		"url": "https://iprice.hk/coupons/zalora/?_id=3ddd74d95c5e6957f6e0c7bcf37c1bc61173e05d&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F%3F_id%3D9daf1bee861b0f89f41bb15fb064ab77429f1d62%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fzalora%252F",
+		"highlight" : "50% + Extra 20% Off",
+		"coupon_code" : "CK20",
+		"description" : "Calvin Klein up to 50% Off + Extra 20%",
+		"url": "https://iprice.hk/coupons/zalora/?_id=60a08022a4edac04c0484e13e795970273861627&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F%3Fnocache%3D1",
+		"img": "image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Zalora",
+		"highlight" : "50% + Extra 20% Off",
+		"coupon_code" : "MOSCHINOTAKE20",
+		"description" : "Enjoy up to 50% + Extra 20% Off Love Moschino",
+		"url": "https://iprice.hk/coupons/zalora/?_id=0c1a1ffd34ccf491e17ca09fe743323a817a9f50&position=4&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F%3F_id%3D64d701a13d9325d67132d9f96e1913c4c7b2fa75%26position%3D3%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fzalora%252F%253Fnocache%253D1",
 		"img": "image/zalora.jpg",
 		"type" : "popup"
    },
@@ -106,6 +115,15 @@
 		"coupon_code" : "A11FORYOU",
 		"description" : "Shop & enjoy extra 13% Off this November",
 		"url": "https://iprice.hk/coupons/zalora/?_id=4fec333baaf19becb1b156d11f1ff8242d5488b2&position=4&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
+		"img": "image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Zalora",
+		"highlight" : "60% + Extra 18% Off",
+		"coupon_code" : "WINTER18",
+		"description" : "Get Holiday Wears for up to 60% discount + Extra 18% Off | Promo starts at 7pm - 8pm",
+		"url": "https://iprice.hk/coupons/zalora/?_id=64d701a13d9325d67132d9f96e1913c4c7b2fa75&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F%3Fnocache%3D1",
 		"img": "image/zalora.jpg",
 		"type" : "popup"
    },
