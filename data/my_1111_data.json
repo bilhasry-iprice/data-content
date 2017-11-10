@@ -127,10 +127,19 @@
 		"type" : "popup"
    },
    {
+		"title": "Uber",
+		"highlight" : "RM11 OFF",
+		"coupon_code" : "MY1PR1CE",
+		"description" : "Enjoy RM11 OFF your first ride",
+		"url": "https://iprice.my/coupons/uber/?_id=8b2d40d60b05883193c406f2acd9f015f989c4bf&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F",
+		"img": "image/uber.jpg",
+		"type" : "popup"
+   },
+   {
 		"title": "Althea",
 		"highlight" : "11% OFF",
 		"coupon_code" : "IPRI1111MY17",
-		"description" : "Splurge and enjoy extra 11% off with exclusive Althea Coupon ",
+		"description" : "Splurge and enjoy extra 11% off with exclusive Althea Coupon",
 		"url": "https://iprice.my/coupons/althea/?_id=2c0a495f3fe0e0e8b93668b485ffdd080ff6e282&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Falthea%2F",
 		"img": "image/althea.jpg",
 		"type" : "popup"
