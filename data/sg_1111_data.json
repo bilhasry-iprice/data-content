@@ -81,6 +81,24 @@
         }
     ],
  "coupons": [
+  {
+		"title": "Zalora",
+		"highlight" : "Up to 50% + 20% OFF",
+		"coupon_code" : "MOSCHINOTAKE20",
+		"description" : "Buy Moschino Fashion Items, Get up to 50% + EXTRA 20% OFF!",
+		"url": "https://iprice.sg/coupons/zalora/?_id=7c7f3e30ac94f0327435159db42fa873dbc9f3e1&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
+		"img": "image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Zalora",
+		"highlight" : "20% OFF",
+		"coupon_code" : "COTTONTAKE20",
+		"description" : "For Cotton On: Shop Selected Items, Starts from SG$20 + EXTRA 20% OFF!",
+		"url": "https://iprice.sg/coupons/zalora/?_id=bd4769aed48aadb35f233772a29e71f6205fb78a&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F%3F_id%3D7c7f3e30ac94f0327435159db42fa873dbc9f3e1%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fzalora%252F",
+		"img": "image/zalora.jpg",
+		"type" : "popup"
+   },
    {
 		"title": "Zalora",
 		"highlight" : "Discount up to 30%",
@@ -142,6 +160,51 @@
 		"description" : "Get 14% OFF Storewide with Min Spend SG$120",
 		"url": "https://iprice.sg/coupons/zalora/?_id=d89fe52895e0616b4bd001354401510a2afa84f1&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F%3F_id%3Dd89fe52895e0616b4bd001354401510a2afa84f1%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fzalora%252F%253Fnocache%253D1",
 		"img": "image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Qoo10",
+		"highlight" : "$110 OFF",
+		"coupon_code" : "Q10SG110",
+		"description" : "Enjoy SG$110 OFF, Min Spend SG$800 for Selected Items!",
+		"url": "https://iprice.sg/coupons/qoo10/?_id=b34767a0526ca9a61e59fe03557c9ed616e127a5&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fqoo10%2F%3Fnocache%3D1",
+		"img": "https://bilhasry-iprice.github.io/sale/data/sg/image/qoo10.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Qoo10",
+		"highlight" : "$30 OFF",
+		"coupon_code" : "Q10SG30",
+		"description" : "Get SG$30 OFF, Min Spend SG$200",
+		"url": "https://iprice.sg/coupons/qoo10/?_id=94a93b9337b046ff44eddd295a289cb3ae502814&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fqoo10%2F%3F_id%3Db34767a0526ca9a61e59fe03557c9ed616e127a5%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fqoo10%252F%253Fnocache%253D1",
+		"img": "image/qoo10.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Qoo10",
+		"highlight" : "$11 OFF",
+		"coupon_code" : "Q10SG11",
+		"description" : "Receive SG$11 OFF, Min Spend SG$50 for Selected Items!",
+		"url": "https://iprice.sg/coupons/qoo10/?_id=162a9706dcdbfa968b50d6454287968d99ae7d3e&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fqoo10%2F%3F_id%3D162a9706dcdbfa968b50d6454287968d99ae7d3e%26position%3D3%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fqoo10%252F%253F_id%253D94a93b9337b046ff44eddd295a289cb3ae502814%2526position%253D2%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Fqoo10%25252F%25253F_id%25253Db34767a0526ca9a61e59fe03557c9ed616e127a5%252526position%25253D1%252526sub_product%25253Dcoupon-store%252526_exit%25253D%2525252Fcoupons%2525252Fqoo10%2525252F%2525253Fnocache%2525253D1",
+		"img": "image/qoo10.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Qoo10",
+		"highlight" : "$20 OFF",
+		"coupon_code" : "Q10SGMP20",
+		"description" : "For Masterpass Users: Enjoy SG$20 OFF by Spending Minimum SG$40!",
+		"url": "https://iprice.sg/coupons/qoo10/?_id=2ee811502104c5327ac51140c3768e24d64ea44f&position=4&sub_product=coupon-store&_exit=%2Fcoupons%2Fqoo10%2F%3F_id%3D162a9706dcdbfa968b50d6454287968d99ae7d3e%26position%3D3%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fqoo10%252F%253F_id%253D162a9706dcdbfa968b50d6454287968d99ae7d3e%2526position%253D3%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Fqoo10%25252F%25253F_id%25253D94a93b9337b046ff44eddd295a289cb3ae502814%252526position%25253D2%252526sub_product%25253Dcoupon-store%252526_exit%25253D%2525252Fcoupons%2525252Fqoo10%2525252F%2525253F_id%2525253Db34767a0526ca9a61e59fe03557c9ed616e127a5%25252526position%2525253D1%25252526sub_product%2525253Dcoupon-store%25252526_exit%2525253D%252525252Fcoupons%252525252Fqoo10%252525252F%252525253Fnocache%252525253D1",
+		"img": "image/qoo10.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Qoo10",
+		"highlight" : "$11 OFF",
+		"coupon_code" : "Q10SGMC11",
+		"description" : "For Mastercard Users: Get SG$11 OFF, Min Spend SG$30",
+		"url": "https://iprice.sg/coupons/qoo10/?_id=65cde3b781fd63e82240f01d1a1b92945e4751a4&position=5&sub_product=coupon-store&_exit=%2Fcoupons%2Fqoo10%2F%3F_id%3D2ee811502104c5327ac51140c3768e24d64ea44f%26position%3D4%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fqoo10%252F%253F_id%253D162a9706dcdbfa968b50d6454287968d99ae7d3e%2526position%253D3%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Fqoo10%25252F%25253F_id%25253D162a9706dcdbfa968b50d6454287968d99ae7d3e%252526position%25253D3%252526sub_product%25253Dcoupon-store%252526_exit%25253D%2525252Fcoupons%2525252Fqoo10%2525252F%2525253F_id%2525253D94a93b9337b046ff44eddd295a289cb3ae502814%25252526position%2525253D2%25252526sub_product%2525253Dcoupon-store%25252526_exit%2525253D%252525252Fcoupons%252525252Fqoo10%252525252F%252525253F_id%252525253Db34767a0526ca9a61e59fe03557c9ed616e127a5%2525252526position%252525253D1%2525252526sub_product%252525253Dcoupon-store%2525252526_exit%252525253D%25252525252Fcoupons%25252525252Fqoo10%25252525252F%25252525253Fnocache%25252525253D1",
+		"img": "image/qoo10.jpg",
 		"type" : "popup"
    },
    {
