@@ -146,6 +146,15 @@
    },
    {
 		"title": "Lazada",
+		"highlight" : "Up to 20%",
+		"coupon_code" : "TEFAL1111",
+		"description" : "Lazada Voucher Code: Buy Tefal Products, Get 20% OFF!",
+		"url": "https://iprice.sg/coupons/lazada/?_id=3880825afa0e96733b647b81e6db62e1d24bd9bb&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
+		"img": "image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Lazada",
 		"highlight" : "Up to 50%",
 		"coupon_code" : "LADAPP10",
 		"description" : "Download App, Get up to 50% OFF Storewide",
