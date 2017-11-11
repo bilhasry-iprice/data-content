@@ -118,6 +118,15 @@
 		"type" : "popup"
    },
    {
+		"title": "Lazada",
+		"highlight" : "5% OFF",
+		"coupon_code" : "LEN5OR17",
+		"description" : "Get 5% OFF with Lenovo 11 11 storewide promo",
+		"url": "https://iprice.my/coupons/lazada/?_id=9af39bfef12f5117879a47f65e5966d82438ca9f&position=8&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
+		"img": "image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
 		"title": "Microsoft",
 		"highlight" : "Save RM120",
 		"coupon_code" : "required",
