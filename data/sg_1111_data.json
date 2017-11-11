@@ -339,7 +339,7 @@
 		"coupon_code" : "1PR1CESG",
 		"description" : "Get SG$11 OFF for First Rides!",
 		"url": "https://iprice.sg/coupons/uber/?_id=c9b8a504d867734e1329733cfed9d10046ea6f65&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F%3Fnocache%3D1",
-		"img": "image/Uber.jpg",
+		"img": "image/uber.jpg",
 		"type" : "popup"
    },
    {
@@ -357,7 +357,7 @@
 		"coupon_code" : "*****",
 		"description" : "Charles & Keith 11.11 Sale: Get up to 50% OFF for Selected Styles!",
 		"url": "https://iprice.sg/coupons/charles-keith/?_id=78da731674b8a2679704581ce2c8f4bb8d7544f1&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fcharles-keith%2F%3Fnocache%3D1",
-		"img": "image/charles&keith.jpg",
+		"img": "image/charles-keith.jpg",
 		"type" : "popup"
    },
    {
