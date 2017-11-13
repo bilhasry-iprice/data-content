@@ -101,38 +101,29 @@
    },
    {
 		"title": "Zalora",
+		"highlight" : "13% OFF",
+		"coupon_code" : "A11FORYOU",
+		"description" : "Celebrate Festive Season with 13% OFF on Dress & Shoes!",
+		"url": "https://iprice.sg/coupons/zalora/?_id=599d3561bb6d8bc957eaf4b11018c94730c81249&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
+		"img": "image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Zalora",
+		"highlight" : "$24.90 + 13% OFF",
+		"coupon_code" : "A11FORYOU",
+		"description" : "Shop Men's Essentials, Starts from SG$24.90 + 13%.",
+		"url": "https://iprice.sg/coupons/zalora/?_id=bf5e503815eeaa02bfda9d1354be1ead90871ca7&position=4&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F%3F_id%3D599d3561bb6d8bc957eaf4b11018c94730c81249%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fzalora%252F",
+		"img": "image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Zalora",
 		"highlight" : "18% OFF",
 		"coupon_code" : "OCTPAYDAY",
 		"description" : "Get 18% OFF Storewide!",
 		"url": "https://iprice.sg/coupons/zalora/?_id=e42a838c68ecf1b4c28798a3437ad8dad2560c67&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
 		"img": "image/zalora.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Lazada",
-		"highlight" : "$7 OFF",
-		"coupon_code" : "WATSONS7",
-		"description" : "Watsons Sale: Get SG$7 OFF When Buy Any Products!",
-		"url": "https://iprice.sg/coupons/lazada/?_id=4f698bdd9627e8eea0bfacb1bd2f4514520b310a&position=7&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F%3F_id%3D385984f9e2e732cb45ab1b18acf44f5b42ed48c4%26position%3D4%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Flazada%252F%253F_id%253D385984f9e2e732cb45ab1b18acf44f5b42ed48c4%2526position%253D4%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Flazada%25252F%25253F_id%25253D3880825afa0e96733b647b81e6db62e1d24bd9bb%252526position%25253D3%252526sub_product%25253Dcoupon-store%252526_exit%25253D%2525252Fcoupons%2525252Flazada%2525252F",
-		"img": "image/lazada.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Lazada",
-		"highlight" : "$120 OFF",
-		"coupon_code" : "LNV11120",
-		"description" : "Get SG$120 OFF for Lenovo Products. Apply Lazada Coupon!",
-		"url": "https://iprice.sg/coupons/lazada/?_id=6e950a08791973efa324f7432640569944aa6881&position=5&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F%3F_id%3D6e950a08791973efa324f7432640569944aa6881%26position%3D5%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Flazada%252F%253F_id%253D4f698bdd9627e8eea0bfacb1bd2f4514520b310a%2526position%253D7%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Flazada%25252F%25253F_id%25253D385984f9e2e732cb45ab1b18acf44f5b42ed48c4%252526position%25253D4%252526sub_product%25253Dcoupon-store%252526_exit%25253D%2525252Fcoupons%2525252Flazada%2525252F%2525253F_id%2525253D385984f9e2e732cb45ab1b18acf44f5b42ed48c4%25252526position%2525253D4%25252526sub_product%2525253Dcoupon-store%25252526_exit%2525253D%252525252Fcoupons%252525252Flazada%252525252F%252525253F_id%252525253D3880825afa0e96733b647b81e6db62e1d24bd9bb%2525252526position%252525253D3%2525252526sub_product%252525253Dcoupon-store%2525252526_exit%252525253D%25252525252Fcoupons%25252525252Flazada%25252525252F",
-		"img": "image/lazada.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Lazada",
-		"highlight" : "Up to 20%",
-		"coupon_code" : "TEFAL1111",
-		"description" : "Lazada Voucher Code: Buy Tefal Products, Get 20% OFF!",
-		"url": "https://iprice.sg/coupons/lazada/?_id=3880825afa0e96733b647b81e6db62e1d24bd9bb&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
-		"img": "image/lazada.jpg",
 		"type" : "popup"
    },
    {
@@ -160,6 +151,15 @@
 		"description" : "Enjoy 18% off storewide for new customers!",
 		"url": "https://iprice.sg/coupons/lazada/?_id=51ffbb81d993330dc87a1c8a79d91e98185bdea5&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
 		"img": "image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Althea",
+		"highlight" : "10% OFF",
+		"coupon_code" : "OMGSG17Q04",
+		"description" : "Enjoy 10% OFF Storewide",
+		"url": "https://iprice.sg/coupons/althea/?_id=f7b5b787b1b8b516f283353b6af77687b7c48871&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Falthea%2F%3F_id%3Df7b5b787b1b8b516f283353b6af77687b7c48871%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Falthea%252F",
+		"img": "image/althea.jpg",
 		"type" : "popup"
    },
    {
@@ -199,15 +199,6 @@
 		"type" : "popup"
    },
    {
-		"title": "Althea",
-		"highlight" : "11% OFF",
-		"coupon_code" : "IPRI1111SG17",
-		"description" : "Get 11% OFF Storewide!",
-		"url": "https://iprice.sg/coupons/althea/?_id=e821dcb313363cf77cc0b2f07f9e3d4f4fec4127&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Falthea%2F%3F_id%3Df7b5b787b1b8b516f283353b6af77687b7c48871%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Falthea%252F",
-		"img": "image/althea.jpg",
-		"type" : "popup"
-   },
-   {
 		"title": "Klook",
 		"highlight" : "$100 OFF",
 		"coupon_code" : "YES100",
@@ -241,15 +232,6 @@
 		"description" : "Enjoy SG$15 OFF storewide!",
 		"url": "https://iprice.sg/coupons/redmart/?_id=2286ef1ac73a1f0991902f09630245bc49ac5344&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fredmart%2F",
 		"img": "image/redmart.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Hotels.com",
-		"highlight" : "7% OFF",
-		"coupon_code" : "OMGNOV17",
-		"description" : "Hotels.com 11.11 Sale: Enjoy EXTRA 7% OFF on Hotels Booking!",
-		"url": "https://iprice.sg/coupons/hotelscom/?_id=5e56ab12cf30e7893cfb3ac7403844444e4a5928&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fhotelscom%2F%3Fnocache%3D1",
-		"img": "image/hotelscom.jpg",
 		"type" : "popup"
    },
    {
