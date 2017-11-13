@@ -101,15 +101,6 @@
    },
    {
 		"title": "Lazada",
-		"highlight" : "80% + 11% OFF",
-		"coupon_code" : "IPRICE90",
-		"description" : "Enjoy up to 80% + EXTRA 11% OFF during Lazada 11.11 Sale",
-		"url": "https://iprice.my/coupons/lazada/?_id=86fae8b3b6c34efefc483ebad2346890c070d1c1&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
-		"img": "image/lazada.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Lazada",
 		"highlight" : "20% OFF",
 		"coupon_code" : "LAZ20SNS",
 		"description" : "Enjoy 20% OFF Tech Megasale today",
