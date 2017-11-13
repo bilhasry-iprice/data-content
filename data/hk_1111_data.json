@@ -84,19 +84,10 @@
  "coupons": [
    {
 		"title": "Zalora",
-		"highlight" : "14% OFF",
-		"coupon_code" : "IPRICENOV",
-		"description" : "Snatch 14% OFF sitewide with min. spend of $550",
-		"url": "https://iprice.hk/coupons/zalora/?_id=9daf1bee861b0f89f41bb15fb064ab77429f1d62&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
-		"img": "image/zalora.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Zalora",
-		"highlight" : "50% + Extra 20% Off",
-		"coupon_code" : "CK20",
-		"description" : "Calvin Klein up to 50% Off + Extra 20%",
-		"url": "https://iprice.hk/coupons/zalora/?_id=60a08022a4edac04c0484e13e795970273861627&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F%3Fnocache%3D1",
+		"highlight" : "15% OFF",
+		"coupon_code" : "BAPT6WJ",
+		"description" : "Splurge this November & receive flat 15% OFF",
+		"url": "https://iprice.hk/coupons/zalora/?_id=a1fc6c3f5b98c047bbc350bc4e74bfb9ce33b1c5&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
 		"img": "image/zalora.jpg",
 		"type" : "popup"
    },
@@ -110,15 +101,6 @@
 		"type" : "popup"
    },
    {
-		"title": "Zalora",
-		"highlight" : "60% + Extra 18% Off",
-		"coupon_code" : "WINTER18",
-		"description" : "Get Holiday Wears for up to 60% discount + Extra 18% Off | Promo starts at 7pm - 8pm",
-		"url": "https://iprice.hk/coupons/zalora/?_id=64d701a13d9325d67132d9f96e1913c4c7b2fa75&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F%3Fnocache%3D1",
-		"img": "image/zalora.jpg",
-		"type" : "popup"
-   },
-   {
 		"title": "YOOX",
 		"highlight" : "Free Shipping",
 		"coupon_code" : "IPRICEFS",
@@ -128,12 +110,39 @@
 		"type" : "popup"
    },
    {
-		"title": "YesStyle",
-		"highlight" : "11% OFF",
-		"coupon_code" : "2017DOUBLE11",
-		"description" : "Enjoy 11% Off with min. spend of $59",
-		"url": "https://iprice.hk/coupons/yesstyle/?_id=e3653ebb6983e143ef31c619e22e945db660a5bc&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fyesstyle%2F",
-		"img": "image/yesstyle.jpg",
+		"title": "Agoda",
+		"highlight" : "7% OFF",
+		"coupon_code" : "USEBEACREDITCARD",
+		"description" : "Book with your BEA credit card & receive Up to 7% OFF hotels worldwide",
+		"url": "https://iprice.hk/coupons/agoda/?_id=1b07c4b24c83739f5ce3292a3433d72d93042e2f&position=5&sub_product=coupon-store&_exit=%2Fcoupons%2Fagoda%2F%3F_id%3D1b07c4b24c83739f5ce3292a3433d72d93042e2f%26position%3D5%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fagoda%252F",
+		"img": "image/agoda.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Expedia",
+		"highlight" : "7% OFF",
+		"coupon_code" : "EXPEDIA11",
+		"description" : "Enjoy 11% OFF your hotel booking",
+		"url": "https://iprice.hk/coupons/expedia/?_id=f7dfd92d85f83b9eeab4f20a9abc85bece34434a&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fexpedia%2F",
+		"img": "image/expedia.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Charles & Keith",
+		"highlight" : "20% OFF",
+		"coupon_code" : "*****",
+		"description" : "Enjoy up to 20% Off bags",
+		"url": "https://iprice.hk/coupons/charles-keith/?_id=0793f0bd80ecd0a73b28323f7638cb6dfde3beb0&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fcharles-keith%2F",
+		"img": "image/charles-keith.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Wing On Travel",
+		"highlight" : "$100 OFF",
+		"coupon_code" : "GP102",
+		"description" : "Get HKD100 with min. spend HKD1500",
+		"url": "https://iprice.hk/coupons/wing-on-travel/?_id=58037a25a9c086e099079921ddc88226fa59539f&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fwing-on-travel%2F",
+		"img": "image/wing-on-travel.jpg",
 		"type" : "popup"
    },
    {
@@ -155,48 +164,12 @@
 		"type" : "popup"
    },
    {
-		"title": "Agoda",
-		"highlight" : "8% OFF",
-		"coupon_code" : "8GLK6BV",
-		"description" : "Enjoy 8% Off your hotel stay in Busan",
-		"url": "https://iprice.hk/coupons/agoda/?_id=723c664e013ec943a67f8a687a69f171ee9763a3&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fagoda%2F",
-		"img": "image/agoda.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Agoda",
-		"highlight" : "5% OFF",
-		"coupon_code" : "MANCHESTER17",
-		"description" : "Fly to Manchester & enjoy 5% Off your stay",
-		"url": "https://iprice.hk/coupons/agoda/?_id=ba9d795f6f16e4d959f419b9cbe856deb72b37c2&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fagoda%2F",
-		"img": "image/agoda.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "AXA",
-		"highlight" : "Start From $118",
-		"coupon_code" : "required",
-		"description" : "Get 3 days travel insurance from $118",
-		"url": "http://bit.ly/2yjK5m8",
-		"img": "image/axa.jpg",
-		"type" : "direct"
-   },
-   {
 		"title": "Uber",
 		"highlight" : "$40 OFF",
 		"coupon_code" : "IPRICEUBERHK",
 		"description" : "Enjoy $40 Off with exclusive Uber promo code",
 		"url": "https://iprice.hk/coupons/uber/?_id=618aaafbc4ec222182e314ac43770edbd1579928&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F",
 		"img": "image/uber.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Nike",
-		"highlight" : "11% OFF",
-		"coupon_code" : "1111SALE",
-		"description" : "Members are entitled to an extra 11% Off with any purchase of 2 or more items",
-		"url": "https://iprice.hk/coupons/nike/?_id=84e4b7154b2f7427899677c2006952a2577b600f&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fnike%2F",
-		"img": "image/nike.jpg",
 		"type" : "popup"
    }
  ],
