@@ -1,5 +1,10 @@
 {
  "items": [
+ 	{
+     "title": "Blackfriday",
+     "url": "http://iprice.my/sale/blackfriday",
+     "img": "https://bilhasry-iprice.github.io/sale/data/my/image/blackfriday.jpg"
+   },
    {
 		"title": "11/11",
 		"url": "http://iprice.my/sale/1111",
