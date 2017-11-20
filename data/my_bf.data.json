@@ -87,6 +87,33 @@
     ],
  "coupons": [
    {
+		"title": "Grab",
+		"highlight" : "RM10 OFF",
+		"coupon_code" : "EXPONEGARAKU17",
+		"description" : "Enjoy RM5 OFF x 2 Rides, valid for existing users",
+		"url": "https://iprice.my/coupons/grab/?_id=aa41d5364a2c33ef4b3a2f4497c0a481834840d4&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fgrab%2F%3F_id%3Daa41d5364a2c33ef4b3a2f4497c0a481834840d4%26position%3D3%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fgrab%252F%253F_id%253Daa41d5364a2c33ef4b3a2f4497c0a481834840d4%2526position%253D3%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Fgrab%25252F",
+		"img": "image/grab.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Lazada",
+		"highlight" : "RM5 OFF",
+		"coupon_code" : "TESNES5",
+		"description" : "Receive RM5 Off Nestle products with min. spend of RM40",
+		"url": "https://iprice.my/coupons/lazada/?_id=653488de06890acb470f985ca3aedabca14b251d&position=8&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
+		"img": "image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Zalora",
+		"highlight" : "20% OFF",
+		"coupon_code" : "*****",
+		"description" : "Black Friday Sale - Buy 2 & enjoy extra 20% Off",
+		"url": "https://iprice.my/coupons/zalora/?_id=362394eadafb2946f35db17f482d821d7babe2b3&position=8&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
+		"img": "image/zalora.jpg",
+		"type" : "direct"
+   },
+   {
 		"title": "Zalora",
 		"highlight" : "18% OFF",
 		"coupon_code" : "GRABRWF20",
