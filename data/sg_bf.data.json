@@ -87,6 +87,60 @@
     ],
  "coupons": [
    {
+		"title": "Redmart",
+		"highlight" : "$20 OFF",
+		"coupon_code" : "IPRC20D",
+		"description" : "Enjoy SG$20 OFF, Min Spend SG$120 Storewide!",
+		"url": "https://iprice.sg/coupons/redmart/?_id=4f616f07612c0f495197de3e2a205657a5b11e31&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fredmart%2F%3Fnocache%3D1",
+		"img": "image/redmart.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Redmart",
+		"highlight" : "$18 OFF",
+		"coupon_code" : "IPRICE18",
+		"description" : "Get SG$18 OFF When Spend Min SG$100 for Any Items!",
+	        "url": "https://iprice.sg/coupons/redmart/?_id=55674102372a4a5ec8930c470a294720e3d0cad2&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fredmart%2F",	
+	        "img": "image/redmart.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Lazada",
+		"highlight" : "Up to 86% + 18% OFF",
+		"coupon_code" : "NTUCLAZ8",
+		"description" : "Celebrate Beauty Week, Get up to 86% + 18% OFF!",
+		"url": "https://iprice.sg/coupons/lazada/?_id=1cc703c052efa2d66d67ed5670279282461f9c54&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
+		"img": "image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Lazada",
+		"highlight" : "11% OFF",
+		"coupon_code" : "LOVERB11",
+		"description" : "Get SG$11 OFF on Durex Products, Min Spend SG$50!",
+		"url": "https://iprice.sg/coupons/lazada/?_id=a895196ffae178cdbbbb842117f058aea576f0fc&position=5&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
+		"img": "image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Zalora",
+		"highlight" : "20% + 13% OFF",
+		"coupon_code" : "A11FORYOU",
+		"description" : "Zalora Black Friday Sale: Buy 2 Fashion Items, Get 20% + 13% OFF!",
+		"url": "https://iprice.sg/coupons/zalora/?_id=4a8aad2befaa553aceba6407bfc1c4898b0b7d28&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
+		"img": "image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Gearbest",
+		"highlight" : "Up to 80% + 10% OFF",
+		"coupon_code" : "IPRICE10",
+		"description" : "GearBest Black Friday Sale: Get up to 80% + 10% OFF Sitewide!",
+		"url": "https://iprice.sg/coupons/gearbest/?_id=074a3da1eff208ee28f70a7c5d2fdcb7c0739de0&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fgearbest%2F",
+		"img": "image/gearbest.jpg",
+		"type" : "popup"
+   },
+   {
 		"title": "UberEATS",
 		"highlight" : "$5 OFF",
 		"coupon_code" : "IPRICE5",
@@ -187,7 +241,7 @@
    },
    {
 		"title": "Zalora",
-		"highlight" : "From $24.90 + 13% OFF",
+		"highlight" : "13% OFF",
 		"coupon_code" : "A11FORYOU",
 		"description" : "Shop Men's Essentials, Starts from SG$24.90 + 13%",
 		"url": "https://iprice.sg/coupons/zalora/?_id=bf5e503815eeaa02bfda9d1354be1ead90871ca7&position=4&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F%3F_id%3D599d3561bb6d8bc957eaf4b11018c94730c81249%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fzalora%252F",
