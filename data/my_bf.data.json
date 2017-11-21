@@ -87,6 +87,33 @@
     ],
  "coupons": [
    {
+		"title": "Expansys",
+		"highlight" : "Up to 50% OFF",
+		"coupon_code" : "*****",
+		"description" : "Check out extreme Black Friday deals while receiving discount up to 50% Off",
+		"url": "https://iprice.my/coupons/expansys/?_id=8749363e07d0e3212531810942c645b609048050&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fexpansys%2F",
+		"img": "image/expansys.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "AirAsiaGo",
+		"highlight" : "10% OFF",
+		"coupon_code" : "SAVE10",
+		"description" : "Book via app & enjoy extra 10% Off Hotel",
+		"url": "https://iprice.my/coupons/airasiago/?_id=adda6f4988003c77d9657f389db201bc45832e7a&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fairasiago%2F",
+		"img": "image/airasiago.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Zalora",
+		"highlight" : "20% OFF",
+		"coupon_code" : "*****",
+		"description" : "Buy 2 & enjoy extra 20% Off",
+		"url": "https://iprice.my/coupons/zalora/?_id=362394eadafb2946f35db17f482d821d7babe2b3&position=8&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
+		"img": "image/zalora.jpg",
+		"type" : "direct"
+   },
+   {
 		"title": "Grab",
 		"highlight" : "RM10 OFF",
 		"coupon_code" : "EXPONEGARAKU17",
@@ -103,15 +130,6 @@
 		"url": "https://iprice.my/coupons/lazada/?_id=653488de06890acb470f985ca3aedabca14b251d&position=8&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
 		"img": "image/lazada.jpg",
 		"type" : "popup"
-   },
-   {
-		"title": "Zalora",
-		"highlight" : "20% OFF",
-		"coupon_code" : "*****",
-		"description" : "Black Friday Sale - Buy 2 & enjoy extra 20% Off",
-		"url": "https://iprice.my/coupons/zalora/?_id=362394eadafb2946f35db17f482d821d7babe2b3&position=8&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
-		"img": "image/zalora.jpg",
-		"type" : "direct"
    },
    {
 		"title": "Zalora",
