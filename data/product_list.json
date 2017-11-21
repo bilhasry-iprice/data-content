@@ -1,0 +1,11 @@
+{
+	"items" : [
+		{
+			"product_title" : "product name",
+			"url"			: "product_url",
+			"image_url"		: "product_image_url",
+			"offer_number"	: "number",
+			"price"			: "50000"
+		}
+	]
+}
