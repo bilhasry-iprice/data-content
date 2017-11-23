@@ -114,6 +114,15 @@
 		"type" : "popup"
    },
    {
+		"title": "Brands",
+		"highlight" : "SG$5 OFF",
+		"coupon_code" : "BLACK17",
+		"description" : "Enjoy SG$5 OFF with Min Spend SG$30 + Free Delivery!",
+		"url": "https://iprice.sg/coupons/brandsworld/?_id=0a566699597056eb462702566580bd4514a7da95&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fbrandsworld%2F",
+		"img": "image/brands.jpg",
+		"type" : "popup"
+   },
+   {
 		"title": "Zalora",
 		"highlight" : "13% OFF",
 		"coupon_code" : "A11FORYOU",
@@ -141,8 +150,26 @@
 		"type" : "popup"
    },
    {
+		"title": "Expansys",
+		"highlight" : "50% OFF",
+		"coupon_code" : "required",
+		"description" : "Black Friday Sale: Enjoy up to 50% OFF for Selected Items!",
+		"url": "https://iprice.sg/coupons/expansys/?_id=cb8a540efdbed2f0f5497552eda0dc9a1ec02e56&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fexpansys%2F",
+		"img": "image/expansys.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Microsoft",
+		"highlight" : "60% OFF",
+		"coupon_code" : "required",
+		"description" : "Enjoy up to 60% OFF on Xbox Games - Microsoft Black Friday Sale",
+		"url": "https://iprice.sg/coupons/microsoft/?_id=f36a9373815f86e74d476f763b62c61e8449b156&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fmicrosoft%2F",
+		"img": "image/microsoft.jpg",
+		"type" : "popup"
+   },
+   {
 		"title": "Lazada",
-		"highlight" : "Up to 86% + 18% OFF",
+		"highlight" : "86% OFF",
 		"coupon_code" : "NTUCLAZ8",
 		"description" : "Celebrate Beauty Week, Get up to 86% + 18% OFF!",
 		"url": "https://iprice.sg/coupons/lazada/?_id=1cc703c052efa2d66d67ed5670279282461f9c54&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
