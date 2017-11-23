@@ -116,9 +116,9 @@
    {
 		"title": "Foreo",
 		"highlight" : "22% OFF",
-		"coupon_code" : "IPRICEFOREO18",
-		"description" : "Get EXTRA 22% OFF on LUNA 2!",
-		"url": "https://iprice.sg/coupons/foreo/?_id=56417bc676e043417448860a41b79ebb6b92236c&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fforeo%2F",
+		"coupon_code" : "IPRICE18",
+		"description" : "Get EXTRA 22% OFF on LUNA 2 and Other Selected Products!",
+		"url": "https://iprice.sg/coupons/foreo/?_id=56417bc676e043417448860a41b79ebb6b92236c&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fforeo%2F%3F_id%3D56417bc676e043417448860a41b79ebb6b92236c%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fforeo%252F%253Fnocache%253D1",
 		"img": "image/foreo.jpg",
 		"type" : "popup"
    },
