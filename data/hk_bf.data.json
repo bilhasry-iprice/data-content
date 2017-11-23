@@ -1,22 +1,22 @@
 {
  "products" : [
  	{
-		"title": "Valentino",
-		"description" : "Valentino",
-		"url": "http://bit.ly/2zn6vXr",
-		"img": "image/Valentino_banner.jpg"
+		"title": "Fendi",
+		"description" : "Fendi",
+		"url": "http://bit.ly/2AiWsmX",
+		"img": "image/Fendi-banner.jpg"
 	},
 	{
-		"title": "Marni",
-		"description" : "Marni",
-		"url": "http://bit.ly/2zFZPV5",
-		"img": "image/Marni_banner.jpg"
+		"title": "Dolce & Gabbana",
+		"description" : "Dolce & Gabbana",
+		"url": "http://bit.ly/2zUISFs",
+		"img": "image/DG-banner.jpg"
 	},
 	{
-		"title": "Moschino",
-		"description" : "Moschino",
-		"url": "http://bit.ly/2jhsmcc",
-		"img": "image/Moschino_banner.jpg"
+		"title": "Adidas",
+		"description" : "Adidas",
+		"url": "http://bit.ly/2znLYTu",
+		"img": "image/Adidas-banner.jpg"
 	}
  ],
  "top_brands": [
@@ -57,16 +57,14 @@
 	        "description": "What time is it? It's Black Friday - time to get some watches with discounts!",
 	        "url": "https://iprice.hk/watches/?utm_source=landing_page&utm_medium=onsite&utm_campaign=BlackFriday",
 	        "img": "image/watch.jpg",
-	        "cta" : "Shop Now",
-	        "default" : true
+	        "cta" : "Shop Now"
 	    },
 	    {
 	        "title": "Laptops",
 	        "description": "Finally, laptops can be affordable!",
 	        "url": "https://iprice.hk/computing/laptops/?utm_source=landing_page&utm_medium=onsite&utm_campaign=BlackFriday",
 	        "img": "image/laptop.jpg",
-	        "cta" : "Shop Now",
-	        "default" : true
+	        "cta" : "Shop Now"
 	    },
 	    {
 	        "title": "Shoes",
@@ -115,7 +113,7 @@
    },
    {
 		"title": "YOOX",
-		"highlight" : "Free Shipping + 10% OFF",
+		"highlight" : "10% OFF",
 		"coupon_code" : "VISA2017",
 		"description" : "All HSB Visa Credit Cards - Free Shipping & 10% Off",
 		"url": "https://iprice.hk/coupons/yoox/?_id=46e01ab802ea2b78cf56b3ee3580e28677089e02&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fyoox%2F",
