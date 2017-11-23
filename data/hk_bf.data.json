@@ -114,6 +114,15 @@
 		"type" : "popup"
    },
    {
+		"title": "Foreo",
+		"highlight" : "22% Off",
+		"coupon_code" : "IPRICEFOREO18",
+		"description" : "Enjoy Extra 22% Off Luna 2",
+		"url": "https://iprice.hk/coupons/foreo/?_id=cb1ef16017cab087d5b42fbbb04a0b08cfedb0bb&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fforeo%2F",
+		"img": "image/foreo.jpg",
+		"type" : "popup"
+   },
+   {
 		"title": "YOOX",
 		"highlight" : "Free Shipping + 10% OFF",
 		"coupon_code" : "VISA2017",
