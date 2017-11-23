@@ -112,21 +112,21 @@
 		"type" : "popup"
    },
    {
-		"title": "YOOX",
-		"highlight" : "Free Shipping",
-		"coupon_code" : "IPRICEFS",
-		"description" : "Enjoy Free Shipping with no. min spend during 11.11 Sale",
-		"url": "https://iprice.hk/coupons/yoox/?_id=3c1953df5b19ea765adc0be68b868fc4cf7e8f69&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fyoox%2F%3Fnocache%3D1",
-		"img": "image/yoox.jpg",
-		"type" : "popup"
-   },
-   {
 		"title": "Foreo",
 		"highlight" : "22% Off",
 		"coupon_code" : "IPRICE18",
 		"description" : "Get EXTRA 22% OFF on LUNA 2 and Other Selected Products!",
 		"url": "https://iprice.hk/coupons/foreo/?_id=cb1ef16017cab087d5b42fbbb04a0b08cfedb0bb&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fforeo%2F%3Fnocache%3D1",
 		"img": "image/foreo.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "YOOX",
+		"highlight" : "Free Shipping",
+		"coupon_code" : "IPRICEFS",
+		"description" : "Enjoy Free Shipping with no. min spend during 11.11 Sale",
+		"url": "https://iprice.hk/coupons/yoox/?_id=3c1953df5b19ea765adc0be68b868fc4cf7e8f69&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fyoox%2F%3Fnocache%3D1",
+		"img": "image/yoox.jpg",
 		"type" : "popup"
    },
    {
