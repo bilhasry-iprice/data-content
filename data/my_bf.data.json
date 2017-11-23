@@ -96,6 +96,33 @@
 		"type" : "direct"
    },
    {
+		"title": "Yoox",
+		"highlight" : "Free Shipping",
+		"coupon_code" : "IPRICEFS",
+		"description" : "FREE Shipping on YOOX with Any Purchase",
+		"url": "https://iprice.my/coupons/yoox/?_id=b3adb4c40f01e36de4677c00152f3a57de6cb8b7&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fyoox%2F",
+		"img": "image/yoox.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "YesStyle",
+		"highlight" : "80% OFF",
+		"coupon_code" : "2017BLACK",
+		"description" : "Black Friday Sale - Enjoy up to 80% Off + 15% Off",
+		"url": "https://iprice.my/coupons/yesstyle/?_id=318fcbefadaf7583195e1be6df849182e2685598&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fyesstyle%2F",
+		"img": "image/yesstyle.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Grab",
+		"highlight" : "RM20 OFF",
+		"coupon_code" : "GRAB2ZOUK",
+		"description" : "Get RM20 Off x 10 GrabCar rides to/from Zouk KL",
+		"url": "https://iprice.my/coupons/grab/?_id=0dc000171de21d209c6296142d81c6e441c5ce85&position=6&sub_product=coupon-store&_exit=%2Fcoupons%2Fgrab%2F",
+		"img": "image/grab.jpg",
+		"type" : "popup"
+   },
+   {
 		"title": "Zalora",
 		"highlight" : "18% OFF",
 		"coupon_code" : "GRABRWF20",
@@ -115,11 +142,20 @@
    },
    {
 		"title": "Lazada",
-		"highlight" : "RM5 OFF",
-		"coupon_code" : "TESNES5",
-		"description" : "Receive RM5 Off Nestle products with min. spend of RM40",
-		"url": "https://iprice.my/coupons/lazada/?_id=653488de06890acb470f985ca3aedabca14b251d&position=8&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
+		"highlight" : "RM8 OFF",
+		"coupon_code" : "DLBBF8",
+		"description" : "Enjoy RM8 OFF Dutch Lady products with min. spend of RM50",
+		"url": "https://iprice.my/coupons/lazada/?_id=f4a8056f0e9df69f709532ea916c0de877b8e428&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
 		"img": "image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Uber",
+		"highlight" : "RM10 OFF",
+		"coupon_code" : "GOTREC",
+		"description" : "Get 10 FREE rides to TREC KL",
+		"url": "https://iprice.my/coupons/uber/?_id=b3d5bf4f96cc6ab3655563e2f34291be41f0292f&position=5&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F",
+		"img": "image/uber.jpg",
 		"type" : "popup"
    },
    {
@@ -169,15 +205,6 @@
    },
    {
 		"title": "Grab",
-		"highlight" : "RM10 OFF",
-		"coupon_code" : "EXPONEGARAKU17",
-		"description" : "Enjoy RM5 OFF x 2 Rides, valid for existing users",
-		"url": "https://iprice.my/coupons/grab/?_id=aa41d5364a2c33ef4b3a2f4497c0a481834840d4&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fgrab%2F%3F_id%3Daa41d5364a2c33ef4b3a2f4497c0a481834840d4%26position%3D3%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fgrab%252F%253F_id%253Daa41d5364a2c33ef4b3a2f4497c0a481834840d4%2526position%253D3%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Fgrab%25252F",
-		"img": "image/grab.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Grab",
 		"highlight" : "RM15 OFF",
 		"coupon_code" : "GRABIPRICE17",
 		"description" : "Grab up to RM15 worth of FREE rides nationwide",
@@ -210,15 +237,6 @@
 		"description" : "Maybank promotion - Grab extra 10% Off hotel bookings",
 		"url": "https://iprice.my/coupons/expedia/?_id=bdbfa76d5918844da40d23e3afd88665f00d3bf6&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fexpedia%2F%3F_id%3Dbdbfa76d5918844da40d23e3afd88665f00d3bf6%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fexpedia%252F%253F_id%253D28be63cf9e9f4f4196a1b969a34ad864d457d44f%2526_exit%253D%25252Fcoupons%25252Fexpedia%25252F%25253F_id%25253D28be63cf9e9f4f4196a1b969a34ad864d457d44f%252526position%25253D1%252526sub_product%25253Dcoupon-store%252526_exit%25253D%2525252Fcoupons%2525252Fexpedia%2525252F",
 		"img": "image/expedia.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Althea",
-		"highlight" : "25% OFF",
-		"coupon_code" : "WOW25",
-		"description" : "Enjoy extra 25% Off Althea coupon today",
-		"url": "https://iprice.my/coupons/althea/?_id=f4280cb67e9ec9e5399e98a89021f2ef557e1411&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Falthea%2F",
-		"img": "image/althea.jpg",
 		"type" : "popup"
    },
    {
