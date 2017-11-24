@@ -88,21 +88,21 @@
  "coupons": [
     {
 		"title": "Lazada",
-		"highlight" : "RM8 OFF",
-		"coupon_code" : "DLBBF8",
-		"description" : "Enjoy RM8 OFF Dutch Lady products with min. spend of RM50",
-		"url": "https://iprice.my/coupons/lazada/?_id=f4a8056f0e9df69f709532ea916c0de877b8e428&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
+		"highlight" : "Up to 80% OFF",
+		"coupon_code" : "LZDLABF10",
+		"description" : "Enjoy promo up to 80% + Extra 10% Off Home Appliance",
+		"url": "https://iprice.my/coupons/lazada/?_id=b18922f505543f49975f9ea54ef310b6178f2f10&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F%3F_id%3Db18922f505543f49975f9ea54ef310b6178f2f10%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Flazada%252F	https://iprice.my/coupons/lazada/?_id=b18922f505543f49975f9ea54ef310b6178f2f10&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F%3F_id%3Db18922f505543f49975f9ea54ef310b6178f2f10%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Flazada%252F",
 		"img": "image/lazada.jpg",
 		"type" : "popup"
    },
    {
 		"title": "Zalora",
-		"highlight" : "20% OFF",
-		"coupon_code" : "*****",
-		"description" : "Buy 2 & enjoy extra 20% Off",
-		"url": "https://iprice.my/coupons/zalora/?_id=362394eadafb2946f35db17f482d821d7babe2b3&position=8&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
+		"highlight" : "Up to 35% OFF",
+		"coupon_code" : "CYBER35",
+		"description" : "Seize 35% Off Fashion during Zalora Black Friday Sale",
+		"url": "https://iprice.my/coupons/zalora/?_id=be10eee4aa7e1001c6b55cbd63c9a7e92fd3142e&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
 		"img": "image/zalora.jpg",
-		"type" : "direct"
+		"type" : "popup"
    },
    {
 		"title": "Yoox",
@@ -123,14 +123,14 @@
 		"type" : "popup"
    },
    {
-		"title": "Grab",
-		"highlight" : "RM20 OFF",
-		"coupon_code" : "GRAB2ZOUK",
-		"description" : "Get RM20 Off x 10 GrabCar rides to/from Zouk KL",
-		"url": "https://iprice.my/coupons/grab/?_id=0dc000171de21d209c6296142d81c6e441c5ce85&position=6&sub_product=coupon-store&_exit=%2Fcoupons%2Fgrab%2F",
-		"img": "image/grab.jpg",
+		"title": "Uber",
+		"highlight" : "30% OFF",
+		"coupon_code" : "MYIPRICEFRI",
+		"description" : "Enjoy extra 30% Off your first 3 rides with Uber promo code",
+		"url": "https://iprice.my/coupons/uber/?_id=10256e5adea7c60d0529dd573d1ce88abd23b930&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F",
+		"img": "image/uber.jpg",
 		"type" : "popup"
-   },
+   }, 
    {
 		"title": "Zalora",
 		"highlight" : "18% OFF",
@@ -143,9 +143,9 @@
    {
 		"title": "Lazada",
 		"highlight" : "10% OFF",
-		"coupon_code" : "GLASSES10",
-		"description" : "Transform your look with a new pair of Sunglasses & enjoy extra 10% Off",
-		"url": "https://iprice.my/coupons/lazada/?_id=2377d3d1c2151913ef666f6fb9f5d18625f57e8a&position=7&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
+		"coupon_code" : "ACCY10BC",
+		"description" : "Receive 10% Off Electronic accessories during Lazada Black Friday Sale",
+		"url": "https://iprice.my/coupons/lazada/?_id=b156540e9be87998291edb5ed9b2de8cb8628260&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
 		"img": "image/lazada.jpg",
 		"type" : "popup"
    },
@@ -177,21 +177,21 @@
 		"type" : "popup"
    },
    {
+		"title": "Grab",
+		"highlight" : "RM20 OFF",
+		"coupon_code" : "GRAB2ZOUK",
+		"description" : "Get RM20 Off x 10 GrabCar rides to/from Zouk KL",
+		"url": "https://iprice.my/coupons/grab/?_id=0dc000171de21d209c6296142d81c6e441c5ce85&position=6&sub_product=coupon-store&_exit=%2Fcoupons%2Fgrab%2F",
+		"img": "image/grab.jpg",
+		"type" : "popup"
+   },
+   {
 		"title": "Expedia",
 		"highlight" : "10% OFF",
 		"coupon_code" : "MBBEXPMY16",
 		"description" : "Maybank promotion - Grab extra 10% Off hotel bookings",
 		"url": "https://iprice.my/coupons/expedia/?_id=bdbfa76d5918844da40d23e3afd88665f00d3bf6&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fexpedia%2F%3F_id%3Dbdbfa76d5918844da40d23e3afd88665f00d3bf6%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fexpedia%252F%253F_id%253D28be63cf9e9f4f4196a1b969a34ad864d457d44f%2526_exit%253D%25252Fcoupons%25252Fexpedia%25252F%25253F_id%25253D28be63cf9e9f4f4196a1b969a34ad864d457d44f%252526position%25253D1%252526sub_product%25253Dcoupon-store%252526_exit%25253D%2525252Fcoupons%2525252Fexpedia%2525252F",
 		"img": "image/expedia.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Uber",
-		"highlight" : "RM10 OFF",
-		"coupon_code" : "GOTREC",
-		"description" : "Get 10 FREE rides to TREC KL",
-		"url": "https://iprice.my/coupons/uber/?_id=b3d5bf4f96cc6ab3655563e2f34291be41f0292f&position=5&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F",
-		"img": "image/uber.jpg",
 		"type" : "popup"
    },
    {
