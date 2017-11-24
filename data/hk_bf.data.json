@@ -94,6 +94,24 @@
 		"type" : "popup"
    },
    {
+		"title": "Harvey Nichols",
+		"highlight" : "25% OFF",
+		"coupon_code" : "required",
+		"description" : "Black Friday Sale - Enjoy 25% OFF Fashion & Accessories",
+		"url": "https://iprice.hk/coupons/harvey-nichols/?_id=df3460b87b56f7261175ce1aeb59550f8d5f2747&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fharvey-nichols%2F",
+		"img": "image/harveynichols.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Harvey Nichols",
+		"highlight" : "10% OFF",
+		"coupon_code" : "required",
+		"description" : "Grab 10% OFF beauty products during Black Friday Sale",
+		"url": "https://iprice.hk/coupons/harvey-nichols/?_id=c1a4577207640a2f14ac14589c8051daa9f92985&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fharvey-nichols%2F%3F_id%3Ddf3460b87b56f7261175ce1aeb59550f8d5f2747%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fharvey-nichols%252F",
+		"img": "image/harveynichols.jpg",
+		"type" : "popup"
+   },
+   {
 		"title": "Zalora",
 		"highlight" : "15% OFF",
 		"coupon_code" : "BAPT6WJ",
