@@ -112,6 +112,15 @@
 		"type" : "popup"
    },
    {
+		"title": "Foreo",
+		"highlight" : "22% Off",
+		"coupon_code" : "IPRICE18",
+		"description" : "Get EXTRA 22% OFF on LUNA 2 and Other Selected Products!",
+		"url": "https://iprice.hk/coupons/foreo/?_id=cb1ef16017cab087d5b42fbbb04a0b08cfedb0bb&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fforeo%2F%3Fnocache%3D1",
+		"img": "image/foreo.jpg",
+		"type" : "popup"
+   },
+   {
 		"title": "Zalora",
 		"highlight" : "15% OFF",
 		"coupon_code" : "BAPT6WJ",
@@ -129,15 +138,7 @@
 		"img": "image/yesstyle.jpg",
 		"type" : "popup"
    },
-   {
-		"title": "Foreo",
-		"highlight" : "22% Off",
-		"coupon_code" : "IPRICE18",
-		"description" : "Get EXTRA 22% OFF on LUNA 2 and Other Selected Products!",
-		"url": "https://iprice.hk/coupons/foreo/?_id=cb1ef16017cab087d5b42fbbb04a0b08cfedb0bb&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fforeo%2F%3Fnocache%3D1",
-		"img": "image/foreo.jpg",
-		"type" : "popup"
-   },
+
    {
 		"title": "YOOX",
 		"highlight" : "Free Shipping",
