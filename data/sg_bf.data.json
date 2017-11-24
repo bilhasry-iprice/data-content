@@ -159,6 +159,33 @@
 		"type" : "popup"
    },
    {
+		"title": "Harvey Norman",
+		"highlight" : "64% OFF",
+		"coupon_code" : "DOUBLE11",
+		"description" : "Get up to 64% OFF for Electronics & IT Products only for Today!",
+		"url": "https://iprice.sg/coupons/harvey-norman/?_id=e09440c3628f068b828254cfc8cc7251c24e79bc&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fharvey-norman%2F",
+		"img": "image/harveynorman.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Harvey Norman",
+		"highlight" : "20% OFF",
+		"coupon_code" : "required",
+		"description" : "Harvey Norman Black Tag Friday: Enjoy Discounts up to 20% OFF on Computer Accessories!",
+		"url": "https://iprice.sg/coupons/harvey-norman/?_id=a486484936a2fd0fb26ee342e4fdb9a6eec00f2e&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fharvey-norman%2F%3F_id%3De09440c3628f068b828254cfc8cc7251c24e79bc%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fharvey-norman%252F",
+		"img": "image/harveynorman.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Harvey Norman",
+		"highlight" : "$971 OFF",
+		"coupon_code" : "required",
+		"description" : "Harvey Norman Black Tag Friday: Save Up To $971 On Popular Camera Brands!",
+		"url": "https://iprice.sg/coupons/harvey-norman/?_id=95dbb1506edbb113f1778a0f9be71564f9cf5978&position=15&sub_product=coupon-store&_exit=%2Fcoupons%2Fharvey-norman%2F%3F_id%3Da486484936a2fd0fb26ee342e4fdb9a6eec00f2e%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fharvey-norman%252F%253F_id%253De09440c3628f068b828254cfc8cc7251c24e79bc%2526position%253D1%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Fharvey-norman%25252F",
+		"img": "image/harveynorman.jpg",
+		"type" : "popup"
+   },
+   {
 		"title": "Lazada",
 		"highlight" : "Up to 50%",
 		"coupon_code" : "LADAPP10",
