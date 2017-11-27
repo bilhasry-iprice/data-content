@@ -33,34 +33,34 @@
  ],
  "categories": [
    {
-		"title": "Uber",
-		"url": "https://iprice.my/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/uber.jpg"
+		"title": "Sepatu",
+		"url": "https://iprice.co.id/sepatu/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/shoes.jpg"
    },
    {
-		"title": "Fave",
-		"url": "https://iprice.my/coupons/fave/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/fave_logo.jpg"
+		"title": "Elektronik",
+		"url": "https://iprice.co.id/peralatan/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/electronics.jpg"
    },
    {
-		"title": "KKDay",
-		"url": "https://iprice.my/coupons/kkday/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/kkday.jpg"
+		"title": "Olahraga",
+		"url": "https://iprice.co.id/gym/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/sports.jpg"
    },
    {
-		"title": "Malaysia Airlines",
-		"url": "https://iprice.my/coupons/malaysia-airlines/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/malaysia-airlines.jpg"
+		"title": "Tas",
+		"url": "https://iprice.co.id/tas/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/bag.jpg"
    },
    {
-		"title": "AirAsia",
-		"url": "https://iprice.my/coupons/airasia/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/airasia.jpg"
+		"title": "Kesehatan & Kecantikan",
+		"url": "https://iprice.co.id/suplemen-makanan/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/healthbeauty.jpg"
    },
    {
-		"title": "Malindo Air",
-		"url": "https://iprice.my/coupons/malindo-air/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/malindo-air.jpg"
+		"title": "Handphone",
+		"url": "https://iprice.co.id/ponsel-tablet/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/phone.jpg"
    }
  ],
  "slides" : 
