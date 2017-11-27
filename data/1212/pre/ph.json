@@ -33,34 +33,34 @@
  ],
  "categories": [
    {
-		"title": "Uber",
-		"url": "https://iprice.my/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/uber.jpg"
+		"title": "Health & Beauty",
+		"url": "https://iprice.ph/supplements/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/healthbeauty.jpg"
    },
    {
-		"title": "Fave",
-		"url": "https://iprice.my/coupons/fave/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/fave_logo.jpg"
+		"title": "Electronics",
+		"url": "https://iprice.ph/appliances/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/electronics.jpg"
    },
    {
-		"title": "KKDay",
-		"url": "https://iprice.my/coupons/kkday/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/kkday.jpg"
+		"title": "Sports",
+		"url": "https://iprice.ph/action-sports/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/sports.jpg"
    },
    {
-		"title": "Malaysia Airlines",
-		"url": "https://iprice.my/coupons/malaysia-airlines/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/malaysia-airlines.jpg"
+		"title": "Home & Living",
+		"url": "https://iprice.ph/home-decor/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/homeliving.jpg"
    },
    {
-		"title": "AirAsia",
-		"url": "https://iprice.my/coupons/airasia/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/airasia.jpg"
+		"title": "Watches",
+		"url": "https://iprice.ph/watches/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/watches.jpg"
    },
    {
-		"title": "Malindo Air",
-		"url": "https://iprice.my/coupons/malindo-air/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/malindo-air.jpg"
+		"title": "Cameras",
+		"url": "https://iprice.ph/camera-photo/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/cameras.jpg"
    }
  ],
  "slides" : 
