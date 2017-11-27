@@ -33,34 +33,34 @@
  ],
  "categories": [
    {
-		"title": "Uber",
-		"url": "https://iprice.my/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/uber.jpg"
+		"title": "รองเทา",
+		"url": "https://ipricethailand.com/รองเทา/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/shoes.jpg"
    },
    {
-		"title": "Fave",
-		"url": "https://iprice.my/coupons/fave/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/fave_logo.jpg"
+		"title": "เครองใชไฟฟา",
+		"url": "https://ipricethailand.com/เครองใชไฟฟา/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/electronics.jpg"
    },
    {
-		"title": "KKDay",
-		"url": "https://iprice.my/coupons/kkday/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/kkday.jpg"
+		"title": "กฬาเอกซตรม",
+		"url": "https://ipricethailand.com/กฬาเอกซตรม/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/sports.jpg"
    },
    {
-		"title": "Malaysia Airlines",
-		"url": "https://iprice.my/coupons/malaysia-airlines/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/malaysia-airlines.jpg"
+		"title": "กระเปา",
+		"url": "https://ipricethailand.com/กระเปา/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/bags.jpg"
    },
    {
-		"title": "AirAsia",
-		"url": "https://iprice.my/coupons/airasia/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/airasia.jpg"
+		"title": "หองนงเลน",
+		"url": "https://ipricethailand.com/หองนงเลน/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/homeliving.jpg"
    },
    {
-		"title": "Malindo Air",
-		"url": "https://iprice.my/coupons/malindo-air/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/malindo-air.jpg"
+		"title": "โทรศพทและแทบเลต",
+		"url": "https://ipricethailand.com/โทรศพทและแทบเลต/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/phones.jpg"
    }
  ],
  "slides" : 
