@@ -169,6 +169,42 @@
    },
    {
 		"title": "Harvey Norman",
+		"highlight" : "Up to 60% OFF",
+		"coupon_code" : "*****",
+		"description" : "Cyber Monday 1-Day Flash Sale: Up To 60% Off Kitchen Appliances - Ovens From $99",
+		"url": "https://iprice.sg/coupons/harvey-norman/?_id=7808c3dcf3d840004a76501d8cea210659860b70&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fharvey-norman%2F",
+		"img": "image/harveynorman.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Harvey Norman",
+		"highlight" : "From $297",
+		"coupon_code" : "*****",
+		"description" : "Cyber Monday 1-Day Flash Sale: Washers & Dryers As Low As $297!",
+		"url": "https://iprice.sg/coupons/harvey-norman/?_id=a486484936a2fd0fb26ee342e4fdb9a6eec00f2e&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fharvey-norman%2F%3F_id%3De09440c3628f068b828254cfc8cc7251c24e79bc%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fharvey-norman%252F",
+		"img": "image/harveynorman.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Harvey Norman",
+		"highlight" : "TV only $798",
+		"coupon_code" : "*****",
+		"description" : "Cyber Monday 1-Day Flash Sale: Big Savings For Big TVs! 50 inch TV at $798!",
+		"url": "https://iprice.sg/coupons/harvey-norman/?_id=51d77166fb2dfd3d4f04967882e3befc398d376e&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fharvey-norman%2F%3F_id%3D7808c3dcf3d840004a76501d8cea210659860b70%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fharvey-norman%252F%253F_id%253D0cbef8b3ef7b7eddd68bf66f5905e0d41ba16c67%2526position%253D4%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Fharvey-norman%25252F%25253F_id%25253D7808c3dcf3d840004a76501d8cea210659860b70%252526position%25253D2%252526sub_product%25253Dcoupon-store%252526_exit%25253D%2525252Fcoupons%2525252Fharvey-norman%2525252F",
+		"img": "image/harveynorman.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Harvey Norman",
+		"highlight" : "Refridgerators from $595",
+		"coupon_code" : "*****",
+		"description" : "Cyber Monday 1-Day Flash Sale: Cool Savings With Refridgerators From $595!",
+		"url": "https://iprice.sg/coupons/harvey-norman/?_id=5adaa1f92311ad6c4d43ecbf86d9ae1e018d29ed&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fharvey-norman%2F%3F_id%3D51d77166fb2dfd3d4f04967882e3befc398d376e%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fharvey-norman%252F%253F_id%253D7808c3dcf3d840004a76501d8cea210659860b70%2526position%253D2%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Fharvey-norman%25252F%25253F_id%25253D0cbef8b3ef7b7eddd68bf66f5905e0d41ba16c67%252526position%25253D4%252526sub_product%25253Dcoupon-store%252526_exit%25253D%2525252Fcoupons%2525252Fharvey-norman%2525252F%2525253F_id%2525253D7808c3dcf3d840004a76501d8cea210659860b70%25252526position%2525253D2%25252526sub_product%2525253Dcoupon-store%25252526_exit%2525253D%252525252Fcoupons%252525252Fharvey-norman%252525252F",
+		"img": "image/harveynorman.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Harvey Norman",
 		"highlight" : "64% OFF",
 		"coupon_code" : "DOUBLE11",
 		"description" : "Get up to 64% OFF for Electronics & IT Products only for Today!",
