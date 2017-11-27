@@ -1,0 +1,93 @@
+{
+ "items": [
+   {
+		"title": "Uber",
+		"url": "https://iprice.my/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/uber.jpg"
+   },
+   {
+		"title": "Fave",
+		"url": "https://iprice.my/coupons/fave/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/fave_logo.jpg"
+   },
+   {
+		"title": "KKDay",
+		"url": "https://iprice.my/coupons/kkday/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/kkday.jpg"
+   },
+   {
+		"title": "Malaysia Airlines",
+		"url": "https://iprice.my/coupons/malaysia-airlines/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/malaysia-airlines.jpg"
+   },
+   {
+		"title": "AirAsia",
+		"url": "https://iprice.my/coupons/airasia/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/airasia.jpg"
+   },
+   {
+		"title": "Malindo Air",
+		"url": "https://iprice.my/coupons/malindo-air/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/malindo-air.jpg"
+   }
+ ],
+ "categories": [
+   {
+		"title": "Uber",
+		"url": "https://iprice.my/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/uber.jpg"
+   },
+   {
+		"title": "Fave",
+		"url": "https://iprice.my/coupons/fave/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/fave_logo.jpg"
+   },
+   {
+		"title": "KKDay",
+		"url": "https://iprice.my/coupons/kkday/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/kkday.jpg"
+   },
+   {
+		"title": "Malaysia Airlines",
+		"url": "https://iprice.my/coupons/malaysia-airlines/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/malaysia-airlines.jpg"
+   },
+   {
+		"title": "AirAsia",
+		"url": "https://iprice.my/coupons/airasia/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/airasia.jpg"
+   },
+   {
+		"title": "Malindo Air",
+		"url": "https://iprice.my/coupons/malindo-air/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/malindo-air.jpg"
+   }
+ ],
+ "slides" : 
+ 	[
+	   {
+			"title": "Grab",
+			"intro_text" : "Seize up to RM15 worth of FREE rides nationwide", 
+			"url": "https://iprice.my/coupons/grab/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+			"img": "https://bilhasry-iprice.github.io/sale/data/my/image/grab.jpg"
+	   },
+	   {
+	   		"title": "Shopee",
+	   		"intro_text" : "Discover daily Shopee sale up to 50%", 
+	   		"url" : "https://iprice.my/coupons/shopee/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+	   		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/shopee.jpg"
+	   },
+	   {
+	   		"title": "Zalora",
+	   		"intro_text" : "Get extra 18% OFF storewide with min. spend of RM120",
+	   		"url" : "https://iprice.my/coupons/zalora/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+	   		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/zalora.jpg"
+	   },
+	   {
+	   		"title": "11Street",
+	   		"intro_text" : "Grab RM15 coupon with min. spend of RM80",
+	   		"url" : "https://iprice.my/coupons/11street/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+	   		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/11street.jpg"
+	   }
+	]
+}
