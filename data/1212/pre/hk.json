@@ -33,61 +33,61 @@
  ],
  "categories": [
    {
-		"title": "Uber",
-		"url": "https://iprice.my/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/uber.jpg"
+		"title": "Phones",
+		"url": "https://iprice.hk/phones-tablets/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/phones.jpg"
    },
    {
-		"title": "Fave",
-		"url": "https://iprice.my/coupons/fave/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/fave_logo.jpg"
+		"title": "Babies",
+		"url": "https://iprice.hk/baby-gear/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/babies.jpg"
    },
    {
-		"title": "KKDay",
-		"url": "https://iprice.my/coupons/kkday/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/kkday.jpg"
+		"title": "Sports",
+		"url": "https://iprice.hk/food-supplements/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/sports.jpg"
    },
    {
-		"title": "Malaysia Airlines",
-		"url": "https://iprice.my/coupons/malaysia-airlines/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/malaysia-airlines.jpg"
+		"title": "Home & Living",
+		"url": "https://iprice.hk/home-decor/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/homeliving.jpg"
    },
    {
-		"title": "AirAsia",
-		"url": "https://iprice.my/coupons/airasia/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/airasia.jpg"
+		"title": "Watches",
+		"url": "https://iprice.hk/watches/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/watches.jpg"
    },
    {
-		"title": "Malindo Air",
-		"url": "https://iprice.my/coupons/malindo-air/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/malindo-air.jpg"
+		"title": "Cameras",
+		"url": "https://iprice.hk/camera-photo/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/camera.jpg"
    }
  ],
  "slides" : 
  	[
-	   {
-			"title": "Grab",
-			"intro_text" : "Seize up to RM15 worth of FREE rides nationwide", 
-			"url": "https://iprice.my/coupons/grab/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-			"img": "https://bilhasry-iprice.github.io/sale/data/my/image/grab.jpg"
-	   },
-	   {
-	   		"title": "Shopee",
-	   		"intro_text" : "Discover daily Shopee sale up to 50%", 
-	   		"url" : "https://iprice.my/coupons/shopee/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-	   		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/shopee.jpg"
-	   },
-	   {
-	   		"title": "Zalora",
-	   		"intro_text" : "Get extra 18% OFF storewide with min. spend of RM120",
-	   		"url" : "https://iprice.my/coupons/zalora/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-	   		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/zalora.jpg"
-	   },
-	   {
-	   		"title": "11Street",
-	   		"intro_text" : "Grab RM15 coupon with min. spend of RM80",
-	   		"url" : "https://iprice.my/coupons/11street/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-	   		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/11street.jpg"
-	   }
+	{
+		"title": "Uber",
+		"intro_text" : "Enjoy HKD40 OFF for new users", 
+		"url": "https://iprice.hk/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/uber.jpg"
+	},
+	{
+		"title": "Foodpanda",
+		"intro_text" : "Get free delivery on your first order", 
+	        "url" : "https://iprice.hk/coupons/foodpanda/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/foodpanda.jpg"
+	},
+	{
+		"title": "Zalora",
+		"intro_text" : "Get exclusive 13% OFF for min. spend of $550",
+		"url" : "https://iprice.hk/coupons/zalora/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/zalora.jpg"
+	},
+	{
+		"title": "Expedia",
+		"intro_text" : "Use HSBC Credit Card to enjoy extra 10% OFF hotel booking",
+		"url" : "https://iprice.hk/coupons/expedia/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/expedia.jpg"
+	}
 	]
 }
