@@ -87,30 +87,12 @@
     ],
  "coupons": [
    {
-		"title": "Lazada",
-		"highlight" : "86% OFF",
-		"coupon_code" : "NTUCLAZ8",
-		"description" : "Celebrate Beauty Week, Get up to 86% + 18% OFF!",
-		"url": "https://iprice.sg/coupons/lazada/?_id=1cc703c052efa2d66d67ed5670279282461f9c54&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
-		"img": "image/lazada.jpg",
-		"type" : "popup"
-   },
-   {
 		"title": "YOOX",
 		"highlight" : "Free Shipping",
 		"coupon_code" : "IPRICEFS",
 		"description" : "Enjoy free shipping with no min purchase",
 		"url": "https://iprice.sg/coupons/yoox/?_id=eae2871c5236f3ddafd196c73614cca9508b2fa2&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fyoox%2F",
 		"img": "image/yoox.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Brands",
-		"highlight" : "SG$5 OFF",
-		"coupon_code" : "BLACK17",
-		"description" : "Enjoy SG$5 OFF with Min Spend SG$30 + Free Delivery!",
-		"url": "https://iprice.sg/coupons/brandsworld/?_id=0a566699597056eb462702566580bd4514a7da95&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fbrandsworld%2F",
-		"img": "image/brands.jpg",
 		"type" : "popup"
    },
    {
@@ -132,15 +114,6 @@
 		"type" : "popup"
    },
    {
-		"title": "Microsoft",
-		"highlight" : "60% OFF",
-		"coupon_code" : "required",
-		"description" : "Enjoy up to 60% OFF on Xbox Games - Microsoft Black Friday Sale",
-		"url": "https://iprice.sg/coupons/microsoft/?_id=f36a9373815f86e74d476f763b62c61e8449b156&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fmicrosoft%2F",
-		"img": "image/microsoft.jpg",
-		"type" : "popup"
-   },
-   {
 		"title": "Gearbest",
 		"highlight" : "Up to 80% + 10% OFF",
 		"coupon_code" : "IPRICE10",
@@ -150,84 +123,12 @@
 		"type" : "popup"
    },
    {
-		"title": "Zalora",
-		"highlight" : "20% + 13% OFF",
-		"coupon_code" : "A11FORYOU",
-		"description" : "Zalora Black Friday Sale: Buy 2 Fashion Items, Get 20% + 13% OFF!",
-		"url": "https://iprice.sg/coupons/zalora/?_id=4a8aad2befaa553aceba6407bfc1c4898b0b7d28&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
-		"img": "image/zalora.jpg",
-		"type" : "popup"
-   },
-   {
 		"title": "Redmart",
 		"highlight" : "$20 OFF",
 		"coupon_code" : "IPRC20D",
 		"description" : "Enjoy SG$20 OFF, Min Spend SG$120 Storewide!",
 		"url": "https://iprice.sg/coupons/redmart/?_id=4f616f07612c0f495197de3e2a205657a5b11e31&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fredmart%2F%3Fnocache%3D1",
 		"img": "image/redmart.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Harvey Norman",
-		"highlight" : "Up to 60% OFF",
-		"coupon_code" : "*****",
-		"description" : "Cyber Monday 1-Day Flash Sale: Up To 60% Off Kitchen Appliances - Ovens From $99",
-		"url": "https://iprice.sg/coupons/harvey-norman/?_id=7808c3dcf3d840004a76501d8cea210659860b70&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fharvey-norman%2F",
-		"img": "image/harveynorman.jpg",
-		"type" : "direct"
-   },
-   {
-		"title": "Harvey Norman",
-		"highlight" : "From $297",
-		"coupon_code" : "*****",
-		"description" : "Cyber Monday 1-Day Flash Sale: Washers & Dryers As Low As $297!",
-		"url": "https://iprice.sg/coupons/harvey-norman/?_id=a486484936a2fd0fb26ee342e4fdb9a6eec00f2e&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fharvey-norman%2F%3F_id%3De09440c3628f068b828254cfc8cc7251c24e79bc%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fharvey-norman%252F",
-		"img": "image/harveynorman.jpg",
-		"type" : "direct"
-   },
-   {
-		"title": "Harvey Norman",
-		"highlight" : "TV only $798",
-		"coupon_code" : "*****",
-		"description" : "Cyber Monday 1-Day Flash Sale: Big Savings For Big TVs! 50 inch TV at $798!",
-		"url": "https://iprice.sg/coupons/harvey-norman/?_id=51d77166fb2dfd3d4f04967882e3befc398d376e&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fharvey-norman%2F%3F_id%3D7808c3dcf3d840004a76501d8cea210659860b70%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fharvey-norman%252F%253F_id%253D0cbef8b3ef7b7eddd68bf66f5905e0d41ba16c67%2526position%253D4%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Fharvey-norman%25252F%25253F_id%25253D7808c3dcf3d840004a76501d8cea210659860b70%252526position%25253D2%252526sub_product%25253Dcoupon-store%252526_exit%25253D%2525252Fcoupons%2525252Fharvey-norman%2525252F",
-		"img": "image/harveynorman.jpg",
-		"type" : "direct"
-   },
-   {
-		"title": "Harvey Norman",
-		"highlight" : "Refridgerators from $595",
-		"coupon_code" : "*****",
-		"description" : "Cyber Monday 1-Day Flash Sale: Cool Savings With Refridgerators From $595!",
-		"url": "https://iprice.sg/coupons/harvey-norman/?_id=5adaa1f92311ad6c4d43ecbf86d9ae1e018d29ed&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fharvey-norman%2F%3F_id%3D51d77166fb2dfd3d4f04967882e3befc398d376e%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fharvey-norman%252F%253F_id%253D7808c3dcf3d840004a76501d8cea210659860b70%2526position%253D2%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Fharvey-norman%25252F%25253F_id%25253D0cbef8b3ef7b7eddd68bf66f5905e0d41ba16c67%252526position%25253D4%252526sub_product%25253Dcoupon-store%252526_exit%25253D%2525252Fcoupons%2525252Fharvey-norman%2525252F%2525253F_id%2525253D7808c3dcf3d840004a76501d8cea210659860b70%25252526position%2525253D2%25252526sub_product%2525253Dcoupon-store%25252526_exit%2525253D%252525252Fcoupons%252525252Fharvey-norman%252525252F",
-		"img": "image/harveynorman.jpg",
-		"type" : "direct"
-   },
-   {
-		"title": "Harvey Norman",
-		"highlight" : "64% OFF",
-		"coupon_code" : "DOUBLE11",
-		"description" : "Get up to 64% OFF for Electronics & IT Products only for Today!",
-		"url": "https://iprice.sg/coupons/harvey-norman/?_id=e09440c3628f068b828254cfc8cc7251c24e79bc&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fharvey-norman%2F",
-		"img": "image/harveynorman.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Harvey Norman",
-		"highlight" : "20% OFF",
-		"coupon_code" : "required",
-		"description" : "Harvey Norman Black Tag Friday: Enjoy Discounts up to 20% OFF on Computer Accessories!",
-		"url": "https://iprice.sg/coupons/harvey-norman/?_id=a486484936a2fd0fb26ee342e4fdb9a6eec00f2e&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fharvey-norman%2F%3F_id%3De09440c3628f068b828254cfc8cc7251c24e79bc%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fharvey-norman%252F",
-		"img": "image/harveynorman.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Harvey Norman",
-		"highlight" : "$971 OFF",
-		"coupon_code" : "required",
-		"description" : "Harvey Norman Black Tag Friday: Save Up To $971 On Popular Camera Brands!",
-		"url": "https://iprice.sg/coupons/harvey-norman/?_id=95dbb1506edbb113f1778a0f9be71564f9cf5978&position=15&sub_product=coupon-store&_exit=%2Fcoupons%2Fharvey-norman%2F%3F_id%3Da486484936a2fd0fb26ee342e4fdb9a6eec00f2e%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fharvey-norman%252F%253F_id%253De09440c3628f068b828254cfc8cc7251c24e79bc%2526position%253D1%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Fharvey-norman%25252F",
-		"img": "image/harveynorman.jpg",
 		"type" : "popup"
    },
    {
@@ -249,30 +150,12 @@
 		"type" : "popup"
    },
    {
-		"title": "Zalora",
-		"highlight" : "35% OFF",
-		"coupon_code" : "A11FORYOU",
-		"description" : "Save 35% + 13%, Min Spend SG$150 on Women's Fashion",
-		"url": "https://iprice.sg/coupons/zalora/?_id=8d9b9d53a481d644387e7955d47de5fc83a3172c&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
-		"img": "image/zalora.jpg",
-		"type" : "popup"
-   },
-   {
 		"title": "KKDay",
 		"highlight" : "20% OFF",
 		"coupon_code" : "IPRICE20",
 		"description" : "Book Selected Activities, Receive 20% OFF!",
 		"url": "https://iprice.sg/coupons/kkday/?_id=18a69cace11b55997ee5cb6794c5be5baf751af1&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fkkday%2F",
 		"img": "image/kkday.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Expansys",
-		"highlight" : "50% OFF",
-		"coupon_code" : "required",
-		"description" : "Black Friday Sale: Enjoy up to 50% OFF for Selected Items!",
-		"url": "https://iprice.sg/coupons/expansys/?_id=cb8a540efdbed2f0f5497552eda0dc9a1ec02e56&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fexpansys%2F",
-		"img": "image/expansys.jpg",
 		"type" : "popup"
    },
    {
@@ -303,15 +186,6 @@
 		"type" : "popup"
    },
    {
-		"title": "SmartBuyGlasses",
-		"highlight" : "10% OFF",
-		"coupon_code" : "IPRICE10",
-		"description" : "Get 10% OFF Storewide!",
-		"url": "https://iprice.sg/coupons/smartbuyglasses/?_id=829f763912bf5bf64623de9edc58ca344ab98ba1&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fsmartbuyglasses%2F%3F_id%3D829f763912bf5bf64623de9edc58ca344ab98ba1%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fsmartbuyglasses%252F",
-		"img": "image/smartbuyglasses.jpg",
-		"type" : "popup"
-   },
-   {
 		"title": "Redmart",
 		"highlight" : "$15 OFF",
 		"coupon_code" : "15DIPRIC",
@@ -330,39 +204,12 @@
 		"type" : "popup"
    },
    {
-		"title": "Zalora",
-		"highlight" : "13% OFF",
-		"coupon_code" : "A11FORYOU",
-		"description" : "Celebrate Festive Season with 13% OFF on Dress & Shoes!",
-		"url": "https://iprice.sg/coupons/zalora/?_id=599d3561bb6d8bc957eaf4b11018c94730c81249&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
-		"img": "image/zalora.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Zalora",
-		"highlight" : "20% OFF",
-		"coupon_code" : "A11FORYOU",
-		"description" : "Zalora Black Friday Sale: Buy 2 Fashion Items, Get 20% + 13% OFF",
-		"url": "https://iprice.sg/coupons/zalora/?_id=4a8aad2befaa553aceba6407bfc1c4898b0b7d28&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
-		"img": "image/zalora.jpg",
-		"type" : "popup"
-   },
-   {
 		"title": "Redmart",
 		"highlight" : "$18 OFF",
 		"coupon_code" : "IPRICE18",
 		"description" : "Get SG$18 OFF When Spend Min SG$100 for Any Items!",
 	        "url": "https://iprice.sg/coupons/redmart/?_id=55674102372a4a5ec8930c470a294720e3d0cad2&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fredmart%2F",	
 	        "img": "image/redmart.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Lazada",
-		"highlight" : "11% OFF",
-		"coupon_code" : "LOVERB11",
-		"description" : "Get SG$11 OFF on Durex Products, Min Spend SG$50!",
-		"url": "https://iprice.sg/coupons/lazada/?_id=a895196ffae178cdbbbb842117f058aea576f0fc&position=5&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
-		"img": "image/lazada.jpg",
 		"type" : "popup"
    }
  ],
