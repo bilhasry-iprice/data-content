@@ -88,6 +88,44 @@
 	   		"intro_text" : "Grab RM15 coupon with min. spend of RM80",
 	   		"url" : "https://iprice.my/coupons/11street/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
 	   		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/11street.jpg"
-	   }
-	]
+	   }		
+   ],
+ "coupons": [
+   {
+		"title": "Konvy",
+		"highlight" : "10% OFF",
+		"coupon_code" : "KVKBANK150",
+		"description" : "ส่วนลด 150 ฿ สิทธิพิเศษจากบัตร Kbank และได้รับเครดิตคืนเงิน 10% เมื่อช้อปสินค้าจาก Konvy",
+		"url": "https://ipricethailand.com/coupons/konvy/?_id=52a87adf11cbcc10a9f5f0e53d3823aa96cf05e1&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fkonvy%2F%3F_id%3D52a87adf11cbcc10a9f5f0e53d3823aa96cf05e1%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fkonvy%252F",
+		"img": "image/konvy.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Tops",
+		"highlight" : "150 บาท",
+		"coupon_code" : "required",
+		"description" : "โปรโมชั่น Tops Shop Online: สมาชิก AIS รับ 150 บาทฟรี! เมื่อช้อปครบ 2,000 บาทขึ้นไป",
+		"url": "https://ipricethailand.com/r/c/?_id=39f94ccff2360401119130aa1ee50f74f2ef4a59&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Ftops-shop-online%2F",
+		"img": "image/tops.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Sephora",
+		"highlight" : "Canvas Pouch",
+		"coupon_code" : "*****",
+		"description" : "เฉพาะผู้ถือบัตร Visa ฟรีกระเป๋า Canvas Pouch เมื่อช้อปออนไลน์ที่ Sephora Thailand!",
+		"url": "https://ipricethailand.com/coupons/sephora/?_id=6bd9bf11d8383ca7ab20ed06269f7d504c4d541d&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fsephora%2F",
+		"img": "image/sephora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "AirAsiaGo",
+		"highlight" : "10% OFF",
+		"coupon_code" : "รับคูปองที่ร้านค้าเท่านั้น",
+		"description" : "บินปลายปี ทุกเส้นทาง ในประเทศ เริ่มต้น 599 บาท! จองผ่านแอพ AirAsiaGo ลดเพิ่ม 10%!",
+		"url": "https://ipricethailand.com/coupons/airasiago/?_id=5c9e92b5acc54ab7a064e28c7b2bd7e8c8f2fab8&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fairasiago%2F",
+		"img": "image/airasiago.jpg",
+		"type" : "popup"
+   }
+]
 }
