@@ -89,5 +89,52 @@
 		"url" : "https://iprice.hk/coupons/expedia/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
 		"img": "https://bilhasry-iprice.github.io/sale/data/hk/image/expedia.jpg"
 	}
-	]
+   ],
+ "coupons": [
+   {		
+		"title": "YOOX",
+		"highlight" : "10% OFF",
+		"coupon_code" : "VISA2017",
+		"description" : "All HSBC Visa Credit Cards - Free Shipping & 10% Off",
+		"url": "https://iprice.hk/coupons/yoox/?_id=46e01ab802ea2b78cf56b3ee3580e28677089e02&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fyoox%2F",
+		"img": "image/yoox.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Uber",
+		"highlight" : "$40 OFF",
+		"coupon_code" : "IPRICEUBERHK",
+		"description" : "Enjoy $40 Off with exclusive Uber promo code",
+		"url": "https://iprice.hk/coupons/uber/?_id=618aaafbc4ec222182e314ac43770edbd1579928&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F",
+		"img": "image/uber.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Agoda",
+		"highlight" : "7% OFF",
+		"coupon_code" : "USE BEA CREDIT CARD",
+		"description" : "Book with your BEA credit card & receive Up to 7% OFF hotels worldwide",
+		"url": "https://iprice.hk/coupons/agoda/?_id=1b07c4b24c83739f5ce3292a3433d72d93042e2f&position=5&sub_product=coupon-store&_exit=%2Fcoupons%2Fagoda%2F%3F_id%3D1b07c4b24c83739f5ce3292a3433d72d93042e2f%26position%3D5%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fagoda%252F",
+		"img": "image/agoda.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Expedia",
+		"highlight" : "7% OFF",
+		"coupon_code" : "EXPEDIA11",
+		"description" : "Enjoy 11% OFF your hotel booking",
+		"url": "https://iprice.hk/coupons/expedia/?_id=f7dfd92d85f83b9eeab4f20a9abc85bece34434a&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fexpedia%2F",
+		"img": "image/expedia.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Klook",
+		"highlight" : "Up to 75% OFF",
+		"coupon_code" : "KLKHKPP",
+		"description" : "Enjoy Up To 75% off Retail Price On Selected travel activities",
+		"url": "https://iprice.hk/coupons/klook/?_id=831d66c8ef00f7ef99475cb39e75abce37e9ff66&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fklook%2F",
+		"img": "image/klook.jpg",
+		"type" : "popup"
+   }
+]
 }
