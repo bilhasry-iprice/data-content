@@ -92,6 +92,42 @@
  ],
 "coupons": [	
    {
+		"title": "Grab",
+		"highlight" : "$20 OFF",
+		"coupon_code" : "SGMAP",
+		"description" : "Get S$10 OFF your first ride",
+		"url": "https://iprice.sg/coupons/grab/?_id=91cd25ae05767e97dc9265ec50fd737859a11068&position=12&sub_product=coupon-store&_exit=%2Fcoupons%2Fgrab%2F",
+		"img": "image/grab.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Expedia",
+		"highlight" : "10% OFF",
+		"coupon_code" : "JOG10OFF",
+		"description" : "Get 10% off hotels in Yogyakarta!",
+		"url": "https://iprice.sg/coupons/expedia/?_id=634636bb3b798c46c5815961ce54be6fb6c13570&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fexpedia%2F%3Fnocache%3D1",
+		"img": "image/expedia.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Althea",
+		"highlight" : "10% OFF",
+		"coupon_code" : "OMGSG17Q04",
+		"description" : "Enjoy 10% OFF Storewide!",
+		"url": "https://iprice.sg/coupons/althea/?_id=f7b5b787b1b8b516f283353b6af77687b7c48871&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Falthea%2F%3F_id%3Df7b5b787b1b8b516f283353b6af77687b7c48871%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Falthea%252F",
+		"img": "image/althea.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Redmart",
+		"highlight" : "$18 OFF",
+		"coupon_code" : "IPRICE18",
+		"description" : "Get SG$18 OFF When Spend Min SG$100 for Any Items!",
+	        "url": "https://iprice.sg/coupons/redmart/?_id=55674102372a4a5ec8930c470a294720e3d0cad2&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fredmart%2F",	
+	        "img": "image/redmart.jpg",
+		"type" : "popup"
+   }
+	{
 		"title": "Uber",
 		"highlight" : "SG$15 OFF",
 		"coupon_code" : "IPRICESG2017",
