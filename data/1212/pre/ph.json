@@ -92,6 +92,42 @@
    ],
  "coupons": [
    {
+		"title": "Zalora",
+		"highlight" : "20% OFF",
+		"coupon_code" : "MASTERCARD20",
+		"description" : "Extra 20% Discount every Monday with Mastercard",
+		"url": "https://iprice.ph/coupons/zalora/?_id=5b2c32c963c821840ecac0597bc4ca2e41680650&position=20&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
+		"img": "image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Grab",
+		"highlight" : "P200 OFF",
+		"coupon_code" : "GRABCAR",
+		"description" : "Get P200 OFF on Your First Grabcar Ride",
+		"url": "https://iprice.ph/coupons/grab/?_id=f8eadea6c0c5d8acc4aff309ab751feb14c4c4c7&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fgrab%2F",
+		"img": "image/grab.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Althea",
+		"highlight" : "P300 OFF",
+		"coupon_code" : "WELCOME-PH",
+		"description" : "Sign up now and get P300 off",
+		"url": "https://iprice.ph/coupons/althea/?_id=5b043b0546701e08fab3089adb6fe9bace5c4bf0&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Falthea%2F",
+		"img": "image/althea.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "BeautyMNL",
+		"highlight" : "FREE Shipping",
+		"coupon_code" : "*****",
+		"description" : "FREE Shipping for orders from P1500",
+		"url": "https://iprice.ph/r/c/?_id=be2a009022e2ad46cfe444770164a520e132e6b6&popup=&_exit=%2Fcoupons%2Fbeauty-mnl%2F%3F_id%3Dbe2a009022e2ad46cfe444770164a520e132e6b6%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fbeauty-mnl%252F",
+		"img": "image/beautymnl.jpg",
+		"type" : "direct"
+   },
+   {
 		"title": "Hotels.com",
 		"highlight" : "5% OFF",
 		"coupon_code" : "PH5OFF",
