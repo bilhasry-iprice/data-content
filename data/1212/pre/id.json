@@ -88,6 +88,44 @@
 	   		"intro_text" : "Grab RM15 coupon with min. spend of RM80",
 	   		"url" : "https://iprice.my/coupons/11street/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
 	   		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/11street.jpg"
-	   }
-	]
+	   }	
+   ],	
+"coupons": [
+   {
+		"title": "Perfect Beauty",
+		"highlight" : "50 ribu OFF",
+		"coupon_code" : "IP11-12",
+		"description" : "Voucher Perfect Beauty 50 Ribu Semua Kosmetik dan Skincare",
+		"url": "https://iprice.co.id/coupons/perfect-beauty/?_id=0cf3b2f204ff31835ecf8b22af7a163101cb04b2&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fperfect-beauty%2F%3F_id%3Dc76c6c64b0334df2ee4893037094a1223d214891%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fperfect-beauty%252F",
+		"img": "image/perfect-beauty.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Pesona Nusantara",
+		"highlight" : "Mulai 11 ribu",
+		"coupon_code" : "required",
+		"description" : "Beli oleh-oleh hemat di Pesona Nusantara mulai Rp.11.000!",
+		"url": "https://iprice.co.id/coupons/pesona-nusantara/?_id=071f631feb39ff68937ad9ca239e5c8a414406f7&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fpesona-nusantara%2F",
+		"img": "image/pesona-nusantara.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Banggood",
+		"highlight" : "75% OFF",
+		"coupon_code" : "required",
+		"description" : "Belanja untuk semua kategori di Banggood.com diskon hingga 75%",
+		"url": "https://iprice.co.id/coupons/banggood/?_id=fb382ac8f75f703888b1e2a2886575269eee622f&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fbanggood%2F",
+		"img": "image/banggood.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Pegipegi",
+		"highlight" : "150 ribu OFF",
+		"coupon_code" : "5A9GQAB",
+		"description" : "Voucher Pegipegi hotel 150 ribu dengan Bank Mandiri",
+		"url": "https://iprice.co.id/coupons/pegipegi/?_id=711f5bdf8f959849428cbee38789f83aac018717&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fpegipegi%2F",
+		"img": "image/pegipegi.jpg",
+		"type" : "direct"
+   }
+ ]
 }
