@@ -86,24 +86,6 @@
         }
     ],
  "coupons": [
-    {
-		"title": "Lazada",
-		"highlight" : "Up to 80% OFF",
-		"coupon_code" : "LZDLABF10",
-		"description" : "Enjoy promo up to 80% + Extra 10% Off Home Appliance",
-		"url": "https://iprice.my/coupons/lazada/?_id=b18922f505543f49975f9ea54ef310b6178f2f10&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F%3F_id%3Db18922f505543f49975f9ea54ef310b6178f2f10%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Flazada%252F	https://iprice.my/coupons/lazada/?_id=b18922f505543f49975f9ea54ef310b6178f2f10&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F%3F_id%3Db18922f505543f49975f9ea54ef310b6178f2f10%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Flazada%252F",
-		"img": "image/lazada.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Zalora",
-		"highlight" : "Up to 35% OFF",
-		"coupon_code" : "CYBER35",
-		"description" : "Seize 35% Off Fashion during Zalora Black Friday Sale",
-		"url": "https://iprice.my/coupons/zalora/?_id=be10eee4aa7e1001c6b55cbd63c9a7e92fd3142e&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
-		"img": "image/zalora.jpg",
-		"type" : "popup"
-   },
    {
 		"title": "Yoox",
 		"highlight" : "Free Shipping",
@@ -114,39 +96,12 @@
 		"type" : "popup"
    },
    {
-		"title": "YesStyle",
-		"highlight" : "80% OFF",
-		"coupon_code" : "2017BLACK",
-		"description" : "Black Friday Sale - Enjoy up to 80% Off + 15% Off",
-		"url": "https://iprice.my/coupons/yesstyle/?_id=318fcbefadaf7583195e1be6df849182e2685598&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fyesstyle%2F",
-		"img": "image/yesstyle.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Uber",
-		"highlight" : "30% OFF",
-		"coupon_code" : "MYIPRICEFRI",
-		"description" : "Enjoy extra 30% Off your first 3 rides with Uber promo code",
-		"url": "https://iprice.my/coupons/uber/?_id=10256e5adea7c60d0529dd573d1ce88abd23b930&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F",
-		"img": "image/uber.jpg",
-		"type" : "popup"
-   }, 
-   {
 		"title": "Zalora",
 		"highlight" : "18% OFF",
 		"coupon_code" : "GRABRWF20",
 		"description" : "Get extra 18% OFF Storewide with min. spend of RM120",
 		"url": "https://iprice.my/coupons/zalora/?_id=1faf0003e32313031cd612bb86ec6b82a8edae64&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
 		"img": "image/zalora.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Lazada",
-		"highlight" : "10% OFF",
-		"coupon_code" : "ACCY10BC",
-		"description" : "Receive 10% Off Electronic accessories during Lazada Black Friday Sale",
-		"url": "https://iprice.my/coupons/lazada/?_id=b156540e9be87998291edb5ed9b2de8cb8628260&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
-		"img": "image/lazada.jpg",
 		"type" : "popup"
    },
    {
@@ -163,7 +118,7 @@
 		"highlight" : "RM120 OFF",
 		"coupon_code" : "*****",
 		"description" : "Save up to RM120 on Office 365 Home and Student 2016",
-		"url": "https://iprice.my/r/c/?_id=43ec6bd3d6419ef8d750c537066244a3577d1d86&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fmicrosoft%2F",
+		"url": "https://iprice.my/coupons/microsoft/?_id=43ec6bd3d6419ef8d750c537066244a3577d1d86&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fmicrosoft%2F",
 		"img": "image/microsoft.jpg",
 		"type" : "direct"
    },
@@ -222,29 +177,11 @@
 		"type" : "popup"
    },
    {
-		"title": "AirAsiaGo",
-		"highlight" : "10% OFF",
-		"coupon_code" : "SAVE10",
-		"description" : "Book via app & enjoy extra 10% Off Hotel",
-		"url": "https://iprice.my/coupons/airasiago/?_id=adda6f4988003c77d9657f389db201bc45832e7a&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fairasiago%2F",
-		"img": "image/airasiago.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Expansys",
-		"highlight" : "Up to 50% OFF",
-		"coupon_code" : "*****",
-		"description" : "Check out extreme Black Friday deals while receiving discount up to 50% Off",
-		"url": "https://iprice.my/coupons/expansys/?_id=8749363e07d0e3212531810942c645b609048050&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fexpansys%2F",
-		"img": "image/expansys.jpg",
-		"type" : "direct"
-   }, 
-   {
 		"title": "Club Med",
 		"highlight" : "45% OFF",
 		"coupon_code" : "*****",
 		"description" : "Enjoy up to 45% OFF early bird Asia deals",
-		"url": "https://iprice.my/r/c/?_id=14947c010f91b6cf01c1938726c1f42a2279de1c&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fclub-med%2F",
+		"url": "https://iprice.my/coupons/club-med/?_id=6420a979de2f2dc94e999c65de51fe4aac65f468&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fclub-med%2F",
 		"img": "image/clubmed.jpg",
 		"type" : "direct"	  
    },
