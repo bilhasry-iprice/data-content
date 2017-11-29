@@ -92,49 +92,67 @@
    ],	
 "coupons": [
    {
-		"title": "Perfect Beauty",
-		"highlight" : "50 ribu OFF",
-		"coupon_code" : "IP11-12",
-		"description" : "Voucher Perfect Beauty 50 Ribu Semua Kosmetik dan Skincare",
-		"url": "https://iprice.co.id/coupons/perfect-beauty/?_id=0cf3b2f204ff31835ecf8b22af7a163101cb04b2&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fperfect-beauty%2F%3F_id%3Dc76c6c64b0334df2ee4893037094a1223d214891%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fperfect-beauty%252F",
-		"img": "image/perfect-beauty.jpg",
+		"title": "Bukalapak",
+		"highlight" : "Diskon 100 Ribu",
+		"coupon_code" : "*****",
+		"description" : "Bukalapak Promo Nego Sampai Cincai Diskon 100 Ribu",
+		"url": "https://iprice.co.id/r/c/?_id=830950aaef32470c2a76178ca20a24f5e0740e74&_exit=%2Fcoupons%2Fbukalapak%2F%3F_id%3D830950aaef32470c2a76178ca20a24f5e0740e74%26position%3D15%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fbukalapak%252F",
+		"img": "image/bukalapak.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Lazada",
+		"highlight" : "Menangkan Samsung Note 8",
+		"coupon_code" : "*****",
+		"description" : "Beli Kacamata Kekinian di Lazada Menangkan HP Samsung Note 8",
+		"url": "https://iprice.co.id/r/c/?_id=b75e6b7d80e6192b8247e45a5e506ff5e0a71339&_exit=%2Fcoupons%2Flazada%2F%3F_id%3Db75e6b7d80e6192b8247e45a5e506ff5e0a71339%26position%3D15%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Flazada%252F",
+		"img": "image/lazada.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Hijup",
+		"highlight" : "Voucher 50 ribu",
+		"coupon_code" : "BAMED50K",
+		"description" : "Dapatkan Voucher Bamed 50 Ribu Spesial dari Hijup",
+		"url": "https://iprice.co.id/coupons/hijup/?_id=f0300fd55299260cbcbf6948429248d7b840fd65&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fhijup%2F",
+		"img": "image/hijup.jpg",
 		"type" : "popup"
    },
    {
-		"title": "Pesona Nusantara",
-		"highlight" : "Mulai 11 ribu",
-		"coupon_code" : "required",
-		"description" : "Beli oleh-oleh hemat di Pesona Nusantara mulai Rp.11.000!",
-		"url": "https://iprice.co.id/coupons/pesona-nusantara/?_id=071f631feb39ff68937ad9ca239e5c8a414406f7&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fpesona-nusantara%2F",
-		"img": "image/pesona-nusantara.jpg",
-		"type" : "direct"
-   },
-	{
-		"title": "Perfect Beauty",
-		"highlight" : "50 ribu OFF",
-		"coupon_code" : "IP11-12",
-		"description" : "Voucher Perfect Beauty 50 Ribu Semua Kosmetik dan Skincare",
-		"url": "https://iprice.co.id/coupons/perfect-beauty/?_id=0cf3b2f204ff31835ecf8b22af7a163101cb04b2&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fperfect-beauty%2F%3F_id%3Dc76c6c64b0334df2ee4893037094a1223d214891%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fperfect-beauty%252F",
-		"img": "image/perfect-beauty.jpg",
+		"title": "Uber",
+		"highlight" : "FREE Ride",
+		"coupon_code" : "IPRICEID2017",
+		"description" : "3 x 10 Ribu Free Ride",
+		"url": "https://iprice.co.id/coupons/uber/?_id=58efbd49f470ea318ed129905fce1930e282256f&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F",
+		"img": "image/uber.jpg",
 		"type" : "popup"
    },
    {
-		"title": "Pesona Nusantara",
-		"highlight" : "Mulai 11 ribu",
-		"coupon_code" : "required",
-		"description" : "Beli oleh-oleh hemat di Pesona Nusantara mulai Rp.11.000!",
-		"url": "https://iprice.co.id/coupons/pesona-nusantara/?_id=071f631feb39ff68937ad9ca239e5c8a414406f7&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fpesona-nusantara%2F",
-		"img": "image/pesona-nusantara.jpg",
-		"type" : "direct"
+		"title": "Grab",
+		"highlight" : "75 ribu OFF",
+		"coupon_code" : "IDMAP",
+		"description" : "Gratis perjalanan pertama kali hingga 75.000",
+		"url": "https://iprice.co.id/coupons/grab/?_id=8284165cc32af7437d087ded17622a768960ae57&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fgrab%2F",
+		"img": "image/grab.jpg",
+		"type" : "popup"
    },
    {
 		"title": "Banggood",
-		"highlight" : "75% OFF",
-		"coupon_code" : "required",
+		"highlight" : "Dari Rp. 49 Ribu",
+		"coupon_code" : "*****",
+		"description" : "Temukan Produk Terbaru dan Ter-update dari Rp. 49.000",
+		"url": "https://iprice.co.id/r/c/?_id=72715e36c948e86448b6200334f6922f806ef94b&_exit=%2Fcoupons%2Fbanggood%2F%3F_id%3D72715e36c948e86448b6200334f6922f806ef94b%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fbanggood%252F",
+		"img": "image/banggood.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "The Body Shop",
+		"highlight" : "Beli 2 Gratis 1",
+		"coupon_code" : "MONDAY",
 		"description" : "Beli 2 Gratis 1 Setiap Senin dari Bank Mandiri",
 		"url": "https://iprice.co.id/coupons/the-body-shop/?_id=87cdd1401e7119a462b3051c98b5011a80501e8e&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fthe-body-shop%2F",
-		"img": "image/thebodyshop.jpg",
-		"type" : "direct"
+		"img": "image/the-body-shop.jpg",
+		"type" : "popup"
    },
    {
 		"title": "Pizza Hut",
@@ -145,7 +163,7 @@
 		"img": "image/pizzahut.jpg",
 		"type" : "direct"
    },
-	{
+   {
 		"title": "Perfect Beauty",
 		"highlight" : "50 ribu OFF",
 		"coupon_code" : "IP11-12",
