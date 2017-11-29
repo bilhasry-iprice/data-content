@@ -92,6 +92,78 @@
    ],
  "coupons": [
    {
+		"title": "Central Online",
+		"highlight" : "40% OFF",
+		"coupon_code" : "*****",
+		"description" : "Casio นาฬิกาแฟชั่นสุดฮิต ลด 40% ทั้งร้าน!! ช้อปด่วนที่ Central Online!",
+		"url": "https://ipricethailand.com/r/c/?_id=7a604c0f2fcbc32cf66969cbbe8a322ef703077a&_exit=%2Fcoupons%2Fcentral-online%2F%3F_id%3D7a604c0f2fcbc32cf66969cbbe8a322ef703077a%26position%3D9%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fcentral-online%252F",
+		"img": "image/central-online.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "UberEATS",
+		"highlight" : "รับส่วนลด 100 บาทถึง 2 ครั้ง!",
+		"coupon_code" : "IPRICEEATS",
+		"description" : "หิวเมื่อไหร่ สั่งได้ผ่านแอพ UberEATS รับส่วนลด 100 บาทถึง 2 ครั้ง!",
+		"url": "https://ipricethailand.com/coupons/ubereats/?_id=e3a5645dfd3d593fb2b6870254ce2f42a1f1e897&position=4&sub_product=coupon-store&_exit=%2Fcoupons%2Fubereats%2F",
+		"img": "image/ubereats.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Agoda",
+		"highlight" : "Half Price Deals!",
+		"coupon_code" : "*****",
+		"description" : "อย่าพลาด!! ส่วนลด Agoda 50% !! Agoda Half Price Deals!! ห้องพักครึ่งราคา คลิกเลย!",
+		"url": "https://ipricethailand.com/r/c/?_id=b733f7e0a377457ea47cc875e3400a96c9d167f6&_exit=%2Fcoupons%2Fagoda%2F%3F_id%3Db733f7e0a377457ea47cc875e3400a96c9d167f6%26position%3D3%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fagoda%252F",
+		"img": "image/agoda.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Grab",
+		"highlight" : "ฟรี 100 บาท 3 ครั้ง",
+		"coupon_code" : "HISURAT",
+		"description" : "นั่ง GrabCar และ GrabTaxi ฟรี 100 บาท 3 ครั้ง (เฉพาะผู้ใช้ใหม่ในเขตสงขลาและหาดใหญ่)",
+		"url": "https://ipricethailand.com/coupons/grab/?_id=81ccadaf15330ed6b2cf3e39d832aade6a3b787f&position=18&sub_product=coupon-store&_exit=%2Fcoupons%2Fgrab%2F",
+		"img": "image/grab.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Uber",
+		"highlight" : "50 บาทในการ",
+		"coupon_code" : "KKUBER",
+		"description" : "รับส่วนลด 50 บาทในการใช้บริการ 3 ครั้งแรก",
+		"url": "https://ipricethailand.com/coupons/uber/?_id=71a35817b106fbcbeb94a4883b8f0edc14a77e65&position=6&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F",
+		"img": "image/uber.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Lazada",
+		"highlight" : "ในราคา 120฿ เท่านั้น",
+		"coupon_code" : "*****",
+		"description" : "โรลม้วนผมไฟฟ้าขนาดพกพา ใช้บนรถ เพาเวอร์แบงค์ ใช้ที่ไหนก็สะดวก!! ในราคา 120฿ เท่านั้น!!",
+		"url": "https://ipricethailand.com/r/c/?_id=05c2e4b3fa693c08f4835c2c4e73c56e17e8ebc0&_exit=%2Fcoupons%2Flazada%2F%3F_id%3D05c2e4b3fa693c08f4835c2c4e73c56e17e8ebc0%26position%3D20%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Flazada%252F",
+		"img": "image/lazada.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Central Online",
+		"highlight" : "17% OFF",
+		"coupon_code" : "*****",
+		"description" : "ลดเพิ่ม 17% เมื่อช้อป 2ชิ้นขึ้นไป!!",
+		"url": "https://ipricethailand.com/r/c/?_id=5f58c1b97f470b1159e7189a7700a816d4119fd0&_exit=%2Fcoupons%2Fcentral-online%2F%3F_id%3D5f58c1b97f470b1159e7189a7700a816d4119fd0%26position%3D18%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fcentral-online%252F",
+		"img": "image/central-online.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Shopat24",
+		"highlight" : "เริ่มต้นเพียง 45 บาท",
+		"coupon_code" : "*****",
+		"description" : "สินค้าเพื่อความงาม ลดราคาพิเศษ 84% !! เริ่มต้นเพียง 45 บาท",
+		"url": "https://ipricethailand.com/r/c/?_id=237f3bed208cbf2cae9c305644463a7000fd8b73&_exit=%2Fcoupons%2Fshopat24%2F%3F_id%3D237f3bed208cbf2cae9c305644463a7000fd8b73%26position%3D15%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fshopat24%252F",
+		"img": "image/shopat24.jpg",
+		"type" : "popup"
+   },
+   {
 		"title": "Konvy",
 		"highlight" : "10% OFF",
 		"coupon_code" : "KVKBANK150",
