@@ -34,35 +34,36 @@
 	],
  "brands": [
         {
-            "title": "Gearbest",
-            "description": "Gearbest 1111 Sale",
-            "url": "http://bit.ly/2hhZzUo",
-            "img": "image/Gearbestbox_banner_mini.jpg",
-            "m_img": "image/Gearbestbox_banner_mini_mobile.jpg",
+            "title": "Coupons",
+            "description": "Huge savings with shopping coupons",
+            "url": "https://iprice.my/coupons/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+            "img": "",
+            "m_img": "",
             "cta" : "Shop Now"
         },
         {
-            "title": "Uber",
-            "description": "For no reason being late again",
-            "url": "https://iprice.sg/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-            "img": "image/Uber_box_banner.jpg",
-            "m_img": "image/Uber_box_banner_mobile.jpg",
+            "title": "Laptops",
+            "description": "Get productive with laptops below RM1500",
+            "url": "https://iprice.my/computing/laptops/?price_min=40&price_max=1500&utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+            "img": "",
+            "m_img": "",
             "cta" : "Shop Now"
         },
         {
-            "title": "Zalora",
-            "description": "11.11 Singles Day Your Way. Up to 50% Off",
-            "url": "http://bit.ly/2xNha9U",
-            "img": "image/Zalora_square_banner.jpg",
-            "m_img": "image/Zalora_square_banner_mobile.jpg",
+            "title": "Bags",
+            "description": "Carry your discounts up to 60% off for luxury bags!",
+            "url": "https://iprice.my/bags/?discount=1&utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+            "img": "",
+            "m_img": "",
             "cta" : "Shop Now"
         },
         {
             "title": "Yoox",
-            "description": "",
-            "url": "http://bit.ly/2yfxfoQ",
-            "img": "image/Yoox_banner_square.jpg",
-            "m_img": "image/Yoox_banner_square_mobile.jpg"
+            "description": "Up to 80% off your latest kicks",
+            "url": "https://iprice.my/shoes/?discount=1&utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+            "img": "",
+            "m_img": ""
+            "cta" : "Shop Now"
         }
     ],
  "categories": [
@@ -97,40 +98,225 @@
 		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/cameras.jpg"
    }
  ],
- "top_produtcs" : [
+ "top_products" : [
  	{
- 		"title" : "product name",
- 		"url"	: "url_of_product",
- 		"img"	: "url of img",
- 		"price" : "just use format (Rp ...., MYR ...., THB ...., )"
+ 		"title" : "Iphone 6 Plus",
+ 		"url"	: "https://iprice.my/compare/apple-iphone-6-plus/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+ 		"img"	: "https://d1ibm7nofgdn3g.cloudfront.net/apple-iphone-6-plus-64gb-grey-AP564ELAC4JS27ANMY-167200127.jpg",
+ 		"price" : "RM 1395.00"
+ 	},
+	{
+ 		"title" : "Lenovo Legion Y520-15IKBN",
+ 		"url"	: "https://iprice.my/compare/lenovo-legion-y520-15ikbn/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+ 		"img"	: "https://d1ibm7nofgdn3g.cloudfront.net/lenovo-34573179-2170681101-large.jpg",
+ 		"price" : "RM 2949.00"
+ 	},
+ 	{
+ 		"title" : "Bose QuiteComfort 35",
+ 		"url"	: "https://iprice.my/compare/bose-quietcomfort-35/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+ 		"img"	: "https://d1ibm7nofgdn3g.cloudfront.net/bose-32319734-7193473613-medium.jpg",
+ 		"price" : "RM 1266.70"
+ 	},
+	{
+ 		"title" : "Sony Playstation 4",
+ 		"url"	: "https://iprice.my/compare/sony-playstation-4/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+ 		"img"	: "https://d1ibm7nofgdn3g.cloudfront.net/sony-new-playstation-4-slim-500gb-white-console-1-year-seaofficialwarranty-ready-stock-SO406ELAABWVFUANMY-25052939.jpg",
+ 		"price" : "RM 1169.00"
+ 	},
+	{
+ 		"title" : "Casio Pro Trek WSD-F20 ",
+ 		"url"	: "https://iprice.my/compare/casio-pro-trek-wsd-f20/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+ 		"img"	: "https://d1ibm7nofgdn3g.cloudfront.net/casio-35711177-1713738851-large.jpg",
+ 		"price" : "RM 2680.00"
+ 	},
+	{
+ 		"title" : "Canon EOS 700D",
+ 		"url"	: "https://iprice.my/compare/canon-eos-700d/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+ 		"img"	: "https://d1ibm7nofgdn3g.cloudfront.net/canon-18014747-5952-large.jpg",
+ 		"price" : "RM 2087.40"
  	}
  ],
  "coupon_categories": [
+ {
+   	"name" : "Top Coupons",
+   	"coupons" : [
+		 {
+		"title": "Lazada",
+		"highlight" : "RM200 OFF",
+		"coupon_code" : "IN200TEL",
+		"description" : "Enjoy up to RM200 OFF Intel products",
+		"url": "https://iprice.my/coupons/lazada/?_id=713e33340b23d6640b97eea496659e0a77bbe46d&position=8&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
+		"img": "image/lazada.jpg",
+		"type" : "popup"
+   },
    {
-   	"name" : "category name",
+		"title": "Zalora",
+		"highlight" : "15% OFF",
+		"coupon_code" : "ZLAPP15",
+		"description" : "Enjoy 15% off your first app purchase with min. spend of RM150",
+		"url": "https://iprice.my/coupons/zalora/?_id=d7c323f21a0a3ac55f9f29da69a66fc80d6262e0&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F%3F_id%3D1faf0003e32313031cd612bb86ec6b82a8edae64%26position%3D3%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fzalora%252F",
+		"img": "image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "11street",
+		"highlight" : "Get RM15",
+		"coupon_code" : "*****",
+		"description" : "Get RM15 coupon with min. spend of RM80",
+		"url": "https://iprice.my/r/c/?_id=ac0928fd22ba4125c9ddcf8cb8cdb15dada0e6e2&_exit=%2Fcoupons%2F11street%2F%3F_id%3Dac0928fd22ba4125c9ddcf8cb8cdb15dada0e6e2%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252F11street%252F",
+		"img": "image/11street.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Uber",
+		"highlight" : "10 FREE Rides",
+		"coupon_code" : "GOTREC",
+		"description" : "Get 10 FREE rides to TREC KL",
+		"url": "https://iprice.my/coupons/uber/?_id=b3d5bf4f96cc6ab3655563e2f34291be41f0292f&position=6&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F",
+		"img": "image/uber.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Zalora",
+		"highlight" : "18% OFF",
+		"coupon_code" : "GRABRWF20",
+		"description" : "Get extra 18% OFF Storewide with min. spend of RM120",
+		"url": "https://iprice.my/coupons/zalora/?_id=1faf0003e32313031cd612bb86ec6b82a8edae64&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
+		"img": "image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Sephora",
+		"highlight" : "40% OFF",
+		"coupon_code" : "*****",
+		"description" : "Enjoy sale up to 40% OFF Sephora makeup collection",
+		"url": "https://iprice.my/r/c/?_id=e3ae6a5d665edded3f5e4964ddc6f3af0d1aaac4&popup=&_exit=%2Fcoupons%2Fsephora%2F%3F_id%3De3ae6a5d665edded3f5e4964ddc6f3af0d1aaac4%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fsephora%252F",
+		"img": "image/sephora.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Microsoft",
+		"highlight" : "RM120 OFF",
+		"coupon_code" : "*****",
+		"description" : "Save up to RM120 on Office 365 Home and Student 2016",
+		"url": "https://iprice.my/r/c/?_id=43ec6bd3d6419ef8d750c537066244a3577d1d86&popup=&_exit=%2Fcoupons%2Fmicrosoft%2F%3F_id%3D43ec6bd3d6419ef8d750c537066244a3577d1d86%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fmicrosoft%252F",
+		"img": "image/microsoft.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Grab",
+		"highlight" : "RM20 OFF",
+		"coupon_code" : "GRAB2ZOUK",
+		"description" : "Get RM20 Off x 10 GrabCar rides to/from Zouk KL",
+		"url": "https://iprice.my/coupons/grab/?_id=0dc000171de21d209c6296142d81c6e441c5ce85&position=6&sub_product=coupon-store&_exit=%2Fcoupons%2Fgrab%2F",
+		"img": "image/grab.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Expedia",
+		"highlight" : "10% OFF",
+		"coupon_code" : "MBBEXPMY16",
+		"description" : "Maybank promotion - Grab extra 10% Off hotel bookings",
+		"url": "https://iprice.my/coupons/expedia/?_id=bdbfa76d5918844da40d23e3afd88665f00d3bf6&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fexpedia%2F%3F_id%3Dbdbfa76d5918844da40d23e3afd88665f00d3bf6%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fexpedia%252F%253F_id%253D28be63cf9e9f4f4196a1b969a34ad864d457d44f%2526_exit%253D%25252Fcoupons%25252Fexpedia%25252F%25253F_id%25253D28be63cf9e9f4f4196a1b969a34ad864d457d44f%252526position%25253D1%252526sub_product%25253Dcoupon-store%252526_exit%25253D%2525252Fcoupons%2525252Fexpedia%2525252F",
+		"img": "image/expedia.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Grab",
+		"highlight" : "RM15 OFF",
+		"coupon_code" : "GRABIPRICE17",
+		"description" : "Grab up to RM15 worth of FREE rides nationwide",
+		"url": "https://iprice.my/coupons/grab/?_id=8ab759a484ba813330ee9cd16294b12f12c9c081&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fgrab%2F",
+		"img": "image/grab.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Club Med",
+		"highlight" : "45% OFF",
+		"coupon_code" : "*****",
+		"description" : "Enjoy up to 45% OFF early bird Asia deals",
+		"url": "https://iprice.my/r/c/?_id=6420a979de2f2dc94e999c65de51fe4aac65f468&popup=&_exit=%2Fcoupons%2Fclub-med%2F%3F_id%3D6420a979de2f2dc94e999c65de51fe4aac65f468%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fclub-med%252F",
+		"img": "image/clubmed.jpg",
+		"type" : "direct"	  
+   },
+   {
+		"title": "Motherhood",
+		"highlight" : "RM15 OFF",
+		"coupon_code" : "IPRICEMOM15",
+		"description" : "Get RM15 OFF with min. spend of RM150",
+		"url": "https://iprice.my/coupons/motherhoodcommy/?_id=192310f14c912a8f7d1af8624c35c1689df41cc6&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fmotherhoodcommy%2F%3Fnocache%3D1",
+		"img": "image/motherhood.jpg",
+		"type" : "popup"
+   }
+   	]
+   },
+   {
+   	"name" : "Electronics",
    	"coupons" : [
    		{		
-			"title": "Zalora",
-			"highlight" : "15% OFF",
-			"coupon_code" : "ZLAPP15",
-			"description" : "Enjoy 15% Off your first app purchase with min. spend of $550",
-			"url": "https://iprice.hk/coupons/zalora/?_id=87a27e1c2500d6bb960db987f0c20628a501347f&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
-			"img": "image/zalora.jpg",
-			"type" : "popup"
+			"title": "",
+			"highlight" : "",
+			"coupon_code" : "",
+			"description" : "",
+			"url": "",
+			"img": "",
+			"type" : ""
 	   }
    	]
    },
    {
-   	"name" : "category name",
+   	"name" : "Fashion",
    	"coupons" : [
    		{		
-			"title": "Zalora",
-			"highlight" : "15% OFF",
-			"coupon_code" : "ZLAPP15",
-			"description" : "Enjoy 15% Off your first app purchase with min. spend of $550",
-			"url": "https://iprice.hk/coupons/zalora/?_id=87a27e1c2500d6bb960db987f0c20628a501347f&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
-			"img": "image/zalora.jpg",
-			"type" : "popup"
+			"title": "",
+			"highlight" : "",
+			"coupon_code" : "",
+			"description" : "",
+			"url": "",
+			"img": "",
+			"type" : ""
+	   }
+   	]
+   },
+   {
+   	"name" : "Health & Beauty",
+   	"coupons" : [
+   		{		
+			"title": "",
+			"highlight" : "",
+			"coupon_code" : "",
+			"description" : "",
+			"url": "",
+			"img": "",
+			"type" : ""
+	   }
+   	]
+   },
+   {
+   	"name" : "Travel & Foods",
+   	"coupons" : [
+   		{		
+			"title": "",
+			"highlight" : "",
+			"coupon_code" : "",
+			"description" : "",
+			"url": "",
+			"img": "",
+			"type" : ""
+	   }
+   	]
+   },
+   {
+   	"name" : "Others",
+   	"coupons" : [
+   		{		
+			"title": "",
+			"highlight" : "",
+			"coupon_code" : "",
+			"description" : "",
+			"url": "",
+			"img": "",
+			"type" : ""
 	   }
    	]
    }
