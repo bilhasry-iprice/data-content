@@ -34,35 +34,36 @@
 	],
  "brands": [
         {
-            "title": "Gearbest",
-            "description": "Gearbest 1111 Sale",
-            "url": "http://bit.ly/2hhZzUo",
-            "img": "image/Gearbestbox_banner_mini.jpg",
-            "m_img": "image/Gearbestbox_banner_mini_mobile.jpg",
+            "title": "Coupons",
+            "description": "Huge savings with shopping coupons!",
+            "url": "https://iprice.ph/coupons/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+            "img": "",
+            "m_img": "",
             "cta" : "Shop Now"
         },
         {
-            "title": "Uber",
-            "description": "For no reason being late again",
-            "url": "https://iprice.sg/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-            "img": "image/Uber_box_banner.jpg",
-            "m_img": "image/Uber_box_banner_mobile.jpg",
+            "title": "Watches",
+            "description": "Cool watches below P350",
+            "url": "https://iprice.ph/watches/?price_min=100&price_max=350&utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+            "img": "",
+            "m_img": "",
             "cta" : "Shop Now"
         },
         {
-            "title": "Zalora",
-            "description": "11.11 Singles Day Your Way. Up to 50% Off",
-            "url": "http://bit.ly/2xNha9U",
-            "img": "image/Zalora_square_banner.jpg",
-            "m_img": "image/Zalora_square_banner_mobile.jpg",
+            "title": "Bags",
+            "description": "Carry your discounts up to 60% off for luxury bags!",
+            "url": "https://iprice.ph/bags/?discount=1&utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+            "img": "",
+            "m_img": "",
             "cta" : "Shop Now"
         },
         {
-            "title": "Yoox",
-            "description": "",
-            "url": "http://bit.ly/2yfxfoQ",
-            "img": "image/Yoox_banner_square.jpg",
-            "m_img": "image/Yoox_banner_square_mobile.jpg"
+            "title": "Shoes",
+            "description": "Up to 80% off your latest kicks",
+            "url": "https://iprice.ph/shoes/?discount=1&utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+            "img": "",
+            "m_img": "",
+	    "cta" : "Shop Now"
         }
     ],
  "categories": [
@@ -99,10 +100,40 @@
  ],
  "top_products": [
  	{
- 		"title" : "product name",
- 		"url"	: "url_of_product",
- 		"img"	: "url of img",
- 		"price" : "just use format (Rp ...., MYR ...., THB ...., )"
+ 		"title" : "iPhone 8",
+ 		"url"	: "https://iprice.ph/compare/apple-iphone-8/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+ 		"img"	: "https://d1ibm7nofgdn3g.cloudfront.net/apple-iphone-8-64gb-lte-silver-intl-AP675ELAAN2IF7ANPH-46584885.jpg",
+ 		"price" : "PHP 39,299.00"
+ 	},
+        {
+ 		"title" : "Sony Playstation 4",
+ 		"url"	: "https://iprice.ph/compare/sony-playstation-4/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+ 		"img"	: "https://d1ibm7nofgdn3g.cloudfront.net/sony-24467279-3970-medium.jpg",
+ 		"price" : "PHP 14,619.00"
+ 	},
+	{
+ 		"title" : "Fujifilm X-A3",
+ 		"url"	: "https://iprice.ph/compare/fujifilm-x-a3/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+ 		"img"	: "https://d1ibm7nofgdn3g.cloudfront.net/fujifilm-x-a3-mirrorless-digital-camera-with-xc-16-50mm-f35-56-ii-lens-silver-FU736ELAAPBUZYANPH-53015954.jpg",
+ 		"price" : "PHP 27,500.00"
+ 	},
+	{
+ 		"title" : "GoPro HERO5 Black",
+ 		"url"	: "https://iprice.ph/compare/gopro-hero5-black/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+ 		"img"	: "https://d1ibm7nofgdn3g.cloudfront.net/gopro-33313844-9676663626-large.jpg",
+ 		"price" : "PHP 16,999.00"
+ 	},
+	{
+ 		"title" : "Epson L360",
+ 		"url"	: "https://iprice.ph/compare/epson-l360/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+ 		"img"	: "https://d1ibm7nofgdn3g.cloudfront.net/epson-35852096-5165224285-large.jpg",
+ 		"price" : "PHP 7650.00"
+ 	},
+	{
+ 		"title" : "Samsung Level Active",
+ 		"url"	: "https://iprice.ph/compare/samsung-level-active/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+ 		"img"	: "https://d1ibm7nofgdn3g.cloudfront.net/samsung-33293160-9239483929-medium.jpg",
+ 		"price" : "PHP 1635.00"
  	}
  ],
  "coupon_categories": [
