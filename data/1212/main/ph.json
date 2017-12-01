@@ -97,7 +97,7 @@
 		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/cameras.jpg"
    }
  ],
- "top_produtcs" : [
+ "top_products": [
  	{
  		"title" : "product name",
  		"url"	: "url_of_product",
@@ -107,30 +107,185 @@
  ],
  "coupon_categories": [
    {
-   	"name" : "category name",
+   	"name" : "Top Coupons",
    	"coupons" : [
-   		{		
-			"title": "Zalora",
-			"highlight" : "15% OFF",
-			"coupon_code" : "ZLAPP15",
-			"description" : "Enjoy 15% Off your first app purchase with min. spend of $550",
-			"url": "https://iprice.hk/coupons/zalora/?_id=87a27e1c2500d6bb960db987f0c20628a501347f&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
-			"img": "image/zalora.jpg",
-			"type" : "popup"
-	   }
-   	]
+   		{
+		"title": "Zalora",
+		"highlight" : "20% OFF",
+		"coupon_code" : "MASTERCARD20",
+		"description" : "Extra 20% Discount every Monday with Mastercard",
+		"url": "https://iprice.ph/coupons/zalora/?_id=5b2c32c963c821840ecac0597bc4ca2e41680650&position=20&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
+		"img": "image/zalora.jpg",
+		"type" : "popup"
    },
    {
-   	"name" : "category name",
+		"title": "Grab",
+		"highlight" : "P200 OFF",
+		"coupon_code" : "GRABCAR",
+		"description" : "Get P200 OFF on Your First Grabcar Ride",
+		"url": "https://iprice.ph/coupons/grab/?_id=f8eadea6c0c5d8acc4aff309ab751feb14c4c4c7&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fgrab%2F",
+		"img": "image/grab.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Althea",
+		"highlight" : "P300 OFF",
+		"coupon_code" : "WELCOME-PH",
+		"description" : "Sign up now and get P300 off",
+		"url": "https://iprice.ph/coupons/althea/?_id=5b043b0546701e08fab3089adb6fe9bace5c4bf0&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Falthea%2F",
+		"img": "image/althea.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "BeautyMNL",
+		"highlight" : "FREE Shipping",
+		"coupon_code" : "*****",
+		"description" : "FREE Shipping for orders from P1500",
+		"url": "https://iprice.ph/r/c/?_id=be2a009022e2ad46cfe444770164a520e132e6b6&popup=&_exit=%2Fcoupons%2Fbeauty-mnl%2F%3F_id%3Dbe2a009022e2ad46cfe444770164a520e132e6b6%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fbeauty-mnl%252F",
+		"img": "image/beautymnl.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Hotels.com",
+		"highlight" : "5% OFF",
+		"coupon_code" : "PH5OFF",
+		"description" : "Get 5% OFF on top of hotel deals",
+		"url": "https://iprice.ph/coupons/hotelscom/?_id=e99790b4a5c03276e71c0e95f0032b33f3309c60&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fhotelscom%2F",
+		"img": "image/hotelscom.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Expedia",
+		"highlight" : "10% OFF",
+		"coupon_code" : "required",
+		"description" : "Get extra 10% OFF for BDO customers",
+		"url": "https://iprice.ph/coupons/expedia/?_id=2073e8db6f14f21b70a9c217421f7df23bade037&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fexpedia%2F",
+		"img": "image/expedia.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Agoda",
+		"highlight" : "60% OFF",
+		"coupon_code" : "required",
+		"description" : "Save 60% OFF on your trip with Agoda",
+		"url": "https://iprice.ph/coupons/agoda/?_id=3b22f415c876fd82f2e1bc4b71aa87f9079009fe&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fagoda%2F",
+		"img": "image/agoda.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Grab",
+		"highlight" : "P15 OFF",
+		"coupon_code" : "PANAGBENGA",
+		"description" : "P15 OFF x 5 rides",
+		"url": "https://iprice.ph/coupons/grab/?_id=e28e0808ae68f589612eaf8cd7c8df9541f5cd2b&position=5&sub_product=coupon-store&_exit=%2Fcoupons%2Fgrab%2F",
+		"img": "image/grab.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Uber",
+		"highlight" : "P200 OFF",
+		"coupon_code" : "ipriceUberPH",
+		"description" : "Save P200 OFF for your first ride",
+		"url": "https://iprice.ph/coupons/uber/?_id=2596631c53ca62bf2f0b93f09a1f9057def9da37&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F",
+		"img": "image/uber.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Uber",
+		"highlight" : "P60 OFF",
+		"coupon_code" : "IPRICEPH2017",
+		"description" : "Enjoy P60 off on first 3 Uber rides",
+		"url": "https://iprice.ph/coupons/uber/?_id=b88377bb8cedf34e5b84d521eb6f45d64df7a4aa&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F%3Fnocache%3D1",
+		"img": "image/uber.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Klook",
+		"highlight" : "75% OFF",
+		"coupon_code" : "KLKDBSHK",
+		"description" : "Up to 75% Off on selected travel activities with DBS HK cards",
+		"url": "https://iprice.ph/coupons/klook/?_id=5debcabdf68427c9a5cd46d91989e52166538d11&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fklook%2F",
+		"img": "image/klook.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Watchportal",
+		"highlight" : "5% OFF",
+		"coupon_code" : "IPRICE5%",
+		"description" : "Extra 5% off on best selling watches",
+		"url": "https://iprice.ph/coupons/watchportal/?_id=2a6d47d22d4b9ef6385c920168871bc1841777bb&position=8&sub_product=coupon-store&_exit=%2Fcoupons%2Fwatchportal%2F",
+		"img": "image/watchportal.jpg",
+		"type" : "popup"
+   }
+   ]
+   },
+   {
+   	"name" : "Electronics",
    	"coupons" : [
    		{		
-			"title": "Zalora",
-			"highlight" : "15% OFF",
-			"coupon_code" : "ZLAPP15",
-			"description" : "Enjoy 15% Off your first app purchase with min. spend of $550",
-			"url": "https://iprice.hk/coupons/zalora/?_id=87a27e1c2500d6bb960db987f0c20628a501347f&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
-			"img": "image/zalora.jpg",
-			"type" : "popup"
+			"title": "",
+			"highlight" : "",
+			"coupon_code" : "",
+			"description" : "",
+			"url": "",
+			"img": "",
+			"type" : ""
+	   }
+   	]
+   }
+   {
+   	"name" : "Fashion",
+   	"coupons" : [
+   		{		
+			"title": "",
+			"highlight" : "",
+			"coupon_code" : "",
+			"description" : "",
+			"url": "",
+			"img": "",
+			"type" : ""
+	   }
+   	]
+   }
+   {
+   	"name" : "Health & Beauty",
+   	"coupons" : [
+   		{		
+			"title": "",
+			"highlight" : "",
+			"coupon_code" : "",
+			"description" : "",
+			"url": "",
+			"img": "",
+			"type" : ""
+	   }
+   	]
+   }
+   {
+   	"name" : "Travel & Food",
+   	"coupons" : [
+   		{		
+			"title": "",
+			"highlight" : "",
+			"coupon_code" : "",
+			"description" : "",
+			"url": "",
+			"img": "",
+			"type" : ""
+	   }
+   	]
+   }
+   {
+   	"name" : "Others",
+   	"coupons" : [
+   		{		
+			"title": "",
+			"highlight" : "",
+			"coupon_code" : "",
+			"description" : "",
+			"url": "",
+			"img": "",
+			"type" : ""
 	   }
    	]
    }
