@@ -89,5 +89,115 @@
 	   		"url" : "https://iprice.my/coupons/11street/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
 	   		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/11street.jpg"
 	   }
-	]
+ ],
+"coupons": [	
+   {
+		"title": "Brands",
+		"highlight" : "FREE Gift",
+		"coupon_code" : "IPRICE17",
+		"description" : "Get an Exclusive ETUDE HOUSE Christmas Gift Set Worth SG$30 for First 100 Customers!",
+		"url": "https://iprice.sg/coupons/brandsworld/?_id=c33e9d727afcf05ec12dde2c0b5cf8fa0a85aaf5&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fbrandsworld%2F",
+		"img": "image/brands.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Grab",
+		"highlight" : "$20 OFF",
+		"coupon_code" : "SGMAP",
+		"description" : "Get S$10 OFF your first ride",
+		"url": "https://iprice.sg/coupons/grab/?_id=91cd25ae05767e97dc9265ec50fd737859a11068&position=12&sub_product=coupon-store&_exit=%2Fcoupons%2Fgrab%2F",
+		"img": "image/grab.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Fave",
+		"highlight" : "40% OFF",
+		"coupon_code" : "PRETTYPLS",
+		"description" : "Get Pretty, Enjoy 40% OFF",
+		"url": "https://iprice.sg/coupons/fave/?_id=55219c255248dae3f34d7cbdc080cb251caa6261&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Ffave%2F",
+		"img": "image/fave.jpg",
+		"type" : "popup"
+   },	
+   {
+		"title": "Honestbee",
+		"highlight" : "$10 OFF",
+		"coupon_code" : "JUST10",
+		"description" : "Get $10 OFF with min. spend of $20",
+		"url": "https://iprice.sg/coupons/honestbee/?_id=5cfbe35cca3f689f3cae3a477d5ea792f9edb8e3&position=4&sub_product=coupon-store&_exit=%2Fcoupons%2Fhonestbee%2F",
+		"img": "image/honestbee.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Uber",
+		"highlight" : "$5 OFF x3",
+		"coupon_code" : "IPRICESG2017",
+		"description" : "Seize SG$5 OFF for First 3 Rides",
+		"url": "https://iprice.sg/coupons/uber/?_id=45d9b86630e77a31be0fbd35674f0e617776aa37&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F",
+		"img": "image/uber.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Uber",
+		"highlight" : "30% x3",
+		"coupon_code" : "IPRICEUBERSG30",
+		"description" : "Enjoy 30% x 3 Rides, up to SG$6 for Each Trip!",
+	        "url": "https://iprice.sg/coupons/uber/?_id=5026cee7d06a9c1e19d7c058ad702ded9ca96fee&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F%3F_id%3D45d9b86630e77a31be0fbd35674f0e617776aa37%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fuber%252F",	
+	        "img": "image/uber.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "EzBuy",
+		"highlight" : "FREE Shipping",
+		"coupon_code" : "*****",
+		"description" : "Enjoy FREE Shipping on orders above $18 for fashion",
+		"url": "https://iprice.sg/r/c/?_id=d9fa889b4ed0f6c5c21e026163666c113b16c85c&popup=&_exit=%2Fcoupons%2Fezbuy%2F%3F_id%3Dd9fa889b4ed0f6c5c21e026163666c113b16c85c%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fezbuy%252F",
+		"img": "image/ezbuy.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Uber",
+		"highlight" : "SG$15 OFF",
+		"coupon_code" : "IPRICESG2017",
+		"description" : "Get Total SG$15 OFF for 3 Rides!",
+		"url": "https://iprice.sg/coupons/uber/?_id=cdb6a6db655b2d06be0ceaead1e5b5cfcc24a3e6&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F",
+		"img": "image/uber.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Redmart",
+		"highlight" : "$20 OFF",
+		"coupon_code" : "IPRC20D",
+		"description" : "Enjoy SG$20 OFF, Min Spend SG$120 Storewide!",
+		"url": "https://iprice.sg/coupons/redmart/?_id=4f616f07612c0f495197de3e2a205657a5b11e31&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fredmart%2F%3Fnocache%3D1",
+		"img": "image/redmart.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Expedia",
+		"highlight" : "10% OFF",
+		"coupon_code" : "JOG10OFF",
+		"description" : "Get 10% off hotels in Yogyakarta!",
+		"url": "https://iprice.sg/coupons/expedia/?_id=634636bb3b798c46c5815961ce54be6fb6c13570&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fexpedia%2F%3Fnocache%3D1",
+		"img": "image/expedia.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Althea",
+		"highlight" : "10% OFF",
+		"coupon_code" : "OMGSG17Q04",
+		"description" : "Enjoy 10% OFF Storewide!",
+		"url": "https://iprice.sg/coupons/althea/?_id=f7b5b787b1b8b516f283353b6af77687b7c48871&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Falthea%2F%3F_id%3Df7b5b787b1b8b516f283353b6af77687b7c48871%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Falthea%252F",
+		"img": "image/althea.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Redmart",
+		"highlight" : "$18 OFF",
+		"coupon_code" : "IPRICE18",
+		"description" : "Get SG$18 OFF When Spend Min SG$100 for Any Items!",
+	        "url": "https://iprice.sg/coupons/redmart/?_id=55674102372a4a5ec8930c470a294720e3d0cad2&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fredmart%2F",	
+	        "img": "image/redmart.jpg",
+		"type" : "popup"
+   }
+]
 }
