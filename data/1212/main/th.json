@@ -34,35 +34,36 @@
 	],
  "brands": [
         {
-            "title": "Gearbest",
-            "description": "Gearbest 1111 Sale",
-            "url": "http://bit.ly/2hhZzUo",
-            "img": "image/Gearbestbox_banner_mini.jpg",
-            "m_img": "image/Gearbestbox_banner_mini_mobile.jpg",
-            "cta" : "Shop Now"
+            "title": "Coupons",
+            "description": "รับคูปองส่วนลดมากมาย!",
+            "url": "https://ipricethailand.com/coupons/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+            "img": "",
+            "m_img": "",
+            "cta" : "ช้อปเลย"
         },
         {
-            "title": "Uber",
-            "description": "For no reason being late again",
-            "url": "https://iprice.sg/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-            "img": "image/Uber_box_banner.jpg",
-            "m_img": "image/Uber_box_banner_mobile.jpg",
-            "cta" : "Shop Now"
+            "title": "Watches",
+            "description": "นาฬิกาเก๋ๆราคาต่ำกว่า 399 บาท",
+            "url": "https://ipricethailand.com/นาฬกาขอมอ/?price_min=60&price_max=399&utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+            "img": "",
+            "m_img": "",
+            "cta" : "ช้อปเลย"
         },
         {
-            "title": "Zalora",
-            "description": "11.11 Singles Day Your Way. Up to 50% Off",
-            "url": "http://bit.ly/2xNha9U",
-            "img": "image/Zalora_square_banner.jpg",
-            "m_img": "image/Zalora_square_banner_mobile.jpg",
-            "cta" : "Shop Now"
+            "title": "Bags",
+            "description": "เป็นเจ้าของกระเป๋าแบรนด์เนมสุดหรูด้วยส่วนลดถึง 60%!",
+            "url": "https://ipricethailand.com/กระเปา/?discount=1&utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+            "img": "",
+            "m_img": "",
+            "cta" : "ช้อปเลย"
         },
         {
-            "title": "Yoox",
-            "description": "",
-            "url": "http://bit.ly/2yfxfoQ",
-            "img": "image/Yoox_banner_square.jpg",
-            "m_img": "image/Yoox_banner_square_mobile.jpg"
+            "title": "Shoes",
+            "description": "ลดกระหน่ำส่งท้ายปีสูงสุด 80%",
+            "url": "https://ipricethailand.com/รองเทา/?discount=1&utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+            "img": "",
+            "m_img": "",
+	    "cta" : "ช้อปเลย"
         }
     ],
  "categories": [
@@ -97,40 +98,225 @@
 		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/cameras.jpg"
    }
  ],
- "top_produtcs" : [
+ "top_products" : [
  	{
- 		"title" : "product name",
- 		"url"	: "url_of_product",
- 		"img"	: "url of img",
- 		"price" : "just use format (Rp ...., MYR ...., THB ...., )"
+ 		"title" : "Lenovo Yoga Book",
+ 		"url"	: "https://ipricethailand.com/ราคา/lenovo-yoga-book/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+ 		"img"	: "https://d1ibm7nofgdn3g.cloudfront.net/lenovo-37878377-8754400279-large.jpg",
+ 		"price" : "THB 17,900"
+ 	},
+ 	{
+ 		"title" : "ASUS ZenFone 3",
+ 		"url"	: "https://ipricethailand.com/ราคา/asus-zenfone-3-ze552kl/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+ 		"img"	: "https://d1ibm7nofgdn3g.cloudfront.net/asus-33421727-0392450867-large.jpg",
+ 		"price" : "THB 6,780"
+ 	},
+	{
+ 		"title" : "Polaroid SNAP",
+ 		"url"	: "https://ipricethailand.com/ราคา/polaroid-snap/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+ 		"img"	: "https://d1ibm7nofgdn3g.cloudfront.net/polaroid-instaxsnap-blue-polsp01bl-O223782.jpg",
+ 		"price" : "THB 5,290"
+ 	},
+	{
+ 		"title" : "Samsung Gear S3 Frontier",
+ 		"url"	: "https://ipricethailand.com/ราคา/samsung-gear-s3-frontier/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+ 		"img"	: "https://d1ibm7nofgdn3g.cloudfront.net/samsung-33327091-3730980858-dfb4f81da429114420584700a6c425cd-large.jpg",
+ 		"price" : "THB 9,939"
+ 	},
+	{
+ 		"title" : "Canon PIXMA MG3670",
+ 		"url"	: "https://ipricethailand.com/ราคา/canon-pixma-mg3670/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+ 		"img"	: "https://d1ibm7nofgdn3g.cloudfront.net/canon-33419524-4614756405-large.jpg",
+ 		"price" : "THB 1,850"
+ 	},
+	{
+ 		"title" : "JBL Clip 2",
+ 		"url"	: "https://ipricethailand.com/ราคา/jbl-clip-2/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+ 		"img"	: "https://d1ibm7nofgdn3g.cloudfront.net/jbl-32023900-0799797403-large.jpg",
+ 		"price" : "THB 2,000"
  	}
  ],
  "coupon_categories": [
    {
-   	"name" : "category name",
+   	"name" : "Top Coupons",
+   	"coupons" : [
+   {
+		"title": "Central Online",
+		"highlight" : "40% OFF",
+		"coupon_code" : "*****",
+		"description" : "Casio นาฬิกาแฟชั่นสุดฮิต ลด 40% ทั้งร้าน!! ช้อปด่วนที่ Central Online!",
+		"url": "https://ipricethailand.com/r/c/?_id=7a604c0f2fcbc32cf66969cbbe8a322ef703077a&_exit=%2Fcoupons%2Fcentral-online%2F%3F_id%3D7a604c0f2fcbc32cf66969cbbe8a322ef703077a%26position%3D9%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fcentral-online%252F",
+		"img": "image/central-online.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "UberEATS",
+		"highlight" : "รับส่วนลด 100 บาทถึง 2 ครั้ง!",
+		"coupon_code" : "IPRICEEATS",
+		"description" : "หิวเมื่อไหร่ สั่งได้ผ่านแอพ UberEATS รับส่วนลด 100 บาทถึง 2 ครั้ง!",
+		"url": "https://ipricethailand.com/coupons/ubereats/?_id=e3a5645dfd3d593fb2b6870254ce2f42a1f1e897&position=4&sub_product=coupon-store&_exit=%2Fcoupons%2Fubereats%2F",
+		"img": "image/ubereats.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Agoda",
+		"highlight" : "Half Price Deals!",
+		"coupon_code" : "*****",
+		"description" : "อย่าพลาด!! ส่วนลด Agoda 50% !! Agoda Half Price Deals!! ห้องพักครึ่งราคา คลิกเลย!",
+		"url": "https://ipricethailand.com/r/c/?_id=b733f7e0a377457ea47cc875e3400a96c9d167f6&_exit=%2Fcoupons%2Fagoda%2F%3F_id%3Db733f7e0a377457ea47cc875e3400a96c9d167f6%26position%3D3%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fagoda%252F",
+		"img": "image/agoda.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Grab",
+		"highlight" : "ฟรี 100 บาท 3 ครั้ง",
+		"coupon_code" : "HISURAT",
+		"description" : "นั่ง GrabCar และ GrabTaxi ฟรี 100 บาท 3 ครั้ง (เฉพาะผู้ใช้ใหม่ในเขตสงขลาและหาดใหญ่)",
+		"url": "https://ipricethailand.com/coupons/grab/?_id=81ccadaf15330ed6b2cf3e39d832aade6a3b787f&position=18&sub_product=coupon-store&_exit=%2Fcoupons%2Fgrab%2F",
+		"img": "image/grab.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Uber",
+		"highlight" : "50 บาทในการ",
+		"coupon_code" : "KKUBER",
+		"description" : "รับส่วนลด 50 บาทในการใช้บริการ 3 ครั้งแรก",
+		"url": "https://ipricethailand.com/coupons/uber/?_id=71a35817b106fbcbeb94a4883b8f0edc14a77e65&position=6&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F",
+		"img": "image/uber.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Lazada",
+		"highlight" : "ในราคา 120฿ เท่านั้น",
+		"coupon_code" : "*****",
+		"description" : "โรลม้วนผมไฟฟ้าขนาดพกพา ใช้บนรถ เพาเวอร์แบงค์ ใช้ที่ไหนก็สะดวก!! ในราคา 120฿ เท่านั้น!!",
+		"url": "https://ipricethailand.com/r/c/?_id=05c2e4b3fa693c08f4835c2c4e73c56e17e8ebc0&_exit=%2Fcoupons%2Flazada%2F%3F_id%3D05c2e4b3fa693c08f4835c2c4e73c56e17e8ebc0%26position%3D20%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Flazada%252F",
+		"img": "image/lazada.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Central Online",
+		"highlight" : "17% OFF",
+		"coupon_code" : "*****",
+		"description" : "ลดเพิ่ม 17% เมื่อช้อป 2ชิ้นขึ้นไป!!",
+		"url": "https://ipricethailand.com/r/c/?_id=5f58c1b97f470b1159e7189a7700a816d4119fd0&_exit=%2Fcoupons%2Fcentral-online%2F%3F_id%3D5f58c1b97f470b1159e7189a7700a816d4119fd0%26position%3D18%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fcentral-online%252F",
+		"img": "image/central-online.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Shopat24",
+		"highlight" : "เริ่มต้นเพียง 45 บาท",
+		"coupon_code" : "*****",
+		"description" : "สินค้าเพื่อความงาม ลดราคาพิเศษ 84% !! เริ่มต้นเพียง 45 บาท",
+		"url": "https://ipricethailand.com/r/c/?_id=237f3bed208cbf2cae9c305644463a7000fd8b73&_exit=%2Fcoupons%2Fshopat24%2F%3F_id%3D237f3bed208cbf2cae9c305644463a7000fd8b73%26position%3D15%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fshopat24%252F",
+		"img": "image/shopat24.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Konvy",
+		"highlight" : "10% OFF",
+		"coupon_code" : "KVKBANK150",
+		"description" : "ส่วนลด 150 ฿ สิทธิพิเศษจากบัตร Kbank และได้รับเครดิตคืนเงิน 10% เมื่อช้อปสินค้าจาก Konvy",
+		"url": "https://ipricethailand.com/coupons/konvy/?_id=52a87adf11cbcc10a9f5f0e53d3823aa96cf05e1&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fkonvy%2F%3F_id%3D52a87adf11cbcc10a9f5f0e53d3823aa96cf05e1%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fkonvy%252F",
+		"img": "image/konvy.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Tops",
+		"highlight" : "150 บาท",
+		"coupon_code" : "required",
+		"description" : "โปรโมชั่น Tops Shop Online: สมาชิก AIS รับ 150 บาทฟรี! เมื่อช้อปครบ 2,000 บาทขึ้นไป",
+		"url": "https://ipricethailand.com/r/c/?_id=39f94ccff2360401119130aa1ee50f74f2ef4a59&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Ftops-shop-online%2F",
+		"img": "image/tops.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Sephora",
+		"highlight" : "Canvas Pouch",
+		"coupon_code" : "*****",
+		"description" : "เฉพาะผู้ถือบัตร Visa ฟรีกระเป๋า Canvas Pouch เมื่อช้อปออนไลน์ที่ Sephora Thailand!",
+		"url": "https://ipricethailand.com/coupons/sephora/?_id=6bd9bf11d8383ca7ab20ed06269f7d504c4d541d&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fsephora%2F",
+		"img": "image/sephora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "AirAsiaGo",
+		"highlight" : "10% OFF",
+		"coupon_code" : "รับคูปองที่ร้านค้าเท่านั้น",
+		"description" : "บินปลายปี ทุกเส้นทาง ในประเทศ เริ่มต้น 599 บาท! จองผ่านแอพ AirAsiaGo ลดเพิ่ม 10%!",
+		"url": "https://ipricethailand.com/coupons/airasiago/?_id=5c9e92b5acc54ab7a064e28c7b2bd7e8c8f2fab8&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fairasiago%2F",
+		"img": "image/airasiago.jpg",
+		"type" : "popup"
+   }
+   	]
+   },
+   {
+   	"name" : "Electronics",
    	"coupons" : [
    		{		
-			"title": "Zalora",
-			"highlight" : "15% OFF",
-			"coupon_code" : "ZLAPP15",
-			"description" : "Enjoy 15% Off your first app purchase with min. spend of $550",
-			"url": "https://iprice.hk/coupons/zalora/?_id=87a27e1c2500d6bb960db987f0c20628a501347f&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
-			"img": "image/zalora.jpg",
-			"type" : "popup"
+			"title": "",
+			"highlight" : "",
+			"coupon_code" : "",
+			"description" : "",
+			"url": "",
+			"img": "",
+			"type" : ""
 	   }
    	]
    },
    {
-   	"name" : "category name",
+   	"name" : "Fashion",
    	"coupons" : [
    		{		
-			"title": "Zalora",
-			"highlight" : "15% OFF",
-			"coupon_code" : "ZLAPP15",
-			"description" : "Enjoy 15% Off your first app purchase with min. spend of $550",
-			"url": "https://iprice.hk/coupons/zalora/?_id=87a27e1c2500d6bb960db987f0c20628a501347f&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
-			"img": "image/zalora.jpg",
-			"type" : "popup"
+			"title": "",
+			"highlight" : "",
+			"coupon_code" : "",
+			"description" : "",
+			"url": "",
+			"img": "",
+			"type" : ""
+	   }
+   	]
+   },
+   {
+   	"name" : "Health & Beauty",
+   	"coupons" : [
+   		{		
+			"title": "",
+			"highlight" : "",
+			"coupon_code" : "",
+			"description" : "",
+			"url": "",
+			"img": "",
+			"type" : ""
+	   }
+   	]
+   },
+   {
+   	"name" : "Travel & Food",
+   	"coupons" : [
+   		{		
+			"title": "",
+			"highlight" : "",
+			"coupon_code" : "",
+			"description" : "",
+			"url": "",
+			"img": "",
+			"type" : ""
+	   }
+   	]
+   },
+   {
+   	"name" : "Others",
+   	"coupons" : [
+   		{		
+			"title": "",
+			"highlight" : "",
+			"coupon_code" : "",
+			"description" : "",
+			"url": "",
+			"img": "",
+			"type" : ""
 	   }
    	]
    }
