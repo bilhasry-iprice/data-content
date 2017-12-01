@@ -34,35 +34,36 @@
 	],
  "brands": [
         {
-            "title": "Gearbest",
-            "description": "Gearbest 1111 Sale",
-            "url": "http://bit.ly/2hhZzUo",
-            "img": "image/Gearbestbox_banner_mini.jpg",
-            "m_img": "image/Gearbestbox_banner_mini_mobile.jpg",
+            "title": "Coupons",
+            "description": "Huge savings with shopping coupons!",
+            "url": "https://iprice.hk/coupons/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+            "img": "",
+            "m_img": "",
             "cta" : "Shop Now"
         },
         {
-            "title": "Uber",
-            "description": "For no reason being late again",
-            "url": "https://iprice.sg/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
-            "img": "image/Uber_box_banner.jpg",
-            "m_img": "image/Uber_box_banner_mobile.jpg",
+            "title": "Watches",
+            "description": "It's that time of the year again! Up to 70% off on watches!",
+            "url": "https://iprice.hk/watches/?discount=1&utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+            "img": "",
+            "m_img": "",
             "cta" : "Shop Now"
         },
         {
-            "title": "Zalora",
-            "description": "11.11 Singles Day Your Way. Up to 50% Off",
-            "url": "http://bit.ly/2xNha9U",
-            "img": "image/Zalora_square_banner.jpg",
-            "m_img": "image/Zalora_square_banner_mobile.jpg",
+            "title": "Bags",
+            "description": "Luxury bags below HK$500",
+            "url": "https://iprice.hk/bags/?price_min=10&price_max=500&utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+            "img": "",
+            "m_img": "",
             "cta" : "Shop Now"
         },
         {
-            "title": "Yoox",
-            "description": "",
-            "url": "http://bit.ly/2yfxfoQ",
-            "img": "image/Yoox_banner_square.jpg",
-            "m_img": "image/Yoox_banner_square_mobile.jpg"
+            "title": "Shoes",
+            "description": "Up to 80% off your latest kicks!",
+            "url": "https://iprice.hk/shoes/?discount=1&utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+            "img": "",
+            "m_img": "",
+            "cta" : "Shop Now"
         }
     ],
  "categories": [
@@ -97,40 +98,225 @@
 		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/cameras.jpg"
    }
  ],
- "top_produtcs" : [
+ "top_products" : [
  	{
- 		"title" : "product name",
- 		"url"	: "url_of_product",
- 		"img"	: "url of img",
- 		"price" : "just use format (Rp ...., MYR ...., THB ...., )"
+ 		"title" : "Samsung Galaxy S8",
+ 		"url"	: "https://iprice.hk/compare/samsung-galaxy-s8/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+ 		"img"	: "https://d1ibm7nofgdn3g.cloudfront.net/samsung-36534280-8006864696-large.jpg",
+ 		"price" : "HK$ 4999.00"
+ 	},
+ 	{
+ 		"title" : "Samsung Gear S3 frontier",
+ 		"url"	: "https://iprice.hk/compare/samsung-gear-s3-frontier-lte/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+ 		"img"	: "https://d1ibm7nofgdn3g.cloudfront.net/samsung-35998872-3465915867-large.jpg",
+ 		"price" : "HK$ 2345.00"
+ 	},
+ 	{
+ 		"title" : "Bose QuietComfort 35",
+ 		"url"	: "https://iprice.hk/compare/bose-quietcomfort-35/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+ 		"img"	: "https://d1ibm7nofgdn3g.cloudfront.net/bose-32319734-0772106742-large.jpg",
+ 		"price" : "HK$ 2739.00"
+ 	},
+ 	{
+ 		"title" : "Fujifilm Instax mini 8",
+ 		"url"	: "https://iprice.hk/compare/fujifilm-instax-mini-8/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+ 		"img"	: "https://d1ibm7nofgdn3g.cloudfront.net/fujifilm-18238574-3387-large.jpg",
+ 		"price" : "HK$ 469.00"
+ 	},
+ 	{
+ 		"title" : "Garmin Fenix 5",
+ 		"url"	: "https://iprice.hk/compare/garmin-fenix-5/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+ 		"img"	: "https://d1ibm7nofgdn3g.cloudfront.net/garmin-fenix-5-silver-granite-blue-band-2080GMNADMSS100168801.jpg",
+ 		"price" : "HK$ 4452.00"
+ 	},
+ 	{
+ 		"title" : "GoPro HERO5 Black",
+ 		"url"	: "https://iprice.hk/compare/gopro-hero5-black/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
+ 		"img"	: "https://d1ibm7nofgdn3g.cloudfront.net/gopro-33313844-9676663626-large.jpg",
+ 		"price" : "HK$ 3379.00"
  	}
  ],
  "coupon_categories": [
    {
-   	"name" : "category name",
+   	"name" : "Top Coupons",
+   	"coupons" : [
+		   {		
+				"title": "Zalora",
+				"highlight" : "15% OFF",
+				"coupon_code" : "ZLAPP15",
+				"description" : "Enjoy 15% Off your first app purchase with min. spend of $550",
+				"url": "https://iprice.hk/coupons/zalora/?_id=87a27e1c2500d6bb960db987f0c20628a501347f&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
+				"img": "image/zalora.jpg",
+				"type" : "popup"
+		   },
+		   {
+				"title": "KKDay",
+				"highlight" : "Up to 50% OFF",
+				"coupon_code" : "*****",
+				"description" : "Enjoy up to 50% off on selected KKday tours with Paypal",
+				"url": "https://iprice.hk/r/c/?_id=34a79ce395f5b2849c910c04822c2b743d5cafe8&popup=&Enjoy up to 50% off on selected KKday tours with Paypalit=%2Fcoupons%2Fkkday%2F%3F_id%3D34a79ce395f5b2849c910c04822c2b743d5cafe8%26position%3D18%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fkkday%252F",
+				"img": "image/kkday.jpg",
+				"type" : "direct"
+		   },
+		   {
+				"title": "Wing On Travel",
+				"highlight" : "HKD100 OFF",
+				"coupon_code" : "GP102",
+				"description" : "Save HKD100 on Hotel bookings",
+				"url": "https://iprice.hk/coupons/wing-on-travel/?_id=e12e40fdd3419e4a26a45531331cb724973aa8da&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fwing-on-travel%2F",
+				"img": "image/wing-on-travel.jpg",
+				"type" : "popup"
+		   },
+		   {
+				"title": "SmartBuyGlasses",
+				"highlight" : "From HKD289",
+				"coupon_code" : "*****",
+				"description" : "Get Frames from HKD289",
+				"url": "https://iprice.hk/r/c/?_id=b980a752985b0276e61daa6401d1e5c05f945104&popup=&_exit=%2Fcoupons%2Fsmartbuyglasses%2F%3F_id%3Db980a752985b0276e61daa6401d1e5c05f945104%26position%3D3%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fsmartbuyglasses%252F",
+				"img": "image/smartbuyglasses.jpg",
+				"type" : "direct"
+		   },
+		   {		
+				"title": "Zuji",
+				"highlight" : "Up to HK$500 OFF",
+				"coupon_code" : "*****",
+				"description" : "Enjoy up to HK$500 Instant discount on all package bookings with your DBS credit card",
+				"url": "https://iprice.hk/r/c/?_id=562a53e92b04599aa78c06ecb460222bdac54019&_exit=%2Fcoupons%2Fzuji%2F%3F_id%3D562a53e92b04599aa78c06ecb460222bdac54019%26position%3D3%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fzuji%252F",
+				"img": "image/zuji.jpg",
+				"type" : "direct"
+		   },
+		   {
+				"title": "Microsoft",
+				"highlight" : "10% OFF",
+				"coupon_code" : "*****",
+				"description" : "Enjoy 10% Off selected Surface Laptops, exclusive for Students & Teachers",
+				"url": "https://iprice.hk/r/c/?_id=b6c4f8c212d76b01ebd0ec8fc932b98eeef9de7b&popup=&_exit=%2Fcoupons%2Fmicrosoft%2F%3F_id%3Db6c4f8c212d76b01ebd0ec8fc932b98eeef9de7b%26position%3D3%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fmicrosoft%252F",
+				"img": "image/microsoft.jpg",
+				"type" : "direct"
+		   },
+		   {		
+				"title": "YOOX",
+				"highlight" : "10% OFF",
+				"coupon_code" : "VISA2017",
+				"description" : "All HSB Visa Credit Cards - Free Shipping & 10% Off",
+				"url": "https://iprice.hk/coupons/yoox/?_id=46e01ab802ea2b78cf56b3ee3580e28677089e02&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fyoox%2F",
+				"img": "image/yoox.jpg",
+				"type" : "popup"
+		   },
+		   {
+				"title": "Uber",
+				"highlight" : "$40 OFF",
+				"coupon_code" : "IPRICEUBERHK",
+				"description" : "Enjoy $40 Off with exclusive Uber promo code",
+				"url": "https://iprice.hk/coupons/uber/?_id=618aaafbc4ec222182e314ac43770edbd1579928&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F",
+				"img": "image/uber.jpg",
+				"type" : "popup"
+		   },
+		   {
+				"title": "Foodpanda",
+				"highlight" : "FREE Delivery",
+				"coupon_code" : "FREEDELI",
+				"description" : "Get FREE Delivery on your first order",
+				"url": "https://iprice.hk/coupons/foodpanda/?_id=37602f9fc3a718a72f595a74a4ac5459de5a154c&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Ffoodpanda%2F",
+				"img": "image/foodpanda.jpg",
+				"type" : "popup"
+		   },
+		   {
+				"title": "Agoda",
+				"highlight" : "7% OFF",
+				"coupon_code" : "USE BEA CREDIT CARD",
+				"description" : "Book with your BEA credit card & receive Up to 7% OFF hotels worldwide",
+				"url": "https://iprice.hk/coupons/agoda/?_id=1b07c4b24c83739f5ce3292a3433d72d93042e2f&position=5&sub_product=coupon-store&_exit=%2Fcoupons%2Fagoda%2F%3F_id%3D1b07c4b24c83739f5ce3292a3433d72d93042e2f%26position%3D5%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fagoda%252F",
+				"img": "image/agoda.jpg",
+				"type" : "popup"
+		   },
+		   {
+				"title": "Expedia",
+				"highlight" : "7% OFF",
+				"coupon_code" : "EXPEDIA11",
+				"description" : "Enjoy 11% OFF your hotel booking",
+				"url": "https://iprice.hk/coupons/expedia/?_id=f7dfd92d85f83b9eeab4f20a9abc85bece34434a&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fexpedia%2F",
+				"img": "image/expedia.jpg",
+				"type" : "popup"
+		   },
+		   {
+				"title": "Klook",
+				"highlight" : "Up to 75% OFF",
+				"coupon_code" : "KLKHKPP",
+				"description" : "Enjoy Up To 75% off Retail Price On Selected travel activities",
+				"url": "https://iprice.hk/coupons/klook/?_id=831d66c8ef00f7ef99475cb39e75abce37e9ff66&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fklook%2F",
+				"img": "image/klook.jpg",
+				"type" : "popup"
+		   }
+   	]
+   },
+   {
+   	"name" : "Electronics",
    	"coupons" : [
    		{		
-			"title": "Zalora",
-			"highlight" : "15% OFF",
-			"coupon_code" : "ZLAPP15",
-			"description" : "Enjoy 15% Off your first app purchase with min. spend of $550",
-			"url": "https://iprice.hk/coupons/zalora/?_id=87a27e1c2500d6bb960db987f0c20628a501347f&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
-			"img": "image/zalora.jpg",
-			"type" : "popup"
+			"title": "",
+			"highlight" : "",
+			"coupon_code" : "",
+			"description" : "",
+			"url": "",
+			"img": "",
+			"type" : ""
 	   }
    	]
    },
    {
-   	"name" : "category name",
+   	"name" : "Fashion",
    	"coupons" : [
    		{		
-			"title": "Zalora",
-			"highlight" : "15% OFF",
-			"coupon_code" : "ZLAPP15",
-			"description" : "Enjoy 15% Off your first app purchase with min. spend of $550",
-			"url": "https://iprice.hk/coupons/zalora/?_id=87a27e1c2500d6bb960db987f0c20628a501347f&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
-			"img": "image/zalora.jpg",
-			"type" : "popup"
+			"title": "",
+			"highlight" : "",
+			"coupon_code" : "",
+			"description" : "",
+			"url": "",
+			"img": "",
+			"type" : ""
+	   }
+   	]
+   },
+   {
+   	"name" : "Health & Beauty",
+   	"coupons" : [
+   		{		
+			"title": "",
+			"highlight" : "",
+			"coupon_code" : "",
+			"description" : "",
+			"url": "",
+			"img": "",
+			"type" : ""
+	   }
+   	]
+   },
+   {
+   	"name" : "Travel & Food",
+   	"coupons" : [
+   		{		
+			"title": "",
+			"highlight" : "",
+			"coupon_code" : "",
+			"description" : "",
+			"url": "",
+			"img": "",
+			"type" : ""
+	   }
+   	]
+   },
+   {
+   	"name" : "Others",
+   	"coupons" : [
+   		{		
+			"title": "",
+			"highlight" : "",
+			"coupon_code" : "",
+			"description" : "",
+			"url": "",
+			"img": "",
+			"type" : ""
 	   }
    	]
    }
