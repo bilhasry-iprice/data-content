@@ -35,32 +35,32 @@
    {
 		"title": "Watches",
 		"url": "https://iprice.my/watches/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/watches.jpg"
+		"img": "https://bilhasry-iprice.github.io/sale/data/img/watches.png"
    },
    {
 		"title": "Gaming",
 		"url": "https://iprice.my/gaming/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/gaming.jpg"
+		"img": "https://bilhasry-iprice.github.io/sale/data/img/gaming.png"
    },
    {
 		"title": "Electronics",
 		"url": "https://iprice.my/appliances/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/electronics.jpg"
+		"img": "https://bilhasry-iprice.github.io/sale/data/img/electronics.png"
    },
    {
 		"title": "Home & Living",
 		"url": "https://iprice.my/home-decor/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/homeliving.jpg"
+		"img": "https://bilhasry-iprice.github.io/sale/data/img/home-living.png"
    },
    {
 		"title": "Kids",
 		"url": "https://iprice.my/kids-clothing/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/kids.jpg"
+		"img": "https://bilhasry-iprice.github.io/sale/data/img/kids-toys.png"
    },
    {
 		"title": "Health & Beauty",
 		"url": "https://iprice.my/supplements/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/healthbeauty.jpg"
+		"img": "https://bilhasry-iprice.github.io/sale/data/img/health-beauty.png"
    }
  ],
  "slides" : 

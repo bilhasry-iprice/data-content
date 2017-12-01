@@ -35,32 +35,32 @@
    {
 		"title": "Phones",
 		"url": "https://iprice.hk/phones-tablets/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/phones.jpg"
+		"img": "https://bilhasry-iprice.github.io/sale/data/img/phones.png"
    },
    {
 		"title": "Babies",
 		"url": "https://iprice.hk/baby-gear/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/babies.jpg"
+		"img": "https://bilhasry-iprice.github.io/sale/data/img/kids-toys.png"
    },
    {
 		"title": "Sports",
 		"url": "https://iprice.hk/food-supplements/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/sports.jpg"
+		"img": "https://bilhasry-iprice.github.io/sale/data/img/sports-outdoors.png"
    },
    {
 		"title": "Home & Living",
 		"url": "https://iprice.hk/home-decor/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/homeliving.jpg"
+		"img": "https://bilhasry-iprice.github.io/sale/data/img/home-living.jpg"
    },
    {
 		"title": "Watches",
 		"url": "https://iprice.hk/watches/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/watches.jpg"
+		"img": "https://bilhasry-iprice.github.io/sale/data/img/watches.png"
    },
    {
 		"title": "Cameras",
 		"url": "https://iprice.hk/camera-photo/?utm_source=landing_page&utm_medium=onsite&utm_campaign=1212",
-		"img": "https://bilhasry-iprice.github.io/sale/data/my/image/camera.jpg"
+		"img": "https://bilhasry-iprice.github.io/sale/data/img/camera.png"
    }
  ],
  "slides" : 
