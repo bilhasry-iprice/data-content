@@ -1,6 +1,11 @@
 {
  "items": [
    {
+     "title": "12.12 Sale ",
+     "url": "http://iprice.hk/sale/1212",
+     "img": "https://bilhasry-iprice.github.io/sale/data/hk/image/1212_sale_en.jpg"
+   },
+   {
      "title": "Blackfriday",
      "url": "http://iprice.hk/sale/blackfriday",
      "img": "https://bilhasry-iprice.github.io/sale/data/hk/image/blackfriday.jpg"

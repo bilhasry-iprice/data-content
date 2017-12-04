@@ -1,5 +1,10 @@
 {
  "items": [
+  {
+    "title": "1212 Sale in Thailand",
+    "url": "http://ipricethailand.com/sale/1212",
+    "img": "https://bilhasry-iprice.github.io/sale/data/th/image/1212_sale_th.jpg"
+   },
    {
     "title": "11/11",
     "url": "http://ipricethailand.com/sale/1111",

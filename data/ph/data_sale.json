@@ -1,5 +1,10 @@
 {
  "items": [
+ 	{
+     "title": "12.12 Sale ",
+     "url": "http://iprice.ph/sale/1212",
+     "img": "https://bilhasry-iprice.github.io/sale/data/hk/image/1212_sale_en.jpg"
+   },
    {
 		"title": "11/11",
 		"url": "http://iprice.co.hk/sale/1111",
