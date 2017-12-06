@@ -205,9 +205,9 @@
    },
    {
 		"title": "Uber",
-		"highlight" : "SG$15 OFF",
+		"highlight" : "$15 OFF",
 		"coupon_code" : "IPRICESG2017",
-		"description" : "Get Total SG$15 OFF for 3 Rides!",
+		"description" : "Get Total $15 OFF for 3 Rides!",
 		"url": "https://iprice.sg/coupons/uber/?_id=cdb6a6db655b2d06be0ceaead1e5b5cfcc24a3e6&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F",
 		"img": "image/uber.jpg",
 		"type" : "popup"
