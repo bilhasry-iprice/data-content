@@ -141,6 +141,60 @@
    	"name" : "Top Coupons",
    	"coupons" : [
    {
+		"title": "Hijup",
+		"highlight" : "Diskon 50 Ribu",
+		"coupon_code" : "HIJUPIP12",
+		"description" : "Voucher 50 Ribu Semua Produk",
+		"url": "https://iprice.co.id/coupons/hijup/?_id=f36e8975e3c5ed918dd723127d1b22f92e8afe75&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fhijup%2F#",
+		"img": "image/hijup.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Lazada",
+		"highlight" : "Diskon 15%",
+		"coupon_code" : "IPRICEOR17",
+		"description" : "Voucher 15% Semua Produk",
+		"url": "https://iprice.co.id/coupons/lazada/?_id=e4ecbc333c52a28549a2967a62b06bb548b5d58b&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F#",
+		"img": "image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Zalora",
+		"highlight" : "80% + 14%",
+		"coupon_code" : "IPRICE12",
+		"description" : "FASHION DISKON HINGGA 80% + VOUCHER 14%",
+		"url": "https://iprice.co.id/coupons/zalora/?_id=fb2bdb3f5e22c330162e11de696891d365ac531e&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
+		"img": "image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "PegiPegi",
+		"highlight" : "Diskon 150 Ribu",
+		"coupon_code" : "*****",
+		"description" : "Voucher Hotel 150 Ribu dengan Bank Mandiri",
+		"url": "https://iprice.co.id/r/c/?_id=711f5bdf8f959849428cbee38789f83aac018717&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fpegipegi%2F",
+		"img": "image/pegipegi.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "MatahariMall",
+		"highlight" : "Diskon 50%",
+		"coupon_code" : "IPICEMS40",
+		"description" : "Diskon 50% Max 100 Ribu untuk Fashion Terbaru",
+		"url": "https://iprice.co.id/coupons/mataharimall/?_id=7de5b1f7b891612b3d0c86b695d91051eb615040&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fmataharimall%2F",
+		"img": "image/mataharimall.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Uber",
+		"highlight" : "Diskon 40 Ribu",
+		"coupon_code" : "IPRICEUBERID",
+		"description" : "Kode Promo 40 Ribu untuk Pengguna Baru",
+		"url": "https://iprice.co.id/coupons/uber/?_id=22e31ed4c133cc72c0aab077ea5faffcc1660bef&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F",
+		"img": "image/uber.jpg",
+		"type" : "popup"
+   },
+   {
 		"title": "Bukalapak",
 		"highlight" : "Diskon 100 Ribu",
 		"coupon_code" : "*****",
@@ -151,7 +205,7 @@
    },
    {
 		"title": "Lazada",
-		"highlight" : "Menangkan Samsung Note 8",
+		"highlight" : "Samsung Note 8",
 		"coupon_code" : "*****",
 		"description" : "Beli Kacamata Kekinian di Lazada Menangkan HP Samsung Note 8",
 		"url": "https://iprice.co.id/r/c/?_id=b75e6b7d80e6192b8247e45a5e506ff5e0a71339&_exit=%2Fcoupons%2Flazada%2F%3F_id%3Db75e6b7d80e6192b8247e45a5e506ff5e0a71339%26position%3D15%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Flazada%252F",
@@ -160,7 +214,7 @@
    },
    {
 		"title": "Hijup",
-		"highlight" : "Voucher 50 ribu",
+		"highlight" : "50 ribu",
 		"coupon_code" : "BAMED50K",
 		"description" : "Dapatkan Voucher Bamed 50 Ribu Spesial dari Hijup",
 		"url": "https://iprice.co.id/coupons/hijup/?_id=f0300fd55299260cbcbf6948429248d7b840fd65&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fhijup%2F",
@@ -187,7 +241,7 @@
    },
    {
 		"title": "Banggood",
-		"highlight" : "Dari Rp. 49 Ribu",
+		"highlight" : "Dari 49 Ribu",
 		"coupon_code" : "*****",
 		"description" : "Temukan Produk Terbaru dan Ter-update dari Rp. 49.000",
 		"url": "https://iprice.co.id/r/c/?_id=72715e36c948e86448b6200334f6922f806ef94b&_exit=%2Fcoupons%2Fbanggood%2F%3F_id%3D72715e36c948e86448b6200334f6922f806ef94b%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fbanggood%252F",
@@ -239,15 +293,6 @@
 		"img": "image/banggood.jpg",
 		"type" : "direct"
    },
-   {
-		"title": "Pegipegi",
-		"highlight" : "150 ribu OFF",
-		"coupon_code" : "5A9GQAB",
-		"description" : "Voucher Pegipegi hotel 150 ribu dengan Bank Mandiri",
-		"url": "https://iprice.co.id/coupons/pegipegi/?_id=711f5bdf8f959849428cbee38789f83aac018717&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fpegipegi%2F",
-		"img": "image/pegipegi.jpg",
-		"type" : "direct"
-   }
    	]
    },
    {
