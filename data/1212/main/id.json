@@ -292,7 +292,70 @@
 		"url": "https://iprice.co.id/coupons/banggood/?_id=fb382ac8f75f703888b1e2a2886575269eee622f&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fbanggood%2F",
 		"img": "image/banggood.jpg",
 		"type" : "direct"
+   }, 
+   {
+		"title": "Bukalapak",
+		"highlight" : "Diskon 50 Ribu",
+		"coupon_code" : "HEMAT",
+		"description" : "Bayar Tagihan Apa Saja Diskon 50 Ribu dengan Kode Promo Bukalapak",
+		"url": "https://iprice.co.id/coupons/bukalapak/?_id=db7122eb6c9e2d21ac7f8cc7caa88153d8766a63&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fbukalapak%2F%3F_id%3Ddb7122eb6c9e2d21ac7f8cc7caa88153d8766a63%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fbukalapak%252F#",
+		"img": "image/bukalapak.jpg",
+		"type" : "popup"
    },
+   {
+		"title": "Bukalapak",
+		"highlight" : "Diskon 30%",
+		"coupon_code" : "BUKAAJA",
+		"description" : "Voucher Bukalapak 30% Semua Produk untuk Pengguna Baru di Aplikasi",
+		"url": "https://iprice.co.id/coupons/bukalapak/?_id=6944712ce23deaa516a5059ac461e89769a0d170&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fbukalapak%2F%3F_id%3Ddb7122eb6c9e2d21ac7f8cc7caa88153d8766a63%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fbukalapak%252F%253F_id%253Ddb7122eb6c9e2d21ac7f8cc7caa88153d8766a63%2526position%253D2%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Fbukalapak%25252F",
+		"img": "image/bukalapak.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "VIP Plaza",
+		"highlight" : "Diskon 100 Ribu",
+		"coupon_code" : "VIPIPR100",
+		"description" : "Voucher VIP Plaza 100 Ribu Semua Produk Semua Customer",
+		"url": "https://iprice.co.id/coupons/vip-plaza/?_id=5a61317845619ca081a37cfaa38387d476ef2f37&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fvip-plaza%2F",
+		"img": "image/vip-plaza.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "VIP Plaza",
+		"highlight" : "Diskon 75 Ribu",
+		"coupon_code" : "IPRVIP75",
+		"description" : "Kode Voucher VIP Plaza 75 Ribu untuk Pengguna Baru",
+		"url": "https://iprice.co.id/coupons/vip-plaza/?_id=8f525fc59b7d61b03ce7d887e82930a861f84583&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fvip-plaza%2F%3F_id%3D5a61317845619ca081a37cfaa38387d476ef2f37%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fvip-plaza%252F",
+		"img": "image/vip-plaza.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Berrybenka",
+		"highlight" : "Diskon 25%",
+		"coupon_code" : "25MIN3",
+		"description" : "Voucher Berrybenka 25% Diskon Setiap Beli 3 Produk",
+		"url": "https://iprice.co.id/coupons/berrybenka/?_id=819d8c097a120dd053e2c575ef236e5deab075d0&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fberrybenka%2F",
+		"img": "image/berrybenka.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Garuda Indonesia",
+		"highlight" : "Diskon 20%",
+		"coupon_code" : "BNIWOW",
+		"description" : "Garuda Indonesia Promo Hingga 20% dari Bank BNI",
+		"url": "https://iprice.co.id/coupons/garuda-indonesia/?_id=67e947b11fa37bd578dc2678ea682acad13c1433&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fgaruda-indonesia%2F%3F_id%3D67e947b11fa37bd578dc2678ea682acad13c1433%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fgaruda-indonesia%252F",
+		"img": "image/garuda-indonesia.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Hijabenka",
+		"highlight" : "Diskon 10%",
+		"coupon_code" : "DEC10HB",
+		"description" : "Voucher Hijabenka 10% Off Semua Produk Menuju 12.12",
+		"url": "https://iprice.co.id/coupons/hijabenka/?_id=63136179aa36926b2d7542824893180cad47fc56&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fhijabenka%2F#",
+		"img": "image/hijabenka.jpg",
+		"type" : "popup"
+   }
    	]
    },
    {
