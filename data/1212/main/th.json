@@ -150,6 +150,24 @@
 		"type" : "popup"
    },
    {
+		"title": "BigC",
+		"highlight" : "ส่วนลดมูลค่า 200 บาท",
+		"coupon_code" : "BCHDEC200",
+		"description" : "คูปองส่วนลด Big C มูลค่า 200 บาท เมื่อช้อปครบ 1,800 บาท !",
+		"url": "https://ipricethailand.com/coupons/big-c-online/?_id=76543a3fb15cb6ddaa5854ed67edb6a5df8da337&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fbig-c-online%2F",
+		"img": "image/big-c-online.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Orami",
+		"highlight" : "ลดเพิ่มอีก 30%",
+		"coupon_code" : "ULTRA30",
+		"description" : "Anessa ครีมกันแดดชื่อดังของญี่ปุ่น ! รับคูปองส่วนลดอีก 30% !",
+		"url": "https://ipricethailand.com/coupons/orami/?_id=df400f05c497fd829029e6bbd5fc79b0d702ff7b&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Forami%2F",
+		"img": "image/orami.jpg",
+		"type" : "orami"
+   },
+   {
 		"title": "Uber",
 		"highlight" : "ส่วนลดมูลค่า 150 บาท",
 		"coupon_code" : "IPRICETH2017",
@@ -168,13 +186,22 @@
 		"type" : "popup"
    },
    {
+		"title": "Orami",
+		"highlight" : "คูปองส่วนลดเพิ่ม 60%",
+		"coupon_code" : "ULTRA60",
+		"description" : "คูปองส่วนลดเพิ่ม 60% วันเดียวเท่านั้น !",
+		"url": "https://ipricethailand.com/coupons/orami/?_id=acb4a89d56200c253133ae73b1766e092e8a2b44&position=5&sub_product=coupon-store&_exit=%2Fcoupons%2Forami%2F",
+		"img": "image/orami.jpg",
+		"type" : "popup"
+   },
+   {
 		"title": "Grab",
 		"highlight" : "รับคูปอง 70 บาท 10 ครั้ง",
 		"coupon_code" : "HAPPYDEC",
 		"description" : "ใช้บริการ GrabCar, GrabCar Plus, JustGrab และ GrabTaxi รับคูปองฟรี 70 บาท 10 ครั้ง",
 		"url": "https://ipricethailand.com/coupons/grab/?_id=25ad13587a47bf4208933faa14cf9f2eb00ada59&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fgrab%2F",
 		"img": "image/grab.jpg",
-		"type" : "grab"
+		"type" : "popup"
    },
    {
 		"title": "Lazada",
