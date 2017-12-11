@@ -177,6 +177,15 @@
 		"type" : "popup"
    },
    {
+		"title": "Qoo10",
+		"highlight" : "15% OFF",
+		"coupon_code" : "*****",
+		"description" : "Enjoy 15% OFF Watsons Storewide",
+		"url": "https://iprice.my/coupons/qoo10/?_id=712aeda7cbeb4595c74ebcfc9ff18692809ee0db&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fqoo10%2F",
+		"img": "image/qoo10.jpg",
+		"type" : "popup"
+   },
+   {
 		"title": "Uber",
 		"highlight" : "RM15 OFF",
 		"coupon_code" : "IPRICEUBERMY2017",
@@ -192,6 +201,15 @@
 		"description" : "Enjoy up to RM200 OFF Electronics",
 		"url": "https://iprice.my/coupons/lazada/?_id=713e33340b23d6640b97eea496659e0a77bbe46d&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F%3F_id%3D713e33340b23d6640b97eea496659e0a77bbe46d%26position%3D3%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Flazada%252F",
 		"img": "image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Sephora",
+		"highlight" : "40% OFF",
+		"coupon_code" : "*****",
+		"description" : "Enjoy sale up to 40% OFF Sephora Make up collection",
+		"url": "https://iprice.my/coupons/sephora/?_id=e3ae6a5d665edded3f5e4964ddc6f3af0d1aaac4&position=5&sub_product=coupon-store&_exit=%2Fcoupons%2Fsephora%2F",
+		"img": "image/sephora.jpg",
 		"type" : "popup"
    },
    {
