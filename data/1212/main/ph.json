@@ -140,13 +140,58 @@
    {
    	"name" : "Top Coupons",
    	"coupons" : [
-   		{
+   {
+		"title": "Lazada",
+		"highlight" : "12% OFF",
+		"coupon_code" : "RAPPLER12XMAS",
+		"description" : "Enjoy 12% OFF Sitewide",
+		"url": "https://iprice.ph/coupons/lazada/?_id=7bba4662b07d28ea08043555661011774e5e5af3&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F%3F_id%3D7bba4662b07d28ea08043555661011774e5e5af3%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Flazada%252F%253F_id%253D7bba4662b07d28ea08043555661011774e5e5af3%2526position%253D1%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Flazada%25252F",
+		"img": "image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
 		"title": "Zalora",
-		"highlight" : "20% OFF",
-		"coupon_code" : "MASTERCARD20",
-		"description" : "Extra 20% Discount every Monday with Mastercard",
-		"url": "https://iprice.ph/coupons/zalora/?_id=5b2c32c963c821840ecac0597bc4ca2e41680650&position=20&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
+		"highlight" : "14% OFF",
+		"coupon_code" : "IPRICE12",
+		"description" : "Get 14% Off Sitewide",
+		"url": "https://iprice.ph/coupons/zalora/?_id=b8e9f1ad5d35437889541a87859a75b203eb102a&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F%3Fnocache%3D1",
 		"img": "image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Zalora",
+		"highlight" : "15% OFF",
+		"coupon_code" : "ZL15APP",
+		"description" : "Enjoy 15% OFF on your first app purchase",
+		"url": "https://iprice.ph/coupons/zalora/?_id=206e49a115d15c18a26239e76e0ff3a8270058c8&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F%3F_id%3Db8e9f1ad5d35437889541a87859a75b203eb102a%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fzalora%252F%253Fnocache%253D1",
+		"img": "image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Zalora",
+		"highlight" : "20% + 5% OFF",
+		"coupon_code" : "MASTERCARD20",
+		"description" : "20% Discount with Mastercard + Extra 5% off on Monday",
+		"url": "https://iprice.ph/coupons/zalora/?_id=5b2c32c963c821840ecac0597bc4ca2e41680650&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F%3F_id%3D206e49a115d15c18a26239e76e0ff3a8270058c8%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fzalora%252F%253F_id%253Db8e9f1ad5d35437889541a87859a75b203eb102a%2526position%253D1%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Fzalora%25252F%25253Fnocache%25253D1",
+		"img": "image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Hotels.com",
+		"highlight" : "7% OFF",
+		"coupon_code" : "OMGDEC17",
+		"description" : "Get additional 7% off on hotel bookings",
+		"url": "https://iprice.ph/coupons/hotelscom/?_id=de9a940f57a352e4c8500692166bbc469125ea6a&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fhotelscom%2F",
+		"img": "image/hotelscom.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "YesStyle",
+		"highlight" : "12% OFF",
+		"coupon_code" : "20171212",
+		"description" : "Get extra 12% OFF on orders over US$89",
+		"url": "https://iprice.ph/coupons/yesstyle/?_id=8cff057a72665dbed000f67e7b3e8beb5fe0b0b8&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fyesstyle%2F",
+		"img": "image/yesstyle.jpg",
 		"type" : "popup"
    },
    {
@@ -175,15 +220,6 @@
 		"url": "https://iprice.ph/r/c/?_id=be2a009022e2ad46cfe444770164a520e132e6b6&popup=&_exit=%2Fcoupons%2Fbeauty-mnl%2F%3F_id%3Dbe2a009022e2ad46cfe444770164a520e132e6b6%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fbeauty-mnl%252F",
 		"img": "image/beautymnl.jpg",
 		"type" : "direct"
-   },
-   {
-		"title": "Hotels.com",
-		"highlight" : "5% OFF",
-		"coupon_code" : "PH5OFF",
-		"description" : "Get 5% OFF on top of hotel deals",
-		"url": "https://iprice.ph/coupons/hotelscom/?_id=e99790b4a5c03276e71c0e95f0032b33f3309c60&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fhotelscom%2F",
-		"img": "image/hotelscom.jpg",
-		"type" : "popup"
    },
    {
 		"title": "Expedia",
@@ -218,15 +254,6 @@
 		"coupon_code" : "ipriceUberPH",
 		"description" : "Save P200 OFF for your first ride",
 		"url": "https://iprice.ph/coupons/uber/?_id=2596631c53ca62bf2f0b93f09a1f9057def9da37&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F",
-		"img": "image/uber.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Uber",
-		"highlight" : "P60 OFF",
-		"coupon_code" : "IPRICEPH2017",
-		"description" : "Enjoy P60 off on first 3 Uber rides",
-		"url": "https://iprice.ph/coupons/uber/?_id=b88377bb8cedf34e5b84d521eb6f45d64df7a4aa&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F%3Fnocache%3D1",
 		"img": "image/uber.jpg",
 		"type" : "popup"
    },
