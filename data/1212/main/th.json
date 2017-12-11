@@ -150,24 +150,6 @@
 		"type" : "popup"
    },
    {
-		"title": "BigC",
-		"highlight" : "200 บาท",
-		"coupon_code" : "BCHDEC200",
-		"description" : "ส่วนลด 200 บาท เมื่อช้อปครบ 1,800 บาท !",
-		"url": "https://ipricethailand.com/coupons/big-c-online/?_id=76543a3fb15cb6ddaa5854ed67edb6a5df8da337&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fbig-c-online%2F",
-		"img": "image/big-c-online.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Orami",
-		"highlight" : "ลดเพิ่ม 30%",
-		"coupon_code" : "ULTRA30",
-		"description" : "Anessa ชื่อดังของญี่ปุ่น ! รับส่วนลดอีก 30% !",
-		"url": "https://ipricethailand.com/coupons/orami/?_id=df400f05c497fd829029e6bbd5fc79b0d702ff7b&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Forami%2F",
-		"img": "image/orami.jpg",
-		"type" : "orami"
-   },
-   {
 		"title": "Uber",
 		"highlight" : "ส่วนลด 150 บาท",
 		"coupon_code" : "IPRICETH2017",
@@ -183,15 +165,6 @@
 		"description" : "ส่วนลดสำหรับชาวเชียงใหม่ ลด 100 บาท",
 		"url": "https://ipricethailand.com/coupons/grab/?_id=56d2f8b243c10c17fda28b22cb79dbd125f2f74c&position=6&sub_product=coupon-store&_exit=%2Fcoupons%2Fgrab%2F",
 		"img": "image/grab.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Orami",
-		"highlight" : "ลดเพิ่ม 60%",
-		"coupon_code" : "ULTRA60",
-		"description" : "คูปองส่วนลด 60% !",
-		"url": "https://ipricethailand.com/coupons/orami/?_id=acb4a89d56200c253133ae73b1766e092e8a2b44&position=5&sub_product=coupon-store&_exit=%2Fcoupons%2Forami%2F",
-		"img": "image/orami.jpg",
 		"type" : "popup"
    },
    {
@@ -273,15 +246,6 @@
 		"description" : "100 บาท 3 ครั้ง (เฉพาะผู้ใช้ใหม่ในเขตสงขลาและหาดใหญ่)",
 		"url": "https://ipricethailand.com/coupons/grab/?_id=81ccadaf15330ed6b2cf3e39d832aade6a3b787f&position=18&sub_product=coupon-store&_exit=%2Fcoupons%2Fgrab%2F",
 		"img": "image/grab.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Uber",
-		"highlight" : "ลด 50 บาท",
-		"coupon_code" : "KKUBER",
-		"description" : "ลด 50 บาทในการใช้บริการ 3 ครั้งแรก",
-		"url": "https://ipricethailand.com/coupons/uber/?_id=71a35817b106fbcbeb94a4883b8f0edc14a77e65&position=6&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F",
-		"img": "image/uber.jpg",
 		"type" : "popup"
    },
    {
