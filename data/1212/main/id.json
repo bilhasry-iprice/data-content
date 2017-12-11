@@ -150,15 +150,6 @@
 		"type" : "popup"
    },
    {
-		"title": "Lazada",
-		"highlight" : "Diskon 15%",
-		"coupon_code" : "IPRICEOR17",
-		"description" : "Voucher 15% Semua Produk",
-		"url": "https://iprice.co.id/coupons/lazada/?_id=e4ecbc333c52a28549a2967a62b06bb548b5d58b&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F#",
-		"img": "image/lazada.jpg",
-		"type" : "popup"
-   },
-   {
 		"title": "Zalora",
 		"highlight" : "80% + 14%",
 		"coupon_code" : "IPRICE12",
@@ -166,15 +157,6 @@
 		"url": "https://iprice.co.id/coupons/zalora/?_id=fb2bdb3f5e22c330162e11de696891d365ac531e&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
 		"img": "image/zalora.jpg",
 		"type" : "popup"
-   },
-   {
-		"title": "PegiPegi",
-		"highlight" : "Diskon 150 Ribu",
-		"coupon_code" : "*****",
-		"description" : "Voucher Hotel 150 Ribu dengan Bank Mandiri",
-		"url": "https://iprice.co.id/r/c/?_id=711f5bdf8f959849428cbee38789f83aac018717&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fpegipegi%2F",
-		"img": "image/pegipegi.jpg",
-		"type" : "direct"
    },
    {
 		"title": "MatahariMall",
@@ -330,30 +312,12 @@
 		"type" : "popup"
    },
    {
-		"title": "Berrybenka",
-		"highlight" : "Diskon 25%",
-		"coupon_code" : "25MIN3",
-		"description" : "Voucher Berrybenka 25% Diskon Setiap Beli 3 Produk",
-		"url": "https://iprice.co.id/coupons/berrybenka/?_id=819d8c097a120dd053e2c575ef236e5deab075d0&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fberrybenka%2F",
-		"img": "image/berrybenka.jpg",
-		"type" : "popup"
-   },
-   {
 		"title": "Garuda Indonesia",
 		"highlight" : "Diskon 20%",
 		"coupon_code" : "BNIWOW",
 		"description" : "Garuda Indonesia Promo Hingga 20% dari Bank BNI",
 		"url": "https://iprice.co.id/coupons/garuda-indonesia/?_id=67e947b11fa37bd578dc2678ea682acad13c1433&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fgaruda-indonesia%2F%3F_id%3D67e947b11fa37bd578dc2678ea682acad13c1433%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fgaruda-indonesia%252F",
 		"img": "image/garuda-indonesia.jpg",
-		"type" : "popup"
-   },
-   {
-		"title": "Hijabenka",
-		"highlight" : "Diskon 10%",
-		"coupon_code" : "DEC10HB",
-		"description" : "Voucher Hijabenka 10% Off Semua Produk Menuju 12.12",
-		"url": "https://iprice.co.id/coupons/hijabenka/?_id=63136179aa36926b2d7542824893180cad47fc56&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fhijabenka%2F#",
-		"img": "image/hijabenka.jpg",
 		"type" : "popup"
    }
    	]
