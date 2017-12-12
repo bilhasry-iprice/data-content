@@ -141,6 +141,24 @@
    	"name" : "Top Coupons",
    	"coupons" : [
    {
+		"title": "Zalora",
+		"highlight" : "Diskon 70% + 22%",
+		"coupon_code" : "EXTRA22",
+		"description" : "Diskon 70% Extra 22% OFF tanpa minimal pembelian",
+		"url": "https://iprice.co.id/coupons/?_id=13a9425eef0d058037173df2dd18a39934d1adc9&position=0&_exit=%2Fcoupons%2F",
+		"img": "image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Pegipegi",
+		"highlight" : "Diskon 40 Ribu",
+		"coupon_code" : "FSF1240",
+		"description" : "Diskon 40 Ribu Booking Tiket Pesawat Selama Harbolnas",
+		"url": "https://iprice.co.id/coupons/?_id=cb7fdbc37d4b82a1c65bccf17a3b275c41d8b552&position=2&_exit=%2Fcoupons%2F%3F_id%3Dcb7fdbc37d4b82a1c65bccf17a3b275c41d8b552%26position%3D2%26_exit%3D%252Fcoupons%252F%253F_id%253D13a9425eef0d058037173df2dd18a39934d1adc9%2526position%253D0%2526_exit%253D%25252Fcoupons%25252F#",
+		"img": "image/pegipegi.jpg",
+		"type" : "popup"
+   },
+   {
 		"title": "Hijup",
 		"highlight" : "Diskon 50 Ribu",
 		"coupon_code" : "HIJUPIP12",
