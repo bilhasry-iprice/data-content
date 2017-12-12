@@ -330,15 +330,6 @@
 		"type" : "popup"
    },
    {
-		"title": "Sephora",
-		"highlight" : "40% OFF",
-		"coupon_code" : "*****",
-		"description" : "Enjoy sale up to 40% OFF Sephora makeup collection",
-		"url": "https://iprice.my/r/c/?_id=e3ae6a5d665edded3f5e4964ddc6f3af0d1aaac4&popup=&_exit=%2Fcoupons%2Fsephora%2F%3F_id%3De3ae6a5d665edded3f5e4964ddc6f3af0d1aaac4%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fsephora%252F",
-		"img": "image/sephora.jpg",
-		"type" : "direct"
-   },
-   {
 		"title": "Grab",
 		"highlight" : "RM20 OFF",
 		"coupon_code" : "GRAB2ZOUK",
