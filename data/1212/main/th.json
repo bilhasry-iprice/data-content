@@ -168,15 +168,6 @@
 		"type" : "popup"
    },
    {
-		"title": "Grab",
-		"highlight" : "คูปอง 70 บาท 10 ครั้ง",
-		"coupon_code" : "HAPPYDEC",
-		"description" : "รับคูปองฟรี 70 บาท 10 ครั้ง",
-		"url": "https://ipricethailand.com/coupons/grab/?_id=25ad13587a47bf4208933faa14cf9f2eb00ada59&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fgrab%2F",
-		"img": "image/grab.jpg",
-		"type" : "popup"
-   },
-   {
 		"title": "Lazada",
 		"highlight" : "5% สูงสุด 500 บาท",
 		"coupon_code" : "DECBEG",
@@ -217,9 +208,9 @@
 		"highlight" : "40% OFF",
 		"coupon_code" : "*****",
 		"description" : "Casio ลด 40% ทั้งร้าน!!",
-		"url": "https://ipricethailand.com/r/c/?_id=7a604c0f2fcbc32cf66969cbbe8a322ef703077a&_exit=%2Fcoupons%2Fcentral-online%2F%3F_id%3D7a604c0f2fcbc32cf66969cbbe8a322ef703077a%26position%3D9%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fcentral-online%252F",
+		"url": "https://ipricethailand.com/coupons/central-online/?_id=7a604c0f2fcbc32cf66969cbbe8a322ef703077a&position=14&sub_product=coupon-store&_exit=%2Fcoupons%2Fcentral-online%2F",
 		"img": "image/central-online.jpg",
-		"type" : "direct"
+		"type" : "popup"
    },
    {
 		"title": "UberEATS",
@@ -235,9 +226,9 @@
 		"highlight" : "Half Price Deals!",
 		"coupon_code" : "*****",
 		"description" : "ห้องพักครึ่งราคา คลิกเลย!",
-		"url": "https://ipricethailand.com/r/c/?_id=b733f7e0a377457ea47cc875e3400a96c9d167f6&_exit=%2Fcoupons%2Fagoda%2F%3F_id%3Db733f7e0a377457ea47cc875e3400a96c9d167f6%26position%3D3%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fagoda%252F",
+		"url": "https://ipricethailand.com/coupons/agoda/?_id=b733f7e0a377457ea47cc875e3400a96c9d167f6&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fagoda%2F",
 		"img": "image/agoda.jpg",
-		"type" : "direct"
+		"type" : "popup"
    },
    {
 		"title": "Grab",
@@ -247,24 +238,6 @@
 		"url": "https://ipricethailand.com/coupons/grab/?_id=81ccadaf15330ed6b2cf3e39d832aade6a3b787f&position=18&sub_product=coupon-store&_exit=%2Fcoupons%2Fgrab%2F",
 		"img": "image/grab.jpg",
 		"type" : "popup"
-   },
-   {
-		"title": "Lazada",
-		"highlight" : "120฿ เท่านั้น",
-		"coupon_code" : "*****",
-		"description" : "โรลม้วนผมไฟฟ้าราคา 120฿ เท่านั้น!!",
-		"url": "https://ipricethailand.com/r/c/?_id=05c2e4b3fa693c08f4835c2c4e73c56e17e8ebc0&_exit=%2Fcoupons%2Flazada%2F%3F_id%3D05c2e4b3fa693c08f4835c2c4e73c56e17e8ebc0%26position%3D20%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Flazada%252F",
-		"img": "image/lazada.jpg",
-		"type" : "direct"
-   },
-   {
-		"title": "Central Online",
-		"highlight" : "17% OFF",
-		"coupon_code" : "*****",
-		"description" : "ลดเพิ่ม 17% เมื่อช้อป 2ชิ้นขึ้นไป!!",
-		"url": "https://ipricethailand.com/r/c/?_id=5f58c1b97f470b1159e7189a7700a816d4119fd0&_exit=%2Fcoupons%2Fcentral-online%2F%3F_id%3D5f58c1b97f470b1159e7189a7700a816d4119fd0%26position%3D18%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fcentral-online%252F",
-		"img": "image/central-online.jpg",
-		"type" : "direct"
    },
    {
 		"title": "Shopat24",
@@ -289,9 +262,9 @@
 		"highlight" : "150 บาท",
 		"coupon_code" : "required",
 		"description" : "สมาชิก AIS รับ 150 บาทฟรี!",
-		"url": "https://ipricethailand.com/r/c/?_id=39f94ccff2360401119130aa1ee50f74f2ef4a59&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Ftops-shop-online%2F",
+		"url": "https://ipricethailand.com/coupons/tops-shop-online/?_id=39f94ccff2360401119130aa1ee50f74f2ef4a59&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Ftops-shop-online%2F",
 		"img": "image/tops.jpg",
-		"type" : "direct"
+		"type" : "popup"
    },
    {
 		"title": "Sephora",
