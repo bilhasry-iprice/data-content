@@ -177,15 +177,6 @@
 		"type" : "popup"
    },
    {
-		"title": "Zalora",
-		"highlight" : "60% + 14% OFF",
-		"coupon_code" : "IPRICE12",
-		"description" : "Buy Women's Tops, Get up to 60% + 14% OFF!",
-		"url": "https://iprice.sg/coupons/zalora/?_id=a30cb805ffa6443ff2c8e51c9cf38417af9dd6cd&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F%3F_id%3D599f3847165029b7d330f7026aef44f5ce3a63bd%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fzalora%252F%253F_id%253D5b49c9e8f8543153048037cc60bd594315be4ca4%2526position%253D2%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Fzalora%25252F%25253F_id%25253D599f3847165029b7d330f7026aef44f5ce3a63bd%252526position%25253D1%252526sub_product%25253Dcoupon-store%252526_exit%25253D%2525252Fcoupons%2525252Fzalora%2525252F%2525253F_id%2525253D599f3847165029b7d330f7026aef44f5ce3a63bd%25252526position%2525253D1%25252526sub_product%2525253Dcoupon-store%25252526_exit%2525253D%252525252Fcoupons%252525252Fzalora%252525252F",
-		"img": "image/zalora.jpg",
-		"type" : "popup"
-   },
-   {
 		"title": "Redmart",
 		"highlight" : "70% + $20% OFF",
 		"coupon_code" : "IPRC20D",
@@ -379,9 +370,9 @@
 		"highlight" : "FREE Shipping",
 		"coupon_code" : "*****",
 		"description" : "Enjoy FREE Shipping on orders above $18 for fashion",
-		"url": "https://iprice.sg/r/c/?_id=d9fa889b4ed0f6c5c21e026163666c113b16c85c&popup=&_exit=%2Fcoupons%2Fezbuy%2F%3F_id%3Dd9fa889b4ed0f6c5c21e026163666c113b16c85c%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fezbuy%252F",
+		"url": "https://iprice.sg/coupons/ezbuy/?_id=d9fa889b4ed0f6c5c21e026163666c113b16c85c&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fezbuy%2F",
 		"img": "image/ezbuy.jpg",
-		"type" : "direct"
+		"type" : "popup"
    },
    {
 		"title": "Uber",
