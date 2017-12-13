@@ -190,9 +190,9 @@
 				"highlight" : "12% OFF",
 				"coupon_code" : "*****",
 				"description" : "Enjoy 12% Off for Single Trip Travel Insurance",
-				"url": "https://iprice.hk/r/c/?_id=6b646f67a1af2972f390886a6f6bb17d6dc26aae&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Faxa-travel-insurance%2F",
+				"url": "https://iprice.hk/coupons/axa-travel-insurance/?_id=6b646f67a1af2972f390886a6f6bb17d6dc26aae&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Faxa-travel-insurance%2F%3Futm_source%3Dnewsletter%26utm_medium%3Demail%26utm_campaign%3D1212",
 				"img": "image/axa.jpg",
-				"type" : "direct"
+				"type" : "popup"
 		   },
 		   {		
 				"title": "YesStyle",
@@ -214,10 +214,10 @@
 		   },
 	           {		
 				"title": "Uber",
-				"highlight" : "HKD15 OFF",
-				"coupon_code" : "1PRICE2HK",
-				"description" : "Get HKD15 x 3 rides",
-				"url": "https://iprice.hk/coupons/uber/?_id=6e01e9722f72ca3a18c9001e777ef3f6f20eff12&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F",
+				"highlight" : "HKD40 OFF",
+				"coupon_code" : "IPRICEUBERHK",
+				"description" : "Enjoy HKD40 Off Your First Ride",
+				"url": "https://iprice.hk/coupons/uber/?_id=618aaafbc4ec222182e314ac43770edbd1579928&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F%3F_id%3D6e01e9722f72ca3a18c9001e777ef3f6f20eff12%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fuber%252F",
 				"img": "image/uber.jpg",
 				"type" : "popup"
 		   },
@@ -235,9 +235,9 @@
 				"highlight" : "Up to 50% OFF",
 				"coupon_code" : "*****",
 				"description" : "Enjoy up to 50% off on selected KKday tours with Paypal",
-				"url": "https://iprice.hk/r/c/?_id=34a79ce395f5b2849c910c04822c2b743d5cafe8&popup=&Enjoy up to 50% off on selected KKday tours with Paypalit=%2Fcoupons%2Fkkday%2F%3F_id%3D34a79ce395f5b2849c910c04822c2b743d5cafe8%26position%3D18%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fkkday%252F",
+				"url": "https://iprice.hk/coupons/kkday/?_id=34a79ce395f5b2849c910c04822c2b743d5cafe8&position=11&sub_product=coupon-store&_exit=%2Fcoupons%2Fkkday%2F",
 				"img": "image/kkday.jpg",
-				"type" : "direct"
+				"type" : "popup"
 		   },
 		   {
 				"title": "Wing On Travel",
@@ -253,27 +253,27 @@
 				"highlight" : "From HKD289",
 				"coupon_code" : "*****",
 				"description" : "Get Frames from HKD289",
-				"url": "https://iprice.hk/r/c/?_id=b980a752985b0276e61daa6401d1e5c05f945104&popup=&_exit=%2Fcoupons%2Fsmartbuyglasses%2F%3F_id%3Db980a752985b0276e61daa6401d1e5c05f945104%26position%3D3%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fsmartbuyglasses%252F",
+				"url": "https://iprice.hk/coupons/smartbuyglasses/?_id=b980a752985b0276e61daa6401d1e5c05f945104&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fsmartbuyglasses%2F",
 				"img": "image/smartbuyglasses.jpg",
-				"type" : "direct"
+				"type" : "popup"
 		   },
 		   {		
 				"title": "Zuji",
 				"highlight" : "Up to HK$500 OFF",
 				"coupon_code" : "*****",
 				"description" : "Enjoy up to HK$500 Instant discount on all package bookings with your DBS credit card",
-				"url": "https://iprice.hk/r/c/?_id=562a53e92b04599aa78c06ecb460222bdac54019&_exit=%2Fcoupons%2Fzuji%2F%3F_id%3D562a53e92b04599aa78c06ecb460222bdac54019%26position%3D3%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fzuji%252F",
+				"url": "https://iprice.hk/coupons/zuji/?_id=562a53e92b04599aa78c06ecb460222bdac54019&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fzuji%2F",
 				"img": "image/zuji.jpg",
-				"type" : "direct"
+				"type" : "popup"
 		   },
 		   {
 				"title": "Microsoft",
 				"highlight" : "10% OFF",
 				"coupon_code" : "*****",
 				"description" : "Enjoy 10% Off selected Surface Laptops, exclusive for Students & Teachers",
-				"url": "https://iprice.hk/r/c/?_id=b6c4f8c212d76b01ebd0ec8fc932b98eeef9de7b&popup=&_exit=%2Fcoupons%2Fmicrosoft%2F%3F_id%3Db6c4f8c212d76b01ebd0ec8fc932b98eeef9de7b%26position%3D3%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fmicrosoft%252F",
+				"url": "https://iprice.hk/coupons/microsoft/?_id=b6c4f8c212d76b01ebd0ec8fc932b98eeef9de7b&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fmicrosoft%2F",
 				"img": "image/microsoft.jpg",
-				"type" : "direct"
+				"type" : "popup"
 		   },
 		   {		
 				"title": "YOOX",
