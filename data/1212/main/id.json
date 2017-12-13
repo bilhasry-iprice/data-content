@@ -168,15 +168,6 @@
 		"type" : "popup"
    },
    {
-		"title": "Zalora",
-		"highlight" : "80% + 14%",
-		"coupon_code" : "IPRICE12",
-		"description" : "FASHION DISKON HINGGA 80% + VOUCHER 14%",
-		"url": "https://iprice.co.id/coupons/zalora/?_id=fb2bdb3f5e22c330162e11de696891d365ac531e&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
-		"img": "image/zalora.jpg",
-		"type" : "popup"
-   },
-   {
 		"title": "MatahariMall",
 		"highlight" : "Diskon 50%",
 		"coupon_code" : "IPICEMS40",
@@ -199,18 +190,18 @@
 		"highlight" : "Diskon 100 Ribu",
 		"coupon_code" : "*****",
 		"description" : "Bukalapak Promo Nego Sampai Cincai Diskon 100 Ribu",
-		"url": "https://iprice.co.id/r/c/?_id=830950aaef32470c2a76178ca20a24f5e0740e74&_exit=%2Fcoupons%2Fbukalapak%2F%3F_id%3D830950aaef32470c2a76178ca20a24f5e0740e74%26position%3D15%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fbukalapak%252F",
+		"url": "https://iprice.co.id/coupons/bukalapak/?_id=830950aaef32470c2a76178ca20a24f5e0740e74&position=12&sub_product=coupon-store&_exit=%2Fcoupons%2Fbukalapak%2F",
 		"img": "image/bukalapak.jpg",
-		"type" : "direct"
+		"type" : "popup"
    },
    {
 		"title": "Lazada",
-		"highlight" : "Samsung Note 8",
+		"highlight" : "70% + Rp 150 Ribu OFF",
 		"coupon_code" : "*****",
-		"description" : "Beli Kacamata Kekinian di Lazada Menangkan HP Samsung Note 8",
-		"url": "https://iprice.co.id/r/c/?_id=b75e6b7d80e6192b8247e45a5e506ff5e0a71339&_exit=%2Fcoupons%2Flazada%2F%3F_id%3Db75e6b7d80e6192b8247e45a5e506ff5e0a71339%26position%3D15%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Flazada%252F",
+		"description" : "70% + Rp 150 Ribu off HARBOLNAS ",
+		"url": "https://iprice.co.id/coupons/lazada/?_id=726a335fb4268b01f2e7960bfcddccc6505bbd67&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
 		"img": "image/lazada.jpg",
-		"type" : "direct"
+		"type" : "popup"
    },
    {
 		"title": "Hijup",
@@ -244,9 +235,9 @@
 		"highlight" : "Dari 49 Ribu",
 		"coupon_code" : "*****",
 		"description" : "Temukan Produk Terbaru dan Ter-update dari Rp. 49.000",
-		"url": "https://iprice.co.id/r/c/?_id=72715e36c948e86448b6200334f6922f806ef94b&_exit=%2Fcoupons%2Fbanggood%2F%3F_id%3D72715e36c948e86448b6200334f6922f806ef94b%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fbanggood%252F",
+		"url": "https://iprice.co.id/coupons/banggood/?_id=72715e36c948e86448b6200334f6922f806ef94b&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fbanggood%2F%3F_id%3Dfb382ac8f75f703888b1e2a2886575269eee622f%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fbanggood%252F",
 		"img": "image/banggood.jpg",
-		"type" : "direct"
+		"type" : "popup"
    },
    {
 		"title": "The Body Shop",
@@ -262,7 +253,7 @@
 		"highlight" : "50% OFF",
 		"coupon_code" : "*****",
 		"description" : "Tukar Poin Mandiri Kamu & Dapatkan Diskon Hingga 50% OFF",
-		"url": "https://iprice.co.id/r/c/?_id=8e13ce2ddfc2890850646b0489db361e886e1eaa&_exit=%2Fcoupons%2Fpizza-hut%2F%3F_id%3D8e13ce2ddfc2890850646b0489db361e886e1eaa%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fpizza-hut%252F",
+		"url": "https://iprice.co.id/coupons/pizza-hut/?_id=8e13ce2ddfc2890850646b0489db361e886e1eaa&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fpizza-hut%2F",
 		"img": "image/pizzahut.jpg",
 		"type" : "direct"
    },
@@ -282,7 +273,7 @@
 		"description" : "Beli oleh-oleh hemat di Pesona Nusantara mulai Rp.11.000!",
 		"url": "https://iprice.co.id/coupons/pesona-nusantara/?_id=071f631feb39ff68937ad9ca239e5c8a414406f7&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fpesona-nusantara%2F",
 		"img": "image/pesona-nusantara.jpg",
-		"type" : "direct"
+		"type" : "popup"
    },
    {
 		"title": "Banggood",
@@ -291,7 +282,7 @@
 		"description" : "Belanja untuk semua kategori di Banggood.com diskon hingga 75%",
 		"url": "https://iprice.co.id/coupons/banggood/?_id=fb382ac8f75f703888b1e2a2886575269eee622f&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fbanggood%2F",
 		"img": "image/banggood.jpg",
-		"type" : "direct"
+		"type" : "popup"
    }, 
    {
 		"title": "Bukalapak",
