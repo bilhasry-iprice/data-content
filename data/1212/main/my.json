@@ -142,12 +142,12 @@
    	"coupons" : [
    {
 		"title": "Lazada",
-		"highlight" : "20% OFF",
-		"coupon_code" : "20DFAIR",
-		"description" : "Shop & receive extra 20% OFF selected items",
-		"url": "https://iprice.my/coupons/lazada/?_id=45b38949bb673eb449ab3c878d24e170d5d92e5f&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
+		"highlight" : "80% + 13% OFF",
+		"coupon_code" : "IPRICE13",
+		"description" : "Up to 80% + EXTRA 13% Off during 12.12 Sale",
+		"url": "https://iprice.my/coupons/lazada/?_id=f0a2afa18ab7db81e1ebd2f7d18ceefe17fa618b&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F%3F_id%3D653488de06890acb470f985ca3aedabca14b251d%26position%3D9%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Flazada%252F%253F_id%253D653488de06890acb470f985ca3aedabca14b251d%2526position%253D9%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Flazada%25252F%25253F_id%25253D2377d3d1c2151913ef666f6fb9f5d18625f57e8a%252526position%25253D7%252526sub_product%25253Dcoupon-store%252526_exit%25253D%2525252Fcoupons%2525252Flazada%2525252F",
 		"img": "image/lazada.jpg",
-		"type" : "popup"
+		"type" : "popup"	  
    },
    {
 		"title": "Zalora",
@@ -196,6 +196,15 @@
    },
    {
 		"title": "Lazada",
+		"highlight" : "20% OFF",
+		"coupon_code" : "20DFAIR",
+		"description" : "Shop & receive extra 20% OFF selected items",
+		"url": "https://iprice.my/coupons/lazada/?_id=45b38949bb673eb449ab3c878d24e170d5d92e5f&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
+		"img": "image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Lazada",
 		"highlight" : "RM200 OFF",
 		"coupon_code" : "IN200TEL",
 		"description" : "Enjoy up to RM200 OFF Electronics",
@@ -226,16 +235,16 @@
 		"highlight" : "RM120 OFF",
 		"coupon_code" : "*****",
 		"description" : "Save up to RM120 on Office 365 Home and Student 2016",
-		"url": "https://iprice.my/r/c/?_id=43ec6bd3d6419ef8d750c537066244a3577d1d86&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fmicrosoft%2F",
+		"url": "https://iprice.my/coupons/microsoft/?_id=43ec6bd3d6419ef8d750c537066244a3577d1d86&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fmicrosoft%2F",
 		"img": "image/microsoft.jpg",
-		"type" : "direct"
+		"type" : "popup"
    },
    {
 		"title": "YOOX",
-		"highlight" : "FREE Shipping",
-		"coupon_code" : "IPRICEFS",
-		"description" : "MFREE Shipping on YOOX",
-		"url": "https://iprice.my/coupons/yoox/?_id=b3adb4c40f01e36de4677c00152f3a57de6cb8b7&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fyoox%2F",
+		"highlight" : "35% OFF",
+		"coupon_code" : "*****",
+		"description" : "Enjoy an extra 35% Off during 12.12 Sale",
+		"url": "https://iprice.my/coupons/yoox/?_id=0a2a5faa69e39df1473ff72d5a314107cad72de7&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fyoox%2F%3F_id%3Db3adb4c40f01e36de4677c00152f3a57de6cb8b7%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fyoox%252F",
 		"img": "image/yoox.jpg",
 		"type" : "popup"
    },
@@ -247,15 +256,6 @@
 		"url": "https://iprice.my/coupons/expedia/?_id=bdbfa76d5918844da40d23e3afd88665f00d3bf6&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fexpedia%2F%3F_id%3Dbdbfa76d5918844da40d23e3afd88665f00d3bf6%26position%3D2%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fexpedia%252F%253F_id%253D28be63cf9e9f4f4196a1b969a34ad864d457d44f%2526_exit%253D%25252Fcoupons%25252Fexpedia%25252F%25253F_id%25253D28be63cf9e9f4f4196a1b969a34ad864d457d44f%252526position%25253D1%252526sub_product%25253Dcoupon-store%252526_exit%25253D%2525252Fcoupons%2525252Fexpedia%2525252F",
 		"img": "image/expedia.jpg",
 		"type" : "popup"
-   },
-   {
-		"title": "Lazada",
-		"highlight" : "RM5 OFF",
-		"coupon_code" : "TESNES5",
-		"description" : "Receive RM5 OFF Nestle products with min. spend of RM40",
-		"url": "https://iprice.my/coupons/lazada/?_id=653488de06890acb470f985ca3aedabca14b251d&position=9&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F%3F_id%3D653488de06890acb470f985ca3aedabca14b251d%26position%3D9%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Flazada%252F%253F_id%253D2377d3d1c2151913ef666f6fb9f5d18625f57e8a%2526position%253D7%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Flazada%25252F",
-		"img": "image/lazada.jpg",
-		"type" : "popup"	  
    },
    {
 		"title": "YesStyle",
@@ -271,7 +271,7 @@
 		"highlight" : "10% OFF",
 		"coupon_code" : "SAVE10",
 		"description" : "Extra 10% OFF hotel when you book via app",
-		"url": "https://iprice.my/coupons/airasia/?_id=73e982c9d385f0aacbc2480b1620cbc0be8ffead&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fairasia%2F",
+		"url": "https://iprice.my/coupons/airasia/?_id=7b97c90fdab2624000cd61fbd3b254ea61858897&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fairasia%2F%3F_id%3D73e982c9d385f0aacbc2480b1620cbc0be8ffead%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fairasia%252F",
 		"img": "image/airasia.jpg",
 		"type" : "popup"
    },
@@ -279,10 +279,10 @@
 		"title": "Club Med",
 		"highlight" : "45% OFF",
 		"coupon_code" : "*****",
-		"description" : "Up to 45% Off Early Bird Asia deals",
-		"url": "https://iprice.my/r/c/?_id=14947c010f91b6cf01c1938726c1f42a2279de1c&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fclub-med%2F",
+		"description" : "Grab discount up to 45% Off",
+		"url": "https://iprice.my/coupons/club-med/?_id=6420a979de2f2dc94e999c65de51fe4aac65f468&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fclub-med%2F",
 		"img": "image/club-med.jpg",
-		"type" : "direct"
+		"type" : "popup"
    },
    {
 		"title": "KKDay",
@@ -307,17 +307,8 @@
 		"highlight" : "Get RM15",
 		"coupon_code" : "*****",
 		"description" : "Get RM15 coupon with min. spend of RM80",
-		"url": "https://iprice.my/r/c/?_id=ac0928fd22ba4125c9ddcf8cb8cdb15dada0e6e2&_exit=%2Fcoupons%2F11street%2F%3F_id%3Dac0928fd22ba4125c9ddcf8cb8cdb15dada0e6e2%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252F11street%252F",
+		"url": "https://iprice.my/coupons/11street/?_id=ac0928fd22ba4125c9ddcf8cb8cdb15dada0e6e2&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2F11street%2F",
 		"img": "image/11street.jpg",
-		"type" : "direct"
-   },
-   {
-		"title": "Uber",
-		"highlight" : "10 FREE Rides",
-		"coupon_code" : "GOTREC",
-		"description" : "Get 10 FREE rides to TREC KL",
-		"url": "https://iprice.my/coupons/uber/?_id=b3d5bf4f96cc6ab3655563e2f34291be41f0292f&position=6&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F",
-		"img": "image/uber.jpg",
 		"type" : "popup"
    },
    {
