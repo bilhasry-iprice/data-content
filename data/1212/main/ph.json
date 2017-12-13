@@ -142,10 +142,10 @@
    	"coupons" : [
    {
 		"title": "Lazada",
-		"highlight" : "12% OFF",
-		"coupon_code" : "RAPPLER12XMAS",
-		"description" : "Enjoy 12% OFF Sitewide",
-		"url": "https://iprice.ph/coupons/lazada/?_id=7bba4662b07d28ea08043555661011774e5e5af3&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F%3F_id%3D7bba4662b07d28ea08043555661011774e5e5af3%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Flazada%252F%253F_id%253D7bba4662b07d28ea08043555661011774e5e5af3%2526position%253D1%2526sub_product%253Dcoupon-store%2526_exit%253D%25252Fcoupons%25252Flazada%25252F",
+		"highlight" : "50% OFF",
+		"coupon_code" : "*****",
+		"description" : "Save up to 50% off on Mobiles",
+		"url": "https://iprice.ph/coupons/lazada/?_id=cb095b8b120464652fd31bf63c9f1ba06b51a63a&position=4&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
 		"img": "image/lazada.jpg",
 		"type" : "popup"
    },
@@ -217,27 +217,27 @@
 		"highlight" : "FREE Shipping",
 		"coupon_code" : "*****",
 		"description" : "FREE Shipping for orders from P1500",
-		"url": "https://iprice.ph/r/c/?_id=be2a009022e2ad46cfe444770164a520e132e6b6&popup=&_exit=%2Fcoupons%2Fbeauty-mnl%2F%3F_id%3Dbe2a009022e2ad46cfe444770164a520e132e6b6%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fbeauty-mnl%252F",
+		"url": "https://iprice.ph/coupons/beauty-mnl/?_id=be2a009022e2ad46cfe444770164a520e132e6b6&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fbeauty-mnl%2F",
 		"img": "image/beautymnl.jpg",
-		"type" : "direct"
+		"type" : "popup"
    },
    {
 		"title": "Expedia",
 		"highlight" : "10% OFF",
-		"coupon_code" : "required",
+		"coupon_code" : "*****",
 		"description" : "Get extra 10% OFF for BDO customers",
 		"url": "https://iprice.ph/coupons/expedia/?_id=2073e8db6f14f21b70a9c217421f7df23bade037&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fexpedia%2F",
 		"img": "image/expedia.jpg",
-		"type" : "direct"
+		"type" : "popup"
    },
    {
 		"title": "Agoda",
 		"highlight" : "60% OFF",
-		"coupon_code" : "required",
+		"coupon_code" : "*****",
 		"description" : "Save 60% OFF on your trip with Agoda",
 		"url": "https://iprice.ph/coupons/agoda/?_id=3b22f415c876fd82f2e1bc4b71aa87f9079009fe&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fagoda%2F",
 		"img": "image/agoda.jpg",
-		"type" : "direct"
+		"type" : "popup"
    },
    {
 		"title": "Grab",
